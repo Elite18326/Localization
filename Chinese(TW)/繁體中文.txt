@@ -518,14 +518,14 @@ tblidx	wszName	Type
 9927	Kraken Ring Remastered (D)!	ITEM_DATA
 9928	Cell-X Remastered Earrings (A)!	ITEM_DATA
 9929	Cell-X Remastered Earrings (B)!	ITEM_DATA
-9930	Tobi Mask	ITEM_DATA
-9931	Featuring Naruto.	ITEM_DATA
-9932	Mai clothes	ITEM_DATA
-9933	Krillin boo saga clothes	ITEM_DATA
-9934	Xeno Gogeta clothes.	ITEM_DATA
-9935	Android 18 training clothes	ITEM_DATA
-9936	Saiyan Armor Female	ITEM_DATA
-9937	Kairi Clothes	ITEM_DATA
+9930	帶土面具	ITEM_DATA
+9931	(火影忍者聯名款)	ITEM_DATA
+9932	瑪伊服裝	ITEM_DATA
+9933	克林魔人普烏篇服裝	ITEM_DATA
+9934	異戰悟吉塔服裝	ITEM_DATA
+9935	18號訓練服	ITEM_DATA
+9936	女性賽亞戰鬥服	ITEM_DATA
+9937	凱莉服裝	ITEM_DATA
 9938	Edward clothes	ITEM_DATA
 9939	Xeno Trunks clothes	ITEM_DATA
 9940	Vegeta GT clothes	ITEM_DATA
