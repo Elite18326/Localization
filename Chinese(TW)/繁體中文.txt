@@ -509,9 +509,9 @@ tblidx	wszName	Type
 9918	强化保护石 LVL 90!	ITEM_DATA
 9919	LVL UP 85!	ITEM_DATA
 9920	經驗加倍券 1-89!	ITEM_DATA
-9921	賽魯-X 金幣!	ITEM_DATA
-9922	章魚克拉肯 金幣!	ITEM_DATA
-9923	細菌隊長 金幣!	ITEM_DATA
+9921	賽魯-X 硬幣!	ITEM_DATA
+9922	章魚克拉肯 硬幣!	ITEM_DATA
+9923	細菌隊長 硬幣!	ITEM_DATA
 9924	Kraken Ring Remastered (A)!	ITEM_DATA
 9925	Kraken Ring Remastered (B)!	ITEM_DATA
 9926	Kraken Ring Remastered (C)!	ITEM_DATA
@@ -526,47 +526,47 @@ tblidx	wszName	Type
 9935	18號訓練服	ITEM_DATA
 9936	女性賽亞戰鬥服	ITEM_DATA
 9937	凱莉服裝	ITEM_DATA
-9938	Edward clothes	ITEM_DATA
-9939	Xeno Trunks clothes	ITEM_DATA
-9940	Vegeta GT clothes	ITEM_DATA
-9941	Trunks time patroller clothes	ITEM_DATA
-9942	Elizabeth clothes	ITEM_DATA
-9943	Super soldier C clothes	ITEM_DATA
-9944	Android 17 clothes	ITEM_DATA
-9945	Ace clothes	ITEM_DATA
-9990	Super Brolly Movie Outfit	ITEM_DATA
-9991	Super Movie Brolly Clothes..	ITEM_DATA
-10020	Mirai Gohan Outfit	ITEM_DATA
-10021	Used by Gohan in Mirai Trunks Time Line.	ITEM_DATA
-10030	Gohan Super Heroes Outfit	ITEM_DATA
-10031	Gohan Super Beast Outfit.	ITEM_DATA
-10050	Caulifla Outfit	ITEM_DATA
+9938	愛德華服裝	ITEM_DATA
+9939	異戰特南克斯服裝	ITEM_DATA
+9940	GT貝吉塔服裝	ITEM_DATA
+9941	時空巡邏隊特南克斯服裝	ITEM_DATA
+9942	伊莉莎白服裝	ITEM_DATA
+9943	超級士兵C服裝	ITEM_DATA
+9944	17號服裝	ITEM_DATA
+9945	艾斯服裝	ITEM_DATA
+9990	超級布羅利電影版服裝	ITEM_DATA
+9991	超級布羅利電影版服裝	ITEM_DATA
+10020	未來悟飯服裝
+10021	(未來特南克斯時間線專用)	ITEM_DATA
+10030	悟飯超級英雄服裝	ITEM_DATA
+10031	悟飯野獸覺醒服裝	ITEM_DATA
+10050	凱莉芙菈服裝	ITEM_DATA
 10051	Used by Saiyan Caulifla.	ITEM_DATA
-10060	Kale Outfit	ITEM_DATA
+10060	凱爾服裝	ITEM_DATA
 10061	Used by Saiyan Kale.	ITEM_DATA
-10070	Kefla Outfit	ITEM_DATA
+10070	凱芙拉服裝	ITEM_DATA
 10071	Used by Saiyan fused Kefla.	ITEM_DATA
-10170	Shenron Coin	ITEM_DATA
-10171	Can be trade for a Powerful Super Saiyan or Mystical Form with Kami Sama Dende.	ITEM_DATA
-22000	Shinigami Outfit	ITEM_DATA
-22001	Featuring Bleach.	ITEM_DATA
-22010	Neptune Outfit(Female)	ITEM_DATA
-22011	Neptune Dogi.	ITEM_DATA
-22020	Neptune Hair(Female)	ITEM_DATA
-22021	Neptune Hair.	ITEM_DATA
-22030	Damaged Shinigami Outfit	ITEM_DATA
-22031	Ichigo Damaged Clothes	ITEM_DATA
-22040	Beatiful Formal Clothes	ITEM_DATA
-22041	Formal Clothes for Woman.	ITEM_DATA
+10170	神龍硬幣	ITEM_DATA
+10171	可向天神丹迪兌換強力超級賽亞人或神秘形態	ITEM_DATA
+22000	死神服裝	ITEM_DATA
+22001	(死神BLEACH聯名款)	ITEM_DATA
+22010	海王星服裝(女)	ITEM_DATA
+22011	海王星道服	ITEM_DATA
+22020	海王星髮型(女)	ITEM_DATA
+22021	海王星髮型	ITEM_DATA
+22030	破損死神裝	ITEM_DATA
+22031	一護破損服裝	ITEM_DATA
+22040	華麗禮服	ITEM_DATA
+22041	女性正式禮服	ITEM_DATA
 49990	不明物質	ITEM_DATA
 49991	混合膠囊失敗時生成的怪異物質。	ITEM_DATA
 92050	力量寶箱 A	ITEM_DATA
-92051	?悍寶箱 A	ITEM_DATA
+92051	強悍寶箱 A	ITEM_DATA
 92052	華麗寶箱 A	ITEM_DATA
-92053	神?寶箱 A	ITEM_DATA
+92053	神秘寶箱 A	ITEM_DATA
 92054	老舊寶箱	ITEM_DATA
-92055	寶物?匙	ITEM_DATA
-92056	一般?匙	ITEM_DATA
+92055	寶物鑰匙	ITEM_DATA
+92056	一般鑰匙	ITEM_DATA
 92057	力量寶箱 B	ITEM_DATA
 92058	力量寶箱 C	ITEM_DATA
 92059	強悍寶箱 B	ITEM_DATA
@@ -579,13 +579,13 @@ tblidx	wszName	Type
 92066	強悍寶箱 D	ITEM_DATA
 92067	華麗寶箱 D	ITEM_DATA
 92068	神祕寶箱 D	ITEM_DATA
-99161	a stone used to enhance your weapons.	ITEM_DATA
-99162	a stone used to enhance your armors.	ITEM_DATA
-99163	a stone that guarantees protection for your equipment	ITEM_DATA
-99164	use to gain level 85!	ITEM_DATA
-99165	use this scroll to gain 200% xp for one hour!	ITEM_DATA
-99166	Used to Get Super Saiyan 2.	ITEM_DATA
-99167	Used to Get Others Transformations.	ITEM_DATA
+99161	用來強化武器的石頭	ITEM_DATA
+99162	用來強化防具的石頭	ITEM_DATA
+99163	用來保護強化裝備的石頭	ITEM_DATA
+99164	使用它來提升等級至85!	ITEM_DATA
+99165	使用卷軸來獲得 200% 經驗加成(1小時)!	ITEM_DATA
+99166	使用它來獲得超級賽亞人2	ITEM_DATA
+99167	使用它來獲得其他變身	ITEM_DATA
 99168	a currency given to players who have completed the Bakterian Dungeon, used to exchange for rewards	ITEM_DATA
 99169	a doji inspired by the character mai, dragon ball classic	ITEM_DATA
 99170	kuririn's doji used in the boo saga	ITEM_DATA
@@ -593,7 +593,7 @@ tblidx	wszName	Type
 99172	Created by Ryo, Kunay, Takashi and Tobi	ITEM_DATA
 99173	Created by Ryo, Kunay, Takashi and Tobi	ITEM_DATA
 99174	Created by Ryo, Kunay, Takashi and Tobi	ITEM_DATA
-99175	a doji inspired by Edward from full metal alchemist	ITEM_DATA
+99175	來自鋼之煉金術師	ITEM_DATA
 99176	Created by Ryo, Kunay, Takashi and Tobi	ITEM_DATA
 99177	...	ITEM_DATA
 99178	Created by Ryo, Kunay, Takashi and Tobi	ITEM_DATA
@@ -10563,11 +10563,11 @@ tblidx	wszName	Type
 5628021	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
 5628030	戰鬥套裝火力全開(鞋) H	ITEM_DATA
 5628031	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
-5628510	Galactic Combat Gear (Top) H	ITEM_DATA
+5628510	銀河戰鬥服(上) H	ITEM_DATA
 5628511	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5628520	Galactic Combat Gear (Pants) H	ITEM_DATA
+5628520	銀河戰鬥服(下) H	ITEM_DATA
 5628521	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5628530	Galactic Combat Gear (Shoes) H	ITEM_DATA
+5628530	銀河戰鬥服(鞋) H	ITEM_DATA
 5628531	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
 5630010	修行者氣功服（上）EX	ITEM_DATA
 5630011	開始修行的氣功師初次穿的氣功服。輕盈且移動方便。	ITEM_DATA
@@ -11271,11 +11271,11 @@ tblidx	wszName	Type
 5658021	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
 5658030	戰鬥套裝火力全開(鞋) N	ITEM_DATA
 5658031	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
-5658510	Galactic Combat Gear (Top) N	ITEM_DATA
+5658510	銀河戰鬥服(上) N	ITEM_DATA
 5658511	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5658520	Galactic Combat Gear (Pants) N	ITEM_DATA
+5658520	銀河戰鬥服(下) N	ITEM_DATA
 5658521	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5658530	Galactic Combat Gear (Shoes) N	ITEM_DATA
+5658530	銀河戰鬥服(鞋) N	ITEM_DATA
 5658531	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
 5660010	修行者龍戰服（上）EX	ITEM_DATA
 5660011	初踏上修行之路的那美克龍族穿著的龍戰服。輕盈且移動\n方便。	ITEM_DATA
@@ -11763,11 +11763,11 @@ tblidx	wszName	Type
 5678021	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
 5678030	戰鬥套裝火力全開(鞋) M	ITEM_DATA
 5678031	以弗里札軍的球形戰鬥套裝為基礎\n採用了構造精緻且\n高戰鬥力的套裝	ITEM_DATA
-5678510	Galactic Combat Gear (Top) M	ITEM_DATA
+5678510	銀河戰鬥服(上) M	ITEM_DATA
 5678511	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5678520	Galactic Combat Gear(Pants) M	ITEM_DATA
+5678520	銀河戰鬥服(下) M	ITEM_DATA
 5678521	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
-5678530	Galactic Combat Gear (Shoes) M	ITEM_DATA
+5678530	銀河戰鬥服(鞋) M	ITEM_DATA
 5678531	Galactic Combat Gear with improved air flow to help within the fight.	ITEM_DATA
 5680010	初心者魔衣（上）EX	ITEM_DATA
 5680011	剛出道的意魔人一開始穿的糖衣。考慮到新手的角度，以\n方便移動為重點。	ITEM_DATA
@@ -39338,47 +39338,47 @@ tblidx	wszName	Type
 29007871	使用CC競技副本攻略可獲得的特別紀念幣，\n可用來兌換CC競技副本道具。	ITEM_DATA
 29007880	下級 CCBD 生存禮盒	ITEM_DATA
 29007881	裝著CCBD專用藥水的禮盒。為了幫助CCBD的進行而設計的。希望能幫助你輕易完成CCBD。	ITEM_DATA
-29008000	U70武器升级石[1x]	ITEM_DATA
+29008000	U70 武器升級石[1x]	ITEM_DATA
 29008001	将这块石头交给升级商人，升级你的武器1。该物品在使用后会消失。可以用来升级1-70级武器。	ITEM_DATA
-29008010	U70 护甲升级石[1x]	ITEM_DATA
+29008010	U70 防具升級石[1x]	ITEM_DATA
 29008011	将这块石头交给升级商人，升级你的护甲1。该物品在使用后会消失。可以用来升级1-70级护甲。	ITEM_DATA
-29009010	EXP升压(1-30及) [1个小时] 	ITEM_DATA
+29009010	EXP升級卷軸(1-30級) [1个小时] 	ITEM_DATA
 29009011	只能在1-30级时使用,所有从杀戮怪物获得的EXP增加200％。	ITEM_DATA
-29009020	EXP升压(1-59及) [1个小时] 	ITEM_DATA
+29009020	EXP升級卷軸(1-59級) [1个小时] 	ITEM_DATA
 29009021	只能在1-59级时使用,所有从杀戮怪物获得的EXP增加200％。	ITEM_DATA
-29009030	EXP升压(1-69及) [1个小时] 	ITEM_DATA
+29009030	EXP升級卷軸(1-69級) [1个小时] 	ITEM_DATA
 29009031	只能在1-69级时使用,所有从杀戮怪物获得的EXP增加200％。	ITEM_DATA
-29010010	Rare Dogi Property Ball	ITEM_DATA
+29010010	稀有道服屬性珠	ITEM_DATA
 29010011	Properties can be added to your Dogi \nto make it even more worth to wear.	ITEM_DATA
-29011010	牛仔配备	ITEM_DATA
+29011010	牛仔服裝	ITEM_DATA
 29011011	一个伟大的风格的服装。 让你感觉像一个真正的牛仔！	ITEM_DATA
-29011020	CC Engineer Outfit	ITEM_DATA
+29011020	CC工程師服裝	ITEM_DATA
 29011021	Capsule Corp uniform wore by the staff of\nthe company. Staff engineers wear it.	ITEM_DATA
-29011030	CC Field Engineer Trainee Outfit	ITEM_DATA
+29011030	CC戰場工程實習裝	ITEM_DATA
 29011031	Capsule Corp uniform wore by the staff of\nthe company. Staff engineers wear it. \nTrunks's Outfit looks very similar to this.	ITEM_DATA
-29011040	仙子的翅膀	ITEM_DATA
+29011040	仙子翅膀	ITEM_DATA
 29011041	真正的仙子翅膀的复制品。传言说在\nbe弥次郎兵卫的草原上会找得到	ITEM_DATA
-29011050	龟壳	ITEM_DATA
+29011050	龜殼	ITEM_DATA
 29011051	有一种暗黑色调	ITEM_DATA
-29011060	炸锅	ITEM_DATA
+29011060	炸鍋	ITEM_DATA
 29011061	平时，这个炸锅的用意在厨房里，不过也应该是个很优雅的时尚配饰	ITEM_DATA
 29011070	豆罐	ITEM_DATA
 29011071	豆罐里面的豆子的质地被认为是未煮熟的（或成熟）的豆子还有芹菜茎的质地。弥次郎兵卫说那那些豆子有一点鱼肉的口味	ITEM_DATA
-29011080	CC-喷气包配备 （Type-A）	ITEM_DATA
+29011080	CC-噴射背包 （Type-A）	ITEM_DATA
 29011081	穿着这件配备会让你觉得你可以像火箭一样快。	ITEM_DATA
 29011090	商家的商品背包	ITEM_DATA
 29011091	商家用它来运送他们的物资,也可以用作时尚配饰	ITEM_DATA
-29011100	CC-喷气包配备 （Type-B）	ITEM_DATA
+29011100	CC-噴射背包 （Type-B）	ITEM_DATA
 29011101	穿着这件配备会让你觉得你可以像火箭一样快。	ITEM_DATA
-29011110	CC-喷气包配备 （Type-C）	ITEM_DATA
+29011110	CC-噴射背包 （Type-C）	ITEM_DATA
 29011111	穿着这件配备会让你觉得你可以像火箭一样快。	ITEM_DATA
-29011120	CC-喷气包配备 （Type-D）	ITEM_DATA
+29011120	CC-噴射背包 （Type-D）	ITEM_DATA
 29011121	穿着这件配备会让你觉得你可以像火箭一样快。	ITEM_DATA
-29011130	毛茸茸军帽	ITEM_DATA
+29011130	毛茸茸軍帽	ITEM_DATA
 29011131	这个帽子被国王毛茸茸的军队士兵带的，有不同的颜色	ITEM_DATA
-29011140	弗列萨的头盔	ITEM_DATA
+29011140	弗力札頭盔	ITEM_DATA
 29011141	平时这种的头盔被弗列萨的军队在飞船去到那美克星里带的	ITEM_DATA
-29011150	神秘的战士面具	ITEM_DATA
+29011150	神秘的戰士面具	ITEM_DATA
 29011151	没人知道神秘的战士面具的起源，它被宇宙中最强大和最强大的恶棍所使用	ITEM_DATA
 29011160	猛犸角角帽	ITEM_DATA
 29011161	人形面貌牛角的模仿	ITEM_DATA
@@ -39480,15 +39480,15 @@ tblidx	wszName	Type
 29011641	穿着最强壮的战士！	ITEM_DATA
 29011650	庭院鼠星人配备（原版的）	ITEM_DATA
 29011651	其中原始的庭院鼠星人装备，孙悟空穿着当他在地球上降落时	ITEM_DATA
-29011660	性别变化书	ITEM_DATA
+29011660	性別變化書	ITEM_DATA
 29011661	这个产品让你的人物性别变化，你用性别变化书之后要重新记录让你看看性别变化的结果	ITEM_DATA
-29011680	Level Up 70!	ITEM_DATA
+29011680	等級提升70!	ITEM_DATA
 29011681	Increase character level to 70.	ITEM_DATA
-29011690	Rare Dogi Property Ball[5x]	ITEM_DATA
+29011690	稀有道服屬性珠[5x]	ITEM_DATA
 29011691	Properties can be added to your Dogi.\nBut can also fail and no stats will be applied.\nThere is a 20% chance to fail.	ITEM_DATA
-29011700	Special Equipment Box[10x]	ITEM_DATA
+29011700	特殊屬性盒[10x]	ITEM_DATA
 29011701	Chooseable restructuring the states from your item.\nWork on Weapon and Gear.	ITEM_DATA
-29011710	Special Equipment Box 100%	ITEM_DATA
+29011710	特殊屬性盒 100%	ITEM_DATA
 29011711	Chooseable restructuring the states from your item.\nWork on Weapon and Gear.	ITEM_DATA
 29012030	CC Staff Outfit (Yellow)	ITEM_DATA
 29012040	CC Staff Outfit (Green)	ITEM_DATA
@@ -41886,18 +41886,18 @@ tblidx	wszName	Type
 70000991	為了製造失敗的勇士們所準備的安慰箱子。\n可以獲得零式防具材料。	ITEM_DATA
 70001000	零式武器材料箱	ITEM_DATA
 70001001	為了製造失敗的勇士們所準備的安慰箱子。\n可以獲得零式防具材料。	ITEM_DATA
-70001010	Pandora's Capsule Lv31 (CC155 Reward)	ITEM_DATA
+70001010	潘朵拉膠囊Lv31(CC155獎勵)	ITEM_DATA
 70001011	Reward designed for completing KnightZ new Floor 155.(31)	ITEM_DATA
-70001020	Pandora's Capsule Lv32 (CC160 Reward)	ITEM_DATA
+70001020	潘朵拉膠囊Lv32(CC160獎勵)	ITEM_DATA
 70001021	Reward designed for completing KnightZ new Floor 160.(32)	ITEM_DATA
-70001030	Pandora's Capsule Lv33 (CC165 Reward)	ITEM_DATA
+70001030	潘朵拉膠囊Lv33(CC165獎勵)	ITEM_DATA
 70001031	Reward designed for completing KnightZ new Floor 165.(33)	ITEM_DATA
-70001040	Pandora's Capsule Lv34 (CC170 Reward)	ITEM_DATA
+70001040	潘朵拉膠囊Lv34(CC170獎勵)	ITEM_DATA
 70001041	Reward designed for completing KnightZ new Floor 170.(34)	ITEM_DATA
-70001050	Pandora's Capsule Lv35 (CC175 Reward)	ITEM_DATA
+70001050	潘朵拉膠囊Lv35(CC175獎勵)	ITEM_DATA
 70001051	Reward designed for completing KnightZ new Floor 175.(35)	ITEM_DATA
-70001060	Founder box	ITEM_DATA
-70001061	Contains:\n 1 LVL UP 70 \n 250 CCCoins \n 1 TitleFounder\n 250xUpgradeStones all (armor weapon white) \n 1x ticket+15(3 days)(1armor)(1weapon) \n 20x SilverBox \n 20xLegendarydogi ball	ITEM_DATA
+70001060	創始者禮盒	ITEM_DATA
+70001061	內容包含：\n・70級直升券x1\n・CC幣x250\n・創始者稱號x1\n・全類升級石x250(防具/武器/通用)\n・+15強化券(3天)x1(防具1/武器1)\n・銀色寶箱x20\n・傳說道服珠x20	ITEM_DATA
 70002130	Hair used by the celestial mage Lucy, one of the strongest members of Fairy Tail.	ITEM_DATA
 70002140	Hair used by the strongest mage of Fairy Tail, Erza! Her enemies flee just at the sight of this armor.	ITEM_DATA
 70002150	Used by DragonSlayer Natsu, the son of a Dragon.	ITEM_DATA
@@ -42895,42 +42895,42 @@ tblidx	wszName	Type
 70015081	CC所設計的戰鬥套裝. 大量爆發性逼出體內的氣\n以強化多樣化戰鬥力,相當適合大魔人所裝備的服裝.	ITEM_DATA
 70015090	火炎波鞋	ITEM_DATA
 70015091	CC所設計的戰鬥套裝. 幫助氣的流動且能夠瞬間爆發\n提高遠距離戰鬥力的意魔人戰鬥服.	ITEM_DATA
-70015100	CCBD 175 Ice Top (P Def)	ITEM_DATA
-70015101	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015110	CCBD 175 Ice Top (E Def)	ITEM_DATA
-70015111	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015120	CCBD 175 Ice Top (P Def)	ITEM_DATA
-70015121	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015130	CCBD 175 Ice Top (E Def)	ITEM_DATA
-70015131	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015140	CCBD 175 Ice Top (E Def)	ITEM_DATA
-70015141	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015150	CCBD 175 Ice Top (P Def)	ITEM_DATA
-70015151	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015160	CCBD 175 Ice Pants (P Def)	ITEM_DATA
-70015161	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015170	CCBD 175 Ice Pants (E Def)	ITEM_DATA
-70015171	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015180	CCBD 175 Ice Pants (P Def)	ITEM_DATA
-70015181	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015190	CCBD 175 Ice Pants (E Def)	ITEM_DATA
-70015191	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015200	CCBD 175 Ice Pants (E Def)	ITEM_DATA
-70015201	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015210	CCBD 175 Ice Pants (P Def)	ITEM_DATA
-70015211	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015220	CCBD 175 Ice Boots (P Def)	ITEM_DATA
-70015221	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015230	CCBD 175 Ice Boots (E Def)	ITEM_DATA
-70015231	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015240	CCBD 175 Ice Boots (P Def)	ITEM_DATA
-70015241	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015250	CCBD 175 Ice Boots (E Def)	ITEM_DATA
-70015251	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015260	CCBD 175 Ice Boots (E Def)	ITEM_DATA
-70015261	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
-70015270	CCBD 175 Ice Boots (P Def)	ITEM_DATA
-70015271	Designed by Capsule Corp team once they discovered CC175.\nHighly engineered Ice design!	ITEM_DATA
+70015100	CCBD 175冰霜上衣(物防)	ITEM_DATA
+70015101	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015110	CCBD 175冰霜上衣(氣防)	ITEM_DATA
+70015111	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015120	CCBD 175冰霜上衣(物防)	ITEM_DATA
+70015121	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015130	CCBD 175冰霜上衣(氣防)	ITEM_DATA
+70015131	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015140	CCBD 175冰霜上衣(氣防)	ITEM_DATA
+70015141	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015150	CCBD 175冰霜上衣(物防)	ITEM_DATA
+70015151	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015160	CCBD 175冰霜長褲(物防)	ITEM_DATA
+70015161	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015170	CCBD 175冰霜長褲(氣防)	ITEM_DATA
+70015171	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015180	CCBD 175冰霜長褲(物防)	ITEM_DATA
+70015181	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015190	CCBD 175冰霜長褲(氣防)	ITEM_DATA
+70015191	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015200	CCBD 175冰霜長褲(氣防)	ITEM_DATA
+70015201	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015210	CCBD 175冰霜長褲(物防)	ITEM_DATA
+70015211	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015220	CCBD 175冰霜戰靴(物防)	ITEM_DATA
+70015221	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015230	CCBD 175冰霜戰靴(氣防)	ITEM_DATA
+70015231	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015240	CCBD 175冰霜戰靴(物防)	ITEM_DATA
+70015241	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015250	CCBD 175冰霜戰靴(氣防)	ITEM_DATA
+70015251	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015260	CCBD 175冰霜戰靴(氣防)	ITEM_DATA
+70015261	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
+70015270	CCBD 175冰霜戰靴(物防)	ITEM_DATA
+70015271	由膠囊公司團隊發現CC175後設計\n高科技冰霜造型！	ITEM_DATA
 70030010	超越時空券 (6樓)	ITEM_DATA
 70030011	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
 70030020	超越時空券 (11樓)	ITEM_DATA
@@ -43021,13 +43021,13 @@ tblidx	wszName	Type
 70030441	組合最高級CC戰鬥副本道具所需的 \n組合工具零件的伽瑪迴路儀錶板。	ITEM_DATA
 70030450	CC戰鬥祝福的紅寶石	ITEM_DATA
 70030451	送給完成CC戰鬥副本150層勇士的祝福寶石。\n可以稱號箱子換取。	ITEM_DATA
-70030460	CC Blessed Shiny Ruby	ITEM_DATA
+70030460	CC祝福紅寶石	ITEM_DATA
 70030461	Rewarded for completing CCBD 35F.\nCan be exchanged for special titles and Armor.	ITEM_DATA
-70030560	CC Blessed Blue Ruby	ITEM_DATA
-70030570	CC Epic Beta Circuit	ITEM_DATA
-70030580	CC Beta Circuit One	ITEM_DATA
-70030590	CCBD Tradable Coupon	ITEM_DATA
-70030591	This coupon is awarded if the final CCBD floor is cleared.\nIt can be used to assist players to purchase high-end ccbd items which can\nonly otherwise be obtained by doing CCBD.	ITEM_DATA
+70030560	CC祝福藍寶石	ITEM_DATA
+70030570	CC史詩Beta電路	ITEM_DATA
+70030580	CC Beta電路一型	ITEM_DATA
+70030590	CCBD交易券	ITEM_DATA
+70030591	此券為通關CCBD最終層獎勵\n可用於協助玩家購買高階CCBD物品\n(通常需通過CCBD才能獲得)	ITEM_DATA
 70040610	時空超越券 (61層)	ITEM_DATA
 70040611	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
 70040660	時空超越券 (66層)	ITEM_DATA
@@ -43447,41 +43447,41 @@ tblidx	wszName	Type
 70055261	可以知道火炎強化鞋材料與混合方法的配方	ITEM_DATA
 70055270	火炎波鞋配方	ITEM_DATA
 70055271	可以知道火炎波鞋材料與混合方法的配方	ITEM_DATA
-70055280	CCBD 175 Top Recipe (Physical-Human)	ITEM_DATA
+70055280	CCBD 175上衣配方(物防-人類)	ITEM_DATA
 70055281	...	ITEM_DATA
-70055290	CCBD 175 Top Recipe (Energy-Human)	ITEM_DATA
+70055290	CCBD 175上衣配方(氣防-人類)	ITEM_DATA
 70055291	...	ITEM_DATA
-70055300	CCBD 175 Top Recipe (Physical-Namek)	ITEM_DATA
+70055300	CCBD 175上衣配方(物防-那美克星人)	ITEM_DATA
 70055301	...	ITEM_DATA
-70055310	CCBD 175 Top Recipe (Energy-Namek)	ITEM_DATA
+70055310	CCBD 175上衣配方(氣防-那美克星人)	ITEM_DATA
 70055311	...	ITEM_DATA
-70055320	CCBD 175 Top Recipe (Energy-Majin)	ITEM_DATA
+70055320	CCBD 175上衣配方(氣防-魔人)	ITEM_DATA
 70055321	...	ITEM_DATA
-70055330	CCBD 175 Top Recipe (Physical-Majin)	ITEM_DATA
+70055330	CCBD 175上衣配方(物防-魔人)	ITEM_DATA
 70055331	...	ITEM_DATA
-70055340	CCBD 175 Pants Recipe (Physical-Human)	ITEM_DATA
+70055340	CCBD 175長褲配方(物防-人類)	ITEM_DATA
 70055341	..	ITEM_DATA
-70055350	CCBD 175 Pants Recipe (Energy-Human)	ITEM_DATA
+70055350	CCBD 175長褲配方(氣防-人類)	ITEM_DATA
 70055351	..	ITEM_DATA
-70055360	CCBD 175 Pants Recipe (Physical-Namek)	ITEM_DATA
+70055360	CCBD 175長褲配方(物防-那美克星人)	ITEM_DATA
 70055361	...	ITEM_DATA
-70055370	CCBD 175 Pants Recipe (Energy-Namek)	ITEM_DATA
+70055370	CCBD 175長褲配方(氣防-那美克星人)	ITEM_DATA
 70055371	..	ITEM_DATA
-70055380	CCBD 175 Pants Recipe (Energy-Majin)	ITEM_DATA
+70055380	CCBD 175長褲配方(氣防-魔人)	ITEM_DATA
 70055381	...	ITEM_DATA
-70055390	CCBD 175 Pants Recipe (Physical-Majin)	ITEM_DATA
+70055390	CCBD 175長褲配方(物防-魔人)	ITEM_DATA
 70055391	...	ITEM_DATA
-70055400	CCBD 175 Boots Recipe (Physical-Human)	ITEM_DATA
+70055400	CCBD 175戰靴配方(物防-人類)	ITEM_DATA
 70055401	..	ITEM_DATA
-70055410	CCBD 175 Boots Recipe (Energy-Human)	ITEM_DATA
+70055410	CCBD 175戰靴配方(氣防-人類)	ITEM_DATA
 70055411	...	ITEM_DATA
-70055420	CCBD 175 Boots Recipe (Physical-Namek)	ITEM_DATA
+70055420	CCBD 175戰靴配方(物防-那美克星人)	ITEM_DATA
 70055421	..	ITEM_DATA
-70055430	CCBD 175 Boots Recipe (Energy-Namek)	ITEM_DATA
+70055430	CCBD 175戰靴配方(氣防-那美克星人)	ITEM_DATA
 70055431	..	ITEM_DATA
-70055440	CCBD 175 Boots Recipe (Energy-Majin)	ITEM_DATA
+70055440	CCBD 175戰靴配方(氣防-魔人)	ITEM_DATA
 70055441	...	ITEM_DATA
-70055450	CCBD 175 Boots Recipe (Physical-Majin)	ITEM_DATA
+70055450	CCBD 175戰靴配方(物防-魔人)	ITEM_DATA
 70055451	...	ITEM_DATA
 70060010	反擊球控制器	ITEM_DATA
 70060011	充滿複雜數據的外星人電腦.	ITEM_DATA
@@ -43500,95 +43500,95 @@ tblidx	wszName	Type
 70080020	反擊球路徑零件	ITEM_DATA
 70080021	不知名材質製造的外星金屬結構碎片.	ITEM_DATA
 70080030	反擊球引擎零件	ITEM_DATA
-80000080	SharinDrums	ITEM_DATA
-80000081	A very Powerfull Drums	ITEM_DATA
-80000140	Magic Majin Tromps	ITEM_DATA
-80000141	A Magic Metalic Weapon	ITEM_DATA
-80000170	Mecha Freeza Mask	ITEM_DATA
-80000171	A Part of Mecha Freeza	ITEM_DATA
-80000590	Dragon Shen Armor	ITEM_DATA
-80000591	Represents a Dragon Ball Armor	ITEM_DATA
-80000600	Dragon Shen Pants	ITEM_DATA
-80000601	Represents a Dragon Ball Pants	ITEM_DATA
-80000610	Dragon Shen Boots	ITEM_DATA
-80000611	Represents a Dragon Ball Boots	ITEM_DATA
-80000650	Dragon Shen Armor	ITEM_DATA
-80000651	Represents a Dragon Ball Armor	ITEM_DATA
-80000660	Dragon Shen Pants	ITEM_DATA
-80000661	Represents a Dragon Ball Pants	ITEM_DATA
-80000670	Dragon Shen Boots	ITEM_DATA
-80000671	Represents a Dragon Ball Boots	ITEM_DATA
-80000710	Dragon Shen Armor	ITEM_DATA
-80000711	Represents a Dragon Ball Armor	ITEM_DATA
-80000720	Dragon Shen Pants	ITEM_DATA
-80000721	Represents a Dragon Ball Pants	ITEM_DATA
-80000730	Dragon Shen Boots	ITEM_DATA
-80000731	Represents a Dragon Ball Boots	ITEM_DATA
-99199919	Class Change	ITEM_DATA
-99199920	Use it to reset your Skill Points and Change your Class!	ITEM_DATA
-99199921	Gunbai Transmog	ITEM_DATA
-99199922	A look at the powerful Gunbai, a weapon used by Uchiha Madara	ITEM_DATA
-99199923	Angel Staff Transmog (Turtle)	ITEM_DATA
-99199924	Used by Whis in Dragon Ball Super	ITEM_DATA
-99199925	Zangetsu Transmog	ITEM_DATA
-99199926	Used by Substitute Shinigami Kurosaki Ichigo, a living sword.	ITEM_DATA
-99199927	Jashin's Scythe Transmog (Fighter)	ITEM_DATA
-99199928	Used by Hidan in the Akatsuki organization.	ITEM_DATA
-99199929	Juinjutsu Wings Transmog	ITEM_DATA
-99199930	Wing that was used by Sasuke while using the powers of the Curse Mark	ITEM_DATA
-99199931	Cloud Drum Transmog	ITEM_DATA
-99199932	3 drums that carry the power of the heavens	ITEM_DATA
-99199933	Majora`s Mask Transmog	ITEM_DATA
-99199934	A very powerful mask used by the Skull Kid in Termina.	ITEM_DATA
-99199935	Majora`s Mask Transmog	ITEM_DATA
-99199936	A very powerful mask used by the Skull Kid in Termina.	ITEM_DATA
-99199937	Fukasaku and Shima Transmog	ITEM_DATA
-99199938	Powerful ancient toads that reside on Mount Myoboku.	ITEM_DATA
-99199939	Candy Apple Transmog	ITEM_DATA
-99199940	A delicious Candy Apple	ITEM_DATA
-99199941	Dragon Scroll Transmog	ITEM_DATA
-99199942	A Scroll with the powers of the Dragon	ITEM_DATA
-99199943	Flute Transmog	ITEM_DATA
-99199944	A Powerful Flute	ITEM_DATA
-99199945	Android 21 Hair	ITEM_DATA
-99199946	A beautiful mechanical hair of Android 21	ITEM_DATA
-99199947	Imperial Spear Transmog (Fighter)	ITEM_DATA
-99199948	A spear used by the emperor himself.	ITEM_DATA
-99199949	MM Wand (Turtle)	ITEM_DATA
-99199950	Walt Transmog	ITEM_DATA
-99199951	Mihawk Sword Transmog (Sword)	ITEM_DATA
-99199952	Used by the world's greatest swordsman on the seas of the Grand Line in One Piece	ITEM_DATA
-99199953	Kirito Sword Transmog (Sword)	ITEM_DATA
-99199954	Used by the greatest Beatter, Kirigaya Kazuto.	ITEM_DATA
-99199955	Giant Folding Fan Transmog (Crane)	ITEM_DATA
-99199956	Fan used by Temari in Naruto.	ITEM_DATA
-99199957	Anbu Mask Transmog (Karma)	ITEM_DATA
-99199958	Used by high-ranking Ninjas who protect the Hokage.	ITEM_DATA
-99199959	Blazing Bloodthirsty Axe Transmog (SK)	ITEM_DATA
-99199960	An axe from whose handle one can sense danger. This short axe, crafted entirely from a special metal, is capable of fully transmitting powerful strikes.	ITEM_DATA
-99199961	Rest Scroll Transmog (Dende)	ITEM_DATA
-99199962	Popo Gem Transmog (Poko)	ITEM_DATA
-99199963	Ancestral Trumpet Transmog (Ult)	ITEM_DATA
-99199964	God Claws Transmog (DW)	ITEM_DATA
-99199965	God Oracle Axe R Transmog (SK)	ITEM_DATA
-99199966	Magic Stick Transmog (Fighter)	ITEM_DATA
-99199967	Trunks Sword Transmog (Sword)	ITEM_DATA
-99199968	Master Roshi Wand Transmog (Turtle)	ITEM_DATA
-99199969	BashoFan Transmog (Crane)	ITEM_DATA
-99199970	Magic Wok Transmog (Chieff)	ITEM_DATA
-99199971	Popo Drum Transmog (Plasma)	ITEM_DATA
-99199972	Hero Mask Transmog (Karma)	ITEM_DATA
-99914811	Kurosaki Ichigo Quincy Zampakuto!	ITEM_DATA
-99930149	Zangetsu	ITEM_DATA
-99990000	Super Saiyan 3	ITEM_DATA
-99990001	Martial Super Saiyan 3	ITEM_DATA
-99990002	Spiritualist Super Saiyan 3	ITEM_DATA
-99990003	Might Bootenks	ITEM_DATA
-99990004	Wonder Bootenks	ITEM_DATA
-99990005	Warrior Dark Namek	ITEM_DATA
-99990006	Dragon Dark Namek	ITEM_DATA
-99999000	Martial Legendary Super Saiyan	ITEM_DATA
-99999001	Spiritualist Legendary Super Saiyan	ITEM_DATA
+80000080	輪鼓	ITEM_DATA
+80000081	威力強大的戰鼓	ITEM_DATA
+80000140	魔人號角	ITEM_DATA
+80000141	魔法金屬武器	ITEM_DATA
+80000170	機械弗力札面具	ITEM_DATA
+80000171	機械弗力札的部件	ITEM_DATA
+80000590	神龍戰甲	ITEM_DATA
+80000591	代表龍珠的戰甲	ITEM_DATA
+80000600	神龍長褲	ITEM_DATA
+80000601	代表龍珠的長褲	ITEM_DATA
+80000610	神龍戰靴	ITEM_DATA
+80000611	代表龍珠的戰靴	ITEM_DATA
+80000650	神龍戰甲	ITEM_DATA
+80000651	代表龍珠的戰甲	ITEM_DATA
+80000660	神龍長褲	ITEM_DATA
+80000661	代表龍珠的長褲	ITEM_DATA
+80000670	神龍戰靴	ITEM_DATA
+80000671	代表龍珠的戰靴	ITEM_DATA
+80000710	神龍戰甲	ITEM_DATA
+80000711	代表龍珠的戰甲	ITEM_DATA
+80000720	神龍長褲	ITEM_DATA
+80000721	代表龍珠的長褲	ITEM_DATA
+80000730	神龍戰靴	ITEM_DATA
+80000731	代表龍珠的戰靴	ITEM_DATA
+99199919	職業轉換券	ITEM_DATA
+99199920	使用後可重置技能點數並轉換職業！	ITEM_DATA
+99199921	軍配團扇造型	ITEM_DATA
+99199922	宇智波斑使用的強大武器	ITEM_DATA
+99199923	天使之杖造型(龜仙流)	ITEM_DATA
+99199924	維斯在龍珠超中使用	ITEM_DATA
+99199925	斬月造型	ITEM_DATA
+99199926	死神代理黑崎一護使用的活劍	ITEM_DATA
+99199927	邪神鐮刀造型(格鬥家)	ITEM_DATA
+99199928	曉組織飛段使用的武器	ITEM_DATA
+99199929	咒印翅膀造型	ITEM_DATA
+99199930	佐助使用咒印力量時的翅膀	ITEM_DATA
+99199931	雲鼓造型	ITEM_DATA
+99199932	蘊含天界之力的三面鼓	ITEM_DATA
+99199933	魔吉拉面具造型	ITEM_DATA
+99199934	骷髏少年在終焉之地使用的強大面具	ITEM_DATA
+99199935	魔吉拉面具造型	ITEM_DATA
+99199936	骷髏少年在終焉之地使用的強大面具	ITEM_DATA
+99199937	深作志麻造型	ITEM_DATA
+99199938	棲息在妙木山的強大古老蛤蟆	ITEM_DATA
+99199939	糖蘋果造型	ITEM_DATA
+99199940	美味的糖蘋果	ITEM_DATA
+99199941	龍族卷軸造型	ITEM_DATA
+99199942	蘊含龍之力的卷軸	ITEM_DATA
+99199943	長笛造型	ITEM_DATA
+99199944	強大的長笛	ITEM_DATA
+99199945	人造人21號髮型	ITEM_DATA
+99199946	人造人21號的美麗機械髮型	ITEM_DATA
+99199947	帝王之矛造型(格鬥家)	ITEM_DATA
+99199948	皇帝親自使用的長矛	ITEM_DATA
+99199949	米老鼠短棍(龜仙流)	ITEM_DATA
+99199950	沃特造型	ITEM_DATA
+99199951	密佛格劍造型(劍)	ITEM_DATA
+99199952	海賊王世界最強劍豪使用的劍	ITEM_DATA
+99199953	桐人劍造型(劍)	ITEM_DATA
+99199954	最強玩家桐谷和人使用的劍	ITEM_DATA
+99199955	巨型折扇造型(鶴仙流)	ITEM_DATA
+99199956	火影忍者中手鞠使用的扇子	ITEM_DATA
+99199957	暗部面具造型(因果)	ITEM_DATA
+99199958	保護火影的高階忍者使用的面具	ITEM_DATA
+99199959	嗜血戰斧造型(SK)	ITEM_DATA
+99199960	能從握柄感受到危險的短斧，由特殊金屬打造，能完全傳導強大攻擊	ITEM_DATA
+99199961	休息卷軸造型(丹迪)	ITEM_DATA
+99199962	波波寶石造型(波可)	ITEM_DATA
+99199963	先祖號角造型(終極)	ITEM_DATA
+99199964	神之爪造型(DW)	ITEM_DATA
+99199965	神諭戰斧R造型(SK)	ITEM_DATA
+99199966	魔法杖造型(格鬥家)	ITEM_DATA
+99199967	特南克斯劍造型(劍)	ITEM_DATA
+99199968	武天老師魔杖造型(龜仙流)	ITEM_DATA
+99199969	芭蕉扇造型(鶴仙流)	ITEM_DATA
+99199970	魔法炒鍋造型(格蘭)	ITEM_DATA
+99199971	波波鼓造型(波可)	ITEM_DATA
+99199972	英雄面具造型(卡爾魔)	ITEM_DATA
+99914811	黑崎一護滅卻師斬魄刀	ITEM_DATA
+99930149	斬月	ITEM_DATA
+99990000	超級賽亞人3	ITEM_DATA
+99990001	武道家 超級賽亞人3	ITEM_DATA
+99990002	氣功師 超級賽亞人3	ITEM_DATA
+99990003	大魔人 普烏悟天克斯	ITEM_DATA
+99990004	意魔人 普烏悟天克斯	ITEM_DATA
+99990005	戰士 黑暗那美克	ITEM_DATA
+99990006	龍族 黑暗那美克	ITEM_DATA
+99999000	武道家 傳說超級賽亞人	ITEM_DATA
+99999001	氣功師 傳說超級賽亞人	ITEM_DATA
 100000000	耐力無限	ITEM_DATA
 100000001	 [測試道具]不當持有時可能會遭受懲罰。	ITEM_DATA
 100000010	集中力泉湧	ITEM_DATA
@@ -43903,6 +43903,7 @@ tblidx	wszName	Type
 111000301	EP低於30%時，自動將EP恢復至100%。容量為\n300000，使用完畢後自動消毀。	ITEM_DATA
 111000310	EV EP恢復藥水罐(50萬)	ITEM_DATA
 111000311	EP低於30%時，自動將EP恢復至100%。容量為\n500000，使用完畢後自動消毀。	ITEM_DATA
+
 111000320	코스튬 구슬-세트복장[1일]	ITEM_DATA
 111000321	코스튬에 옵션을 적용할 수 있는 신비한 구슬\n착용 슬롯이 세트복장인 코스튬에만 사용가능하다.\n사용 시 해당 코스튬은 기간제로 설정되니 주의하자!	ITEM_DATA
 111000330	코스튬 구슬-헤어스타일[1일]	ITEM_DATA
@@ -45346,7 +45347,7 @@ tblidx	wszName	Type
 111500211	可以製作CC傭兵套裝A的配方 	ITEM_DATA
 111500220	[配方]CC駕駛員套裝A	ITEM_DATA
 111500221	可以製作CC駕駛員套裝A的配方 	ITEM_DATA
-111505770	CCBD Rejoin Pass	ITEM_DATA
+111505770	CCBD 重新入場券	ITEM_DATA
 111505771	Consuming this pass will allow you to re-join your team members inside a CCBD floor.\nNOTE: If doesn't work, just relogin	ITEM_DATA
 111600010	副本大師認證銀幣	ITEM_DATA
 111600011	帶著這個硬幣去找活動NPC的話，將可以購買各式各樣的道具。	ITEM_DATA
@@ -45429,35 +45430,35 @@ tblidx	wszName	Type
 111600401	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
 111600410	EV CC迴路兌換卷	ITEM_DATA
 111600411	透過活動商店\n可直接兌換” CC競技裝甲特殊伽瑪迴路”或是” CC競技裝甲特殊貝塔迴路”\n的補償券。	ITEM_DATA
-111600420	CC Battle Dungeon Coupon (18F)	ITEM_DATA
-111600421	Grant you access to higher floors in CCBD.	ITEM_DATA
-111600430	Future Saiyan Armor	ITEM_DATA
-111600440	Vagabond Outfit	ITEM_DATA
-111600450	School Outfit	ITEM_DATA
-111600460	Saiyawoman Helmet	ITEM_DATA
-111600470	CC Battle Dungeon Coupon (28F)	ITEM_DATA
-111600471	Grant you access to higher floors in CCBD.	ITEM_DATA
-111600480	CC Battle Dungeon Coupon (21F)	ITEM_DATA
-111600481	Grant you access to higher floors in CCBD.	ITEM_DATA
-111600490	Vampa Gloves	ITEM_DATA
-111600500	Vampa Gloves	ITEM_DATA
-111600510	Vampa Gloves	ITEM_DATA
-111600520	Vampa Gloves	ITEM_DATA
-111600530	Vampa Gloves	ITEM_DATA
-111600540	Vampa Staff	ITEM_DATA
-111600550	Vampa Gem	ITEM_DATA
-111600560	Vampa Fan	ITEM_DATA
-111600570	Vampa Stick	ITEM_DATA
-111600580	Vampa Wand	ITEM_DATA
-111600590	Vampa Trumpet	ITEM_DATA
-111600600	Vampa Club	ITEM_DATA
-111600610	Vampa Sword	ITEM_DATA
-111600620	Vampa Scroll	ITEM_DATA
-111600630	Vampa Axe	ITEM_DATA
-111600640	Vampa Claws	ITEM_DATA
-111600650	Vampa Drum	ITEM_DATA
-111600660	Vampa Mask	ITEM_DATA
-111600670	Nidhogg Necklace	ITEM_DATA
+111600420	CC戰鬥地城通行券(18層)	ITEM_DATA
+111600421	允許進入CCBD更高樓層	ITEM_DATA
+111600430	未來賽亞人戰鬥服	ITEM_DATA
+111600440	流浪者服裝	ITEM_DATA
+111600450	學校制服	ITEM_DATA
+111600460	賽亞女戰士頭盔	ITEM_DATA
+111600470	CC戰鬥地城通行券(28層)	ITEM_DATA
+111600471	允許進入CCBD更高樓層	ITEM_DATA
+111600480	CC戰鬥地城通行券(21層)	ITEM_DATA
+111600481	允許進入CCBD更高樓層	ITEM_DATA
+111600490	萬帕手套	ITEM_DATA
+111600500	萬帕手套	ITEM_DATA
+111600510	萬帕手套	ITEM_DATA
+111600520	萬帕手套	ITEM_DATA
+111600530	萬帕手套	ITEM_DATA
+111600540	萬帕法杖	ITEM_DATA
+111600550	萬帕寶石	ITEM_DATA
+111600560	萬帕扇	ITEM_DATA
+111600570	萬帕棍	ITEM_DATA
+111600580	萬帕魔杖	ITEM_DATA
+111600590	萬帕號角	ITEM_DATA
+111600600	萬帕棒	ITEM_DATA
+111600610	萬帕劍	ITEM_DATA
+111600620	萬帕卷軸	ITEM_DATA
+111600630	萬帕斧	ITEM_DATA
+111600640	萬帕爪	ITEM_DATA
+111600650	萬帕鼓	ITEM_DATA
+111600660	萬帕面具	ITEM_DATA
+111600670	尼德霍格項鍊	ITEM_DATA
 111600680	CC Battle Dungeon Coupon (21F)	ITEM_DATA
 111600681	Grant you access to higher floors in CCBD.	ITEM_DATA
 111600690	CC Battle Dungeon Coupon (22F)	ITEM_DATA
@@ -45487,15 +45488,15 @@ tblidx	wszName	Type
 111600860	Cell Armor (Top)	ITEM_DATA
 111600870	Cell Armor (Pants)	ITEM_DATA
 111600880	Cell Armor (Shoes)	ITEM_DATA
-111600890	Weapon Upgrade Stone U75	ITEM_DATA
-111600891	Take this stone to an upgrade merchant\nto upgrade your weapon by 1. This item will\ndisappear after use.\nCan be used to strengthen level 1-75 weapon.	ITEM_DATA
-111600900	Armor Upgrade Stone U75	ITEM_DATA
-111600901	Take this stone to an upgrade merchant\nto upgrade your armor by 1. This item will\ndisappear after use.\nCan be used to strengthen level 1-75 armor.	ITEM_DATA
-111600910	Advanced Weapon Upgrade Stone U80	ITEM_DATA
-111600911	The level will + from 1 to 3 if you are successful.\nSometimes, item will be destroyed.\nFor weapon level 1-80.	ITEM_DATA
-111600920	Advanced Armor Upgrade Stone U80	ITEM_DATA
-111600921	The level will + from 1 to 3 if you are successful.\nSometimes, item will be destroyed.\nFor armor level 1-80.	ITEM_DATA
-111600930	White Stone U80	ITEM_DATA
+111600890	武器強化石U75	ITEM_DATA
+111600891	交給強化商人可將武器提升1級\n使用後物品會消失\n可用於強化1-75級武器	ITEM_DATA
+111600900	防具強化石U75	ITEM_DATA
+111600901	交給強化商人可將防具提升1級\n使用後物品會消失\n可用於強化1-75級防具	ITEM_DATA
+111600910	高級武器強化石U80	ITEM_DATA
+111600911	成功時可提升1-3級\n有時物品會損毀\n適用於1-80級武器	ITEM_DATA
+111600920	高級防具強化石U80	ITEM_DATA
+111600921	成功時可提升1-3級\n有時物品會損毀\n適用於1-80級防具	ITEM_DATA
+111600930	強化保護石U80	ITEM_DATA
 111700010	龜仙流修道服	ITEM_DATA
 111700011	從很久以前流傳下來的服裝。只有正統派龜仙流的弟子才\n能穿著。	ITEM_DATA
 111700020	兔子團頭目的愛用太陽眼鏡	ITEM_DATA
@@ -45534,7 +45535,7 @@ tblidx	wszName	Type
 111700181	騎著此機車移動時，\n會有種火花在飛行的感覺。	ITEM_DATA
 111700190	鶴仙流道服	ITEM_DATA
 111700191	過去天津飯與餃子還在時，為了進行鶴仙流的修練，所穿\n過的服裝。	ITEM_DATA
-111700192	Akatsuki Outfit v2	ITEM_DATA
+111700192	曉服飾 v2	ITEM_DATA
 111700193	Featuring Naruto.	ITEM_DATA
 111700200	鶴道士髮型	ITEM_DATA
 111700201	模仿鶴仙流創始者的髮型與帽子的套裝	ITEM_DATA
@@ -46061,498 +46062,498 @@ tblidx	wszName	Type
 111702791	仿桃白白的服裝製造的襯衫，\n服裝內的句子只是文字而已不要誤會啦。	ITEM_DATA
 111702800	栽培人棒球帽	ITEM_DATA
 111702801	帽子出現栽培人的模樣。\n活生生但不會攻擊人不用擔心。	ITEM_DATA
-111702810	Bruce Lee Dogi	ITEM_DATA
-111702811	Bruce Lee inspired Outfit	ITEM_DATA
-111702820	Vegeta Saiyan Armor	ITEM_DATA
-111702821	This is a copy of the armor worn by most powerful saiyan, vegeta!	ITEM_DATA
-111702830	Grat Saiyamn Outfit[no suit]	ITEM_DATA
-111702831	Great Saiyamn Dogi, but without the green Top.	ITEM_DATA
-111702840	Tenshinhan	ITEM_DATA
-111702841	An outfit Worn by the mightiest Crane	ITEM_DATA
-111702850	Skeleton Outfit	ITEM_DATA
-111702851	A very Spooky Outfit	ITEM_DATA
-111702860	Flaming Gladitor	ITEM_DATA
-111702861	Gladiator Dogi but with a Cool Design	ITEM_DATA
-111702870	Kibito Outfit	ITEM_DATA
-111702871	A copy of the outfit worn by Kibito	ITEM_DATA
-111702880	Fuwa Outfit	ITEM_DATA
-111702881	An outfit worn by Universe 6 Supreme Kai Fuwa	ITEM_DATA
-111702890	Vegeta Armor [Namek Saga]	ITEM_DATA
-111702891	vegeta Saiyan armor From namek Saga	ITEM_DATA
-111702900	Dabura Outfit [Red]	ITEM_DATA
-111702901	There are rumors if someone uses this\n Dogi will be able to enter the Dark Realm	ITEM_DATA
-111702910	Piccolo Outfit	ITEM_DATA
-111702911	This Dogi belonged to the legendary Namekian, Piccolo!	ITEM_DATA
-111702920	Piccolo Outfit [Half]	ITEM_DATA
-111702921	This Dogi belonged to the legendary Namekian, Piccolo!	ITEM_DATA
-111702930	Human Outfit	ITEM_DATA
-111702931	base Outfit For Humans	ITEM_DATA
-111702940	Namek Outfit	ITEM_DATA
-111702941	base Outfit For Namekians	ITEM_DATA
-111702950	Majin Outfit	ITEM_DATA
-111702951	base Outfit For Majins	ITEM_DATA
-111702960	Skilled Crane Outfit	ITEM_DATA
-111702961	This Outfit were worn by a Very\n Well Skilled Crane!!	ITEM_DATA
-111702970	Skilled Turtle Outfit	ITEM_DATA
-111702971	This Outfit were worn by a Very\n Well Skilled Turtle!!	ITEM_DATA
-111702980	Skilled Martial Artist Outfit	ITEM_DATA
-111702981	This Outfit were worn by a Very\n Well Skilled Martial Artist	ITEM_DATA
-111702990	ColdFire Gladiator	ITEM_DATA
-111702991	Gladiator Dogi But with a Cool Design	ITEM_DATA
-111703000	ColdFire Cowboy	ITEM_DATA
-111703001	CC Mercenary outfit but with a Cool design	ITEM_DATA
-111703010	Mummy Outfit	ITEM_DATA
-111703011	An very Spooky Outfit!!	ITEM_DATA
-111703020	Casual Outfit	ITEM_DATA
+111702810	李小龍道服	ITEM_DATA
+111702811	李小龍風格服裝	ITEM_DATA
+111702820	貝吉塔賽亞戰鬥服	ITEM_DATA
+111702821	複製最強賽亞人貝吉塔的戰鬥服！	ITEM_DATA
+111702830	偉大賽亞人服裝[無上裝]	ITEM_DATA
+111702831	偉大賽亞人道服，但不包含綠色上衣	ITEM_DATA
+111702840	天津飯服裝	ITEM_DATA
+111702841	最強鶴仙流弟子穿著的服裝	ITEM_DATA
+111702850	骷髏裝	ITEM_DATA
+111702851	非常嚇人的服裝	ITEM_DATA
+111702860	烈焰角鬥士	ITEM_DATA
+111702861	角鬥士道服，但設計更酷炫	ITEM_DATA
+111702870	基德服裝	ITEM_DATA
+111702871	複製基德穿著的服裝	ITEM_DATA
+111702880	富瓦服裝	ITEM_DATA
+111702881   第六宇宙界王神「芙瓦」的服裝 ITEM_DATA
+111702890   貝吉塔盔甲【那美克星篇】 ITEM_DATA
+111702891   貝吉塔的賽亞人盔甲（來自那美克星篇） ITEM_DATA
+111702900   達普拉服裝【紅色】 ITEM_DATA
+111702901   傳聞穿上這套道服的人，將能進入黑暗領域 ITEM_DATA
+111702910   比克服裝 ITEM_DATA
+111702911   這套道服屬於傳說中的那美克星人——比克！ ITEM_DATA
+111702920   比克服裝【半身】 ITEM_DATA
+111702921   這套道服屬於傳說中的那美克星人——比克！ ITEM_DATA
+111702930   人類基礎服裝 ITEM_DATA
+111702931   人類的初始服裝 ITEM_DATA
+111702940   那美克星人基礎服裝 ITEM_DATA
+111702941   那美克星人的初始服裝 ITEM_DATA
+111702950   魔人基礎服裝 ITEM_DATA
+111702951   魔人的初始服裝 ITEM_DATA
+111702960   鶴仙流高手服裝 ITEM_DATA
+111702961   這套服裝曾由一位極其精湛的鶴仙流高手所穿！ ITEM_DATA
+111702970   龜仙流高手服裝 ITEM_DATA
+111702971   這套服裝曾由一位極其精湛的龜仙流高手所穿！ ITEM_DATA
+111702980   武術大師服裝 ITEM_DATA
+111702981   這套服裝曾由一位極其精湛的武術大師所穿 ITEM_DATA
+111702990   寒焰角鬥士服裝 ITEM_DATA
+111702991   角鬥士道服，但設計更酷炫 ITEM_DATA
+111703000   寒焰牛仔服裝 ITEM_DATA
+111703001   CC傭兵團服裝，但設計更酷炫 ITEM_DATA
+111703010   木乃伊服裝 ITEM_DATA
+111703011   一套非常詭異的服裝！ ITEM_DATA
+111703020   休閒服裝 ITEM_DATA
 111703021	...	ITEM_DATA
-111703030	Bunny Outfit [Red]	ITEM_DATA
-111703031	An Very sexy and kawai outfit	ITEM_DATA
-111703040	Queen Bee Outfit	ITEM_DATA
-111703041	A dogi Inspired on the Queen of Bee's	ITEM_DATA
-111703050	Fuma Shuriken	ITEM_DATA
-111703051	Long time Ago Ninjas used this as weapon!!	ITEM_DATA
-111703060	Dark Devil Wings [Torn]	ITEM_DATA
-111703061	"imagine a Spooky Description"	ITEM_DATA
-111703070	Fairy King Wings	ITEM_DATA
-111703071	This wings are very Coloured, same colour as fairy king heart	ITEM_DATA
-111703080	Pumpkin Head D	ITEM_DATA
-111703090	Pumpkin Head E	ITEM_DATA
-111703091	A very Spooky Pumpkin head	ITEM_DATA
-111703100	Pumpkin Head F	ITEM_DATA
-111703101	A very Spooky Pumpkin head	ITEM_DATA
-111703110	Bunny Ears [Red]	ITEM_DATA
-111703111	Soo much cuteness in one item	ITEM_DATA
-111703120	Queen Bee Helmet	ITEM_DATA
-111703121	A helmet inspired by queen bee	ITEM_DATA
-111703130	Future Saiyan Outfit	ITEM_DATA
-111703131	This Dogi Give Future vibes..	ITEM_DATA
-111703140	Trailer Outfit H	ITEM_DATA
-111703141	This outfit were worn by the half Saiyan \n in DBO Cinematic Trailer	ITEM_DATA
-111703150	Trailer Outfit N	ITEM_DATA
-111703151	This outfit were worn by the Namekian Warrior \n in DBO Cinematic Trailer	ITEM_DATA
-111703160	Black Mech Warrior Outfit	ITEM_DATA
-111703161	An Very cool mech Armor	ITEM_DATA
-111703170	Jingle Village Heroe Outfit 	ITEM_DATA
-111703171	An Outfit Worn By jingle Village Heroe	ITEM_DATA
-111703180	Trunks [Topless]	ITEM_DATA
+111703030	兔子服裝【紅色】	ITEM_DATA
+111703031	一套非常性感又可愛的服裝	ITEM_DATA
+111703040	蜂后服裝	ITEM_DATA
+111703041	以蜂后為靈感設計的道服	ITEM_DATA
+111703050	風魔手裏劍	ITEM_DATA
+111703051	很久以前，忍者們用這個當作武器！	ITEM_DATA
+111703060	黑暗惡魔翅膀【破損】	ITEM_DATA
+111703061	「想像一下恐怖的描述」	ITEM_DATA
+111703070	妖精王之翼	ITEM_DATA
+111703071	這對翅膀色彩斑斕，如同妖精王的心	ITEM_DATA
+111703080	南瓜頭D	ITEM_DATA
+111703090	南瓜頭E	ITEM_DATA
+111703091	一個非常恐怖的南瓜頭	ITEM_DATA
+111703100	南瓜頭F	ITEM_DATA
+111703101	一個非常恐怖的南瓜頭	ITEM_DATA
+111703110	兔子耳朵【紅色】	ITEM_DATA
+111703111	單是這件物品就充滿了可愛	ITEM_DATA
+111703120	蜂后頭盔	ITEM_DATA
+111703121	以蜂后為靈感設計的頭盔	ITEM_DATA
+111703130	未來賽亞人服裝	ITEM_DATA
+111703131	這套道服給人未來感……	ITEM_DATA
+111703140	預告片服裝H	ITEM_DATA
+111703141	這套服裝由DBO電影預告中的半賽亞人穿著	ITEM_DATA
+111703150	預告片服裝N	ITEM_DATA
+111703151	這套服裝由DBO電影預告中的那美克星戰士穿著	ITEM_DATA
+111703160	黑色機甲戰士服裝	ITEM_DATA
+111703161	一套非常酷的機甲盔甲	ITEM_DATA
+111703170	鈴聲村英雄服裝	ITEM_DATA
+111703171	鈴聲村英雄穿過的服裝	ITEM_DATA
+111703180	特蘭克斯【無上衣】	ITEM_DATA
 111703181	...	ITEM_DATA
-111703190	Orange Highschool Gym Suit	ITEM_DATA
-111703191	A very Spooky Pumpkin head	ITEM_DATA
-111703200	Mafia Outfit	ITEM_DATA
+111703190	橘星高中體育服 	ITEM_DATA
+111703191	一個非常恐怖的南瓜頭	ITEM_DATA
+111703200	黑手黨服裝	ITEM_DATA
 111703201	...	ITEM_DATA
-111703210	Admiral Outfit	ITEM_DATA
+111703210	海軍上將服裝	ITEM_DATA
 111703211	...	ITEM_DATA
-111703220	Cyber Saiyan	ITEM_DATA
+111703220	賽亞人機甲	ITEM_DATA
 111703221	...	ITEM_DATA
-111703230	Sacred Namek	ITEM_DATA
+111703230	神聖那美克	ITEM_DATA
 111703231	...	ITEM_DATA
-111703240	Namek Warrior	ITEM_DATA
+111703240	那美克戰士	ITEM_DATA
 111703241	...	ITEM_DATA
-111703250	Majin Trailer	ITEM_DATA
+111703250	魔人預告版	ITEM_DATA
 111703251	...	ITEM_DATA
-111703260	Human Trailer Crane	ITEM_DATA
+111703260	人類預告版-鶴仙流	ITEM_DATA
 111703261	...	ITEM_DATA
-111703270	Human Trailer Swordmaster	ITEM_DATA
+111703270	人類預告版-劍豪	ITEM_DATA
 111703271	...	ITEM_DATA
-111703280	Videl	ITEM_DATA
+111703280	維黛兒	ITEM_DATA
 111703281	...	ITEM_DATA
-111703290	Chichi Adult	ITEM_DATA
+111703290	成年琪琪	ITEM_DATA
 111703291	...	ITEM_DATA
-111703300	Evil Bunny [Head]	ITEM_DATA
+111703300	邪惡兔頭	ITEM_DATA
 111703301	...	ITEM_DATA
-111703310	Refurbished Saiyan Armor (Saga Namek)	ITEM_DATA
+111703310	翻新版賽亞人盔甲（那美克星篇）	ITEM_DATA
 111703311	...	ITEM_DATA
-111703320	Bardock Armor Controlled	ITEM_DATA
+111703320	受控的巴達克盔甲	ITEM_DATA
 111703321	...	ITEM_DATA
-111703330	Refurbished Vegeta Armor (Cell Saga)	ITEM_DATA
+111703330	翻新版貝吉塔盔甲（賽魯篇）	ITEM_DATA
 111703331	...	ITEM_DATA
-111703340	Saiyan Prince Armor(Vegeta)	ITEM_DATA
+111703340	賽亞王子盔甲（貝吉塔）	ITEM_DATA
 111703341	...	ITEM_DATA
-111703350	Broly Armor(No Jacket)	ITEM_DATA
+111703350	布羅利盔甲（無夾克）	ITEM_DATA
 111703351	...	ITEM_DATA
-111703360	Broly Battle Armor	ITEM_DATA
+111703360	布羅利戰鬥盔甲	ITEM_DATA
 111703361	...	ITEM_DATA
-111703370	Xeno Vegeta Armor	ITEM_DATA
+111703370	異界貝吉塔盔甲	ITEM_DATA
 111703371	...	ITEM_DATA
-111703380	Super Buu (Gohan Absorbed)	ITEM_DATA
+111703380	超級普烏（吸收悟飯）	ITEM_DATA
 111703381	...	ITEM_DATA
-111703390	Buu Costume	ITEM_DATA
+111703390	普烏服裝	ITEM_DATA
 111703391	...	ITEM_DATA
-111703400	King Vegeta Armor	ITEM_DATA
+111703400	貝吉塔王盔甲	ITEM_DATA
 111703401	...	ITEM_DATA
-111703410	Xeno Goku Outfit	ITEM_DATA
+111703410	異界悟空服裝	ITEM_DATA
 111703411	...	ITEM_DATA
 111703420	000000	ITEM_DATA
 111703421	...	ITEM_DATA
-111703430	Bardock Hair	ITEM_DATA
+111703430	巴達克髮型	ITEM_DATA
 111703431	...	ITEM_DATA
-111703440	Human Hair-01	ITEM_DATA
-111703441	A wig for change your Hair	ITEM_DATA
-111703450	Human Hair-02	ITEM_DATA
-111703451	A wig for change your Hair	ITEM_DATA
-111703460	Human Hair-03	ITEM_DATA
-111703461	A wig for change your Hair	ITEM_DATA
-111703470	Human Hair-04	ITEM_DATA
-111703471	A wig for change your Hair	ITEM_DATA
-111703480	Human Hair-05	ITEM_DATA
-111703481	A wig for change your Hair	ITEM_DATA
-111703490	Human Hair-06	ITEM_DATA
-111703491	A wig for change your Hair	ITEM_DATA
-111703500	Human Hair-07	ITEM_DATA
-111703501	A wig for change your Hair	ITEM_DATA
-111703510	Human Hair-08	ITEM_DATA
-111703511	A wig for change your Hair	ITEM_DATA
-111703520	Human Hair-9	ITEM_DATA
-111703521	A wig for change your Hair	ITEM_DATA
-111703530	Human Hair-10	ITEM_DATA
-111703531	A wig for change your Hair	ITEM_DATA
-111703540	Human Hair Super Saiyan-01	ITEM_DATA
-111703541	A wig for change your Hair	ITEM_DATA
-111703550	Human Hair Super Saiyan-02	ITEM_DATA
-111703551	A wig for change your Hair	ITEM_DATA
-111703560	Human Hair Super Saiyan-03	ITEM_DATA
-111703561	A wig for change your Hair	ITEM_DATA
-111703570	Human Hair Super Saiyan-04	ITEM_DATA
-111703571	A wig for change your Hair	ITEM_DATA
-111703580	Human Hair Super Saiyan-05	ITEM_DATA
-111703581	A wig for change your Hair	ITEM_DATA
-111703590	Human Hair Super Saiyan-06	ITEM_DATA
-111703591	A wig for change your Hair	ITEM_DATA
-111703600	Human Hair Super Saiyan-07	ITEM_DATA
-111703601	A wig for change your Hair	ITEM_DATA
-111703610	Human Hair Super Saiyan-08	ITEM_DATA
-111703611	A wig for change your Hair	ITEM_DATA
-111703620	Human Hair Super Saiyan-09	ITEM_DATA
-111703621	A wig for change your Hair	ITEM_DATA
-111703630	Human Hair Super Saiyan-10	ITEM_DATA
-111703631	A wig for change your Hair	ITEM_DATA
-111703640	Namekian Hair-01	ITEM_DATA
-111703641	A wig for change your Hair	ITEM_DATA
-111703650	Namekian Hair-02	ITEM_DATA
-111703651	A wig for change your Hair	ITEM_DATA
-111703660	Namekian Hair-03	ITEM_DATA
-111703661	A wig for change your Hair	ITEM_DATA
-111703670	Namekian Hair-04	ITEM_DATA
-111703671	A wig for change your Hair	ITEM_DATA
-111703680	Namekian Hair-05	ITEM_DATA
-111703681	A wig for change your Hair	ITEM_DATA
-111703690	Namekian Hair-06	ITEM_DATA
-111703691	A wig for change your Hair	ITEM_DATA
-111703700	Namekian Hair-07	ITEM_DATA
-111703701	A wig for change your Hair	ITEM_DATA
-111703710	Namekian Hair-08	ITEM_DATA
-111703711	A wig for change your Hair	ITEM_DATA
-111703720	Namekian Hair-09	ITEM_DATA
-111703721	A wig for change your Hair	ITEM_DATA
-111703730	Namekian Hair-10	ITEM_DATA
-111703731	A wig for change your Hair	ITEM_DATA
-111703740	Majin Hair-01	ITEM_DATA
-111703741	A wig for change your Hair	ITEM_DATA
-111703750	Majin Hair-02	ITEM_DATA
-111703751	A wig for change your Hair	ITEM_DATA
-111703760	Majin Hair-03	ITEM_DATA
-111703761	A wig for change your Hair	ITEM_DATA
-111703770	Majin Hair-04	ITEM_DATA
-111703771	A wig for change your Hair	ITEM_DATA
-111703780	Majin Hair-05	ITEM_DATA
-111703781	A wig for change your Hair	ITEM_DATA
-111703790	Majin Hair-06	ITEM_DATA
-111703791	A wig for change your Hair	ITEM_DATA
-111703800	Majin Hair-07	ITEM_DATA
-111703801	A wig for change your Hair	ITEM_DATA
-111703810	Majin Hair-08	ITEM_DATA
-111703811	A wig for change your Hair	ITEM_DATA
-111703820	Majin Hair-09	ITEM_DATA
-111703821	A wig for change your Hair	ITEM_DATA
-111703830	Majin Hair-10	ITEM_DATA
-111703831	A wig for change your Hair	ITEM_DATA
-111704000	Name will be added soon...	ITEM_DATA
-111704270	Gudoudamas	ITEM_DATA
+111703440	人類髮型-01	ITEM_DATA
+111703441	用於改變髮型的假髮	ITEM_DATA
+111703450	人類髮型-02	ITEM_DATA
+111703451	用於改變髮型的假髮	ITEM_DATA
+111703460	人類髮型-03	ITEM_DATA
+111703461	用於改變髮型的假髮	ITEM_DATA
+111703470	人類髮型-04	ITEM_DATA
+111703471	用於改變髮型的假髮	ITEM_DATA
+111703480	人類髮型-05	ITEM_DATA
+111703481	用於改變髮型的假髮	ITEM_DATA
+111703490	人類髮型-06	ITEM_DATA
+111703491	用於改變髮型的假髮	ITEM_DATA
+111703500	人類髮型-07	ITEM_DATA
+111703501	用於改變髮型的假髮	ITEM_DATA
+111703510	人類髮型-08	ITEM_DATA
+111703511	用於改變髮型的假髮	ITEM_DATA
+111703520	人類髮型-09	ITEM_DATA
+111703521	用於改變髮型的假髮	ITEM_DATA
+111703530	人類髮型-10	ITEM_DATA
+111703531	用於改變髮型的假髮	ITEM_DATA
+111703540	人類超級賽亞人髮型-01	ITEM_DATA
+111703541	用於改變髮型的假髮	ITEM_DATA
+111703550	人類超級賽亞人髮型-02	ITEM_DATA
+111703551	用於改變髮型的假髮	ITEM_DATA
+111703560	人類超級賽亞人髮型-03	ITEM_DATA
+111703561	用於改變髮型的假髮	ITEM_DATA
+111703570	人類超級賽亞人髮型-04	ITEM_DATA
+111703571	用於改變髮型的假髮	ITEM_DATA
+111703580	人類超級賽亞人髮型-05	ITEM_DATA
+111703581	用於改變髮型的假髮	ITEM_DATA
+111703590	人類超級賽亞人髮型-06	ITEM_DATA
+111703591	用於改變髮型的假髮	ITEM_DATA
+111703600	人類超級賽亞人髮型-07	ITEM_DATA
+111703601	用於改變髮型的假髮	ITEM_DATA
+111703610	人類超級賽亞人髮型-08	ITEM_DATA
+111703611	用於改變髮型的假髮	ITEM_DATA
+111703620	人類超級賽亞人髮型-09	ITEM_DATA
+111703621	用於改變髮型的假髮	ITEM_DATA
+111703630	人類超級賽亞人髮型-10	ITEM_DATA
+111703631	用於改變髮型的假髮	ITEM_DATA
+111703640	那美克星人髮型-01	ITEM_DATA
+111703641	用於改變髮型的假髮	ITEM_DATA
+111703650	那美克星人髮型-02	ITEM_DATA
+111703651	用於改變髮型的假髮	ITEM_DATA
+111703660	那美克星人髮型-03	ITEM_DATA
+111703661	用於改變髮型的假髮	ITEM_DATA
+111703670	那美克星人髮型-04	ITEM_DATA
+111703671	用於改變髮型的假髮	ITEM_DATA
+111703680	那美克星人髮型-05	ITEM_DATA
+111703681	用於改變髮型的假髮	ITEM_DATA
+111703690	那美克星人髮型-06	ITEM_DATA
+111703691	用於改變髮型的假髮	ITEM_DATA
+111703700	那美克星人髮型-07	ITEM_DATA
+111703701	用於改變髮型的假髮	ITEM_DATA
+111703710	那美克星人髮型-08	ITEM_DATA
+111703711	用於改變髮型的假髮	ITEM_DATA
+111703720	那美克星人髮型-09	ITEM_DATA
+111703721	用於改變髮型的假髮	ITEM_DATA
+111703730	那美克星人髮型-10	ITEM_DATA
+111703731	用於改變髮型的假髮	ITEM_DATA
+111703740	魔人髮型-01	ITEM_DATA
+111703741	用於改變髮型的假髮	ITEM_DATA
+111703750	魔人髮型-02	ITEM_DATA
+111703751	用於改變髮型的假髮	ITEM_DATA
+111703760	魔人髮型-03	ITEM_DATA
+111703761	用於改變髮型的假髮	ITEM_DATA
+111703770	魔人髮型-04	ITEM_DATA
+111703771	用於改變髮型的假髮	ITEM_DATA
+111703780	魔人髮型-05	ITEM_DATA
+111703781	用於改變髮型的假髮	ITEM_DATA
+111703790	魔人髮型-06	ITEM_DATA
+111703791	用於改變髮型的假髮	ITEM_DATA
+111703800	魔人髮型-07	ITEM_DATA
+111703801	用於改變髮型的假髮	ITEM_DATA
+111703810	魔人髮型-08	ITEM_DATA
+111703811	用於改變髮型的假髮	ITEM_DATA
+111703820	魔人髮型-09	ITEM_DATA
+111703821	用於改變髮型的假髮	ITEM_DATA
+111703830	魔人髮型-10	ITEM_DATA
+111703831	用於改變髮型的假髮	ITEM_DATA
+111704000	名稱即將添加...	ITEM_DATA
+111704270	黑星龍珠	ITEM_DATA
 111704271	...	ITEM_DATA
 111704280	test	ITEM_DATA
 111704281	test	ITEM_DATA
 111704290	test	ITEM_DATA
 111704291	test	ITEM_DATA
-111704300	White Stone U60	ITEM_DATA
-111704301	Protect the upgraded item. If the item breaks it\nwill not be destroyed, it will go down -2.\n[Reduced 2 to 6 weapons, armor reduced level 2-4]	ITEM_DATA
-111704380	Soul King Title	ITEM_DATA
-111704381	Happy Halloween - KnightZ Team	ITEM_DATA
-111704390	Strong Soul Title	ITEM_DATA
-111704391	Happy Halloween - KnightZ Team	ITEM_DATA
-111704400	Brave Soul Title	ITEM_DATA
-111704401	Happy Halloween - KnightZ Team	ITEM_DATA
-111704410	Hopeful Soul Title	ITEM_DATA
-111704411	Happy Halloween - KnightZ Team	ITEM_DATA
-111704420	Spooky Soul Title	ITEM_DATA
-111704421	Happy Halloween - KnightZ Team	ITEM_DATA
-111704540	Broly Outfit	ITEM_DATA
-111704541	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704550	Pan GT Outfit (Female)	ITEM_DATA
-111704551	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704560	Broly Wig (Human,Male)	ITEM_DATA
-111704561	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704570	Xicor Wig (Human,Male)	ITEM_DATA
-111704571	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704580	Bardock SSJ4 Wig (Human,Male)	ITEM_DATA
-111704581	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704590	Pan GT Wig (Human,Female)	ITEM_DATA
-111704591	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704600	Saiyan Black Tail (Human,Male)	ITEM_DATA
-111704601	Made By: Kakaichi & Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704606	Saiyan Tail RGB (Male)	ITEM_DATA
-111704607	This tail changes according to your standard hair color and transformations.	ITEM_DATA
-111704608	Saiyan Tail RGB (Female)	ITEM_DATA
-111704610	Saiyan Black Tail (Human,Female)	ITEM_DATA
-111704611	Made By: Kakaichi & Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704613	Athena Wisdom GOD Outfit	ITEM_DATA
-111704614	A Dogi touched by a GOD!	ITEM_DATA
-111704615	Absolute Bra (Bulla)	ITEM_DATA
-111704616	Used by Trunks Sister, Bra.	ITEM_DATA
-111704617	Lucy Heartfilia Clothes	ITEM_DATA
-111704618	Clothing used by the celestial mage Lucy, one of the strongest members of Fairy Tail.	ITEM_DATA
-111704619	Erza Scarlet Armor	ITEM_DATA
-111704620	Future Trunks (Special) (Male)	ITEM_DATA
-111704621	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111704622	Armor used by the strongest mage of Fairy Tail, Erza! Her enemies flee just at the sight of this armor.	ITEM_DATA
-111704623	Luffy Clothes	ITEM_DATA
-111704624	Used by the Yonkou Luffy.	ITEM_DATA
-111704625	Energetic dok (EP)	ITEM_DATA
-111704626	An energetic soda with cantaloupe added,\nthe two materials added in it makes the\nperfect combo!	ITEM_DATA
-111704627	Hot dog	ITEM_DATA
-111704628	The intense flavor of this candy\nmakes the eyes light up, after\neating this, who can fall asleep?	ITEM_DATA
-111704629	Beaten herbs	ITEM_DATA
-111704630	A small, delightful spice made from \nbeaten plants for the Namekians to enjoy.	ITEM_DATA
-111704631	X-Burguer	ITEM_DATA
-111704632	A classic. It's a simple, cheesy beef \nburger in a bun. All the iconic taste,\nnone of the fuss!	ITEM_DATA
-111704633	First aid kit X	ITEM_DATA
-111704634	A specially manufactured life kit\nproduced in red and white capsules.	ITEM_DATA
-111704635	Medical kit X	ITEM_DATA
-111704636	A specially large magic kit, it is\nproduced in white and green capsules.	ITEM_DATA
-111704637	Epic White U Stone U75 (Recipe)	ITEM_DATA
-111704638	Use U75 RED & BLUE stones to make an Epic white stone.	ITEM_DATA
-111704639	Epic White U Stone U75 (Recipe)	ITEM_DATA
-111704640	Use U75 Green & Purple stones to make an Epic white stone.	ITEM_DATA
-111704641	Epic Orange U Stone U75 (Recipe)	ITEM_DATA
-111704642	Use U75 Green & Purple stones to make an Epic white stone.	ITEM_DATA
-111704643	Epic Yellow U Stone U75 (Recipe)	ITEM_DATA
-111704644	Use U75 Green & Purple stones to make an Epic white stone.	ITEM_DATA
-111704645	Downgrade trade u75 (Recipe)	ITEM_DATA
-111704646	Use U75 downgrade stones to make an Epic stone.	ITEM_DATA
-111704647	Downgrade trade u70 (Recipe)	ITEM_DATA
-111704648	Use U70 downgrade stones to make an Epic stone.	ITEM_DATA
-111704649	Starfall Gloves	ITEM_DATA
-111704650	Gloves imbued with the power of falling stars.	ITEM_DATA
-111704651	Starfall Staff	ITEM_DATA
-111704652	Effulgent Silver (Crane)	ITEM_DATA
-111704653	Effulgent Silver (Fighter)	ITEM_DATA
-111704654	Effulgent Silver (Turtle)	ITEM_DATA
-111704655	Effulgent Silver (Ultimate)	ITEM_DATA
-111704656	Effulgent Silver (Chieff)	ITEM_DATA
-111704657	Effulgent Silver (Sword)	ITEM_DATA
-111704658	Effulgent Silver (Dende)	ITEM_DATA
-111704659	Effulgent Silver (SK)	ITEM_DATA
-111704660	Effulgent Silver (DW)	ITEM_DATA
-111704661	Effulgent Silver (Plasma)	ITEM_DATA
-111704662	Effulgent Silver (Karma)	ITEM_DATA
-111704663	Effulgent Silver (Poko)	ITEM_DATA
-111705210	Vain dogi	ITEM_DATA
-111705211	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705220	Pan Outfit (Super Heroes Movie)	ITEM_DATA
-111705221	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705230	Piccolo & Gohan Outfit(Super Heroes Movie)	ITEM_DATA
-111705231	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705240	Vegeta Xenoverse	ITEM_DATA
-111705241	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705250	Bardock Wig (human, female)	ITEM_DATA
-111705251	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705260	Vegeta Wig	ITEM_DATA
-111705261	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705270	Goku Wig	ITEM_DATA
-111705271	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705280	Lion Dogi	ITEM_DATA
-111705281	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705290	Nexus Dogi	ITEM_DATA
-111705291	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705300	Legendary Super Saiyan Title	ITEM_DATA
+111704300	強化保護石U60	ITEM_DATA
+111704301	保護升級物品。若物品損壞\n不會被摧毀，但會降級-2。\n[武器降級2-6級，防具降級2-4級]	ITEM_DATA
+111704380	靈魂之王	ITEM_DATA
+111704381	萬聖節快樂 - KnightZ團隊	ITEM_DATA
+111704390	強力靈魂	ITEM_DATA
+111704391	萬聖節快樂 - KnightZ團隊	ITEM_DATA
+111704400	勇猛靈魂	ITEM_DATA
+111704401	萬聖節快樂 - KnightZ團隊	ITEM_DATA
+111704410	希望靈魂	ITEM_DATA
+111704411	萬聖節快樂 - KnightZ團隊	ITEM_DATA
+111704420	恐怖靈魂	ITEM_DATA
+111704421	萬聖節快樂 - KnightZ團隊	ITEM_DATA
+111704540	布羅利服裝	ITEM_DATA
+111704541	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704550	潘GT服裝（女性）	ITEM_DATA
+111704551	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704560	布羅利假髮（人類，男性）	ITEM_DATA
+111704561	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704570	西科爾假髮（人類，男性）	ITEM_DATA
+111704571	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704580	巴達克SSJ4假髮（人類，男性）	ITEM_DATA
+111704581	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704590	潘GT假髮（人類，女性）	ITEM_DATA
+111704591	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704600	黑色賽亞人尾巴（人類，男性）	ITEM_DATA
+111704601	製作：Kakaichi、Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704606	賽亞人RGB尾巴（男性）	ITEM_DATA
+111704607	這條尾巴會根據你的標準髮色和變身形態改變顏色	ITEM_DATA
+111704608	賽亞人RGB尾巴（女性）	ITEM_DATA
+111704610	黑色賽亞人尾巴（人類，女性）	ITEM_DATA
+111704611	製作：Kakaichi、Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704613	雅典娜智慧神服裝	ITEM_DATA
+111704614	被神觸碰過的道服！	ITEM_DATA
+111704615	絕對胸罩（布拉）	ITEM_DATA
+111704616	特蘭克斯的妹妹布拉使用過	ITEM_DATA
+111704617	露西·哈特菲利亞服裝	ITEM_DATA
+111704618	妖精尾巴最強成員之一，星靈魔導士露西穿過的服裝	ITEM_DATA
+111704619	艾爾莎·史卡雷特盔甲	ITEM_DATA
+111704620	未來特蘭克斯（特別版）（男性）	ITEM_DATA
+111704621	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111704622	妖精尾巴最強魔導士艾爾莎使用的盔甲！敵人光是看到這套盔甲就會逃跑	ITEM_DATA
+111704623	魯夫服裝	ITEM_DATA
+111704624	四皇魯夫使用過	ITEM_DATA
+111704625	活力蜜瓜汽水（EP）	ITEM_DATA
+111704626	添加了哈密瓜的活力汽水，\n兩種材料的組合完美無缺！	ITEM_DATA
+111704627	熱狗糖	ITEM_DATA
+111704628	這款糖果的強烈風味\n讓人眼睛為之一亮，\n吃完後誰還能睡得著？	ITEM_DATA
+111704629	搗碎香草	ITEM_DATA
+111704630	為那美克星人製作的精緻香料，\n由搗碎的植物製成	ITEM_DATA
+111704631	X漢堡	ITEM_DATA
+111704632	經典款。簡單的起司牛肉漢堡，\n擁有所有標誌性風味，毫不複雜！	ITEM_DATA
+111704633	急救箱X	ITEM_DATA
+111704634	特別製造的生命套裝，\n以紅白膠囊形式生產	ITEM_DATA
+111704635	醫療箱X	ITEM_DATA
+111704636	特別製造的大型魔法套裝，\n以白綠膠囊形式生產	ITEM_DATA
+111704637	史詩白色石頭U75（配方）	ITEM_DATA
+111704638	使用U75紅色和藍色石頭製作史詩白色石頭	ITEM_DATA
+111704639	史詩白色石頭U75（配方）	ITEM_DATA
+111704640	使用U75綠色和紫色石頭製作史詩白色石頭	ITEM_DATA
+111704641	史詩橙色石頭U75（配方）	ITEM_DATA
+111704642	使用U75綠色和紫色石頭製作史詩橙色石頭	ITEM_DATA
+111704643	史詩黃色石頭U75（配方）	ITEM_DATA
+111704644	使用U75綠色和紫色石頭製作史詩黃色石頭	ITEM_DATA
+111704645	降級交易石u75（配方）	ITEM_DATA
+111704646	使用U75降級石頭製作史詩石頭	ITEM_DATA
+111704647	降級交易石u70（配方）	ITEM_DATA
+111704648	使用U70降級石頭製作史詩石頭	ITEM_DATA
+111704649	星隕手套	ITEM_DATA
+111704650	灌注了流星之力的手套	ITEM_DATA
+111704651	星隕法杖	ITEM_DATA
+111704652	閃耀銀光（鶴仙流）	ITEM_DATA
+111704653	閃耀銀光（格鬥家）	ITEM_DATA
+111704654	閃耀銀光（龜仙流）	ITEM_DATA
+111704655	閃耀銀光（終極）	ITEM_DATA
+111704656	閃耀銀光（首領）	ITEM_DATA
+111704657	閃耀銀光（劍士）	ITEM_DATA
+111704658	閃耀銀光（丹迪）	ITEM_DATA
+111704659	閃耀銀光（界王神）	ITEM_DATA
+111704660	閃耀銀光（黑暗魔導）	ITEM_DATA
+111704661	閃耀銀光（電漿）	ITEM_DATA
+111704662	閃耀銀光（因果）	ITEM_DATA
+111704663	閃耀銀光（波可）	ITEM_DATA
+111705210	虛榮道服	ITEM_DATA
+111705211	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705220	潘服裝（超級英雄電影版）	ITEM_DATA
+111705221	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705230	比克與悟飯服裝（超級英雄電影版）	ITEM_DATA
+111705231	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705240	異戰版貝吉塔服裝	ITEM_DATA
+111705241	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705250	巴達克假髮（人類，女性）	ITEM_DATA
+111705251	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705260	貝吉塔假髮	ITEM_DATA
+111705261	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705270	悟空假髮	ITEM_DATA
+111705271	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705280	獅子道服	ITEM_DATA
+111705281	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705290	羈絆道服	ITEM_DATA
+111705291	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705300	傳說超級賽亞人	ITEM_DATA
 111705301	...	ITEM_DATA
-111705310	Pure Evil	ITEM_DATA
+111705310	純粹邪惡	ITEM_DATA
 111705311	...	ITEM_DATA
-111705320	Inherited Fury	ITEM_DATA
+111705320	傳承之怒	ITEM_DATA
 111705321	...	ITEM_DATA
-111705330	Time Chamber Buff	ITEM_DATA
-111705331	This item allows the player to remain in the Time chamber for a certain period of time.	ITEM_DATA
-111705340	Heavenly Wings	ITEM_DATA
-111705341	Designed By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705350	Mythical Wings	ITEM_DATA
-111705351	Designed By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705360	Godly Drums	ITEM_DATA
-111705361	Designed By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705370	Demon Dragon Wings	ITEM_DATA
-111705371	Designed By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705380	Bardock Heroes Outfit	ITEM_DATA
-111705381	Used by Bardock on Big Bang Mission.	ITEM_DATA
-111705390	TC Training Points	ITEM_DATA
-111705391	These points can be used to obtain \nspecial items from Dende(Earth's Guardian).	ITEM_DATA
-111705400	Majin Buu Outfit	ITEM_DATA
-111705401	Only with Majin Race!!	ITEM_DATA
-111705410	Mihawk's Outfit	ITEM_DATA
-111705411	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705420	Love Hero Outfit	ITEM_DATA
-111705421	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705430	Kaito's Outfit	ITEM_DATA
-111705431	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705440	Whitebeard's Outfit	ITEM_DATA
-111705441	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705450	Shanks Outfit	ITEM_DATA
-111705451	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705460	Johnny's Outfit	ITEM_DATA
-111705461	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705480	Epic Weapon Upgrade Stone U75	ITEM_DATA
-111705481	The enhancement level will increase from 1 to 3 upon successful enhancement.\nUse White Stones to prevent the item from breaking.\nFor armor levels 1 to 70.	ITEM_DATA
-111705490	Epic Armor Upgrade Stone U75	ITEM_DATA
-111705491	The enhancement level will increase from 1 to 3 upon successful enhancement.\nUse White Stones to prevent the item from breaking.\nFor armor levels 1 to 70.	ITEM_DATA
-111705500	Epic Armor U Stone U75 (Recipe)	ITEM_DATA
-111705501	Use U75 Blue & Red stones to craft an Epic armor stone.	ITEM_DATA
-111705510	Epic Weapon U Stone U75 (Recipe)	ITEM_DATA
-111705511	Use U75 Blue & Red stones to make an Epic weapon stone.	ITEM_DATA
-111705520	Epic Armor U Stone U75 (Recipe)	ITEM_DATA
-111705521	Use U75 Green & Purple stones to make an Epic armor stone.	ITEM_DATA
-111705530	Epic Weapon U Stone U75 (Recipe)	ITEM_DATA
-111705531	Use U75 Green & Purple stones to make an Epic weapon stone.	ITEM_DATA
-111705540	Namekian Training Gi	ITEM_DATA
-111705541	Made By: Kakaichi	ITEM_DATA
-111705550	Nappa's Saiyan Outfit	ITEM_DATA
-111705551	Made By: Kakaichi	ITEM_DATA
-111705560	Bardock Saiyan Outfit (Father of Goku Movie)	ITEM_DATA
-111705561	Made By: Kakaichi	ITEM_DATA
-111705570	Bardock Saiyan Outfit (Super: Broly Movie)	ITEM_DATA
-111705571	Made By: Kakaichi	ITEM_DATA
-111705580	Turles Saiyan Outfit	ITEM_DATA
-111705581	Made By: Kakaichi	ITEM_DATA
-111705590	Hellish Wings	ITEM_DATA
-111705591	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705600	Xicor's Outfit	ITEM_DATA
-111705601	The style of the outfit is very similar to Goku's outfit.\nBut it has an evil presence...	ITEM_DATA
-111705610	Mihawk's Sword	ITEM_DATA
-111705611	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705620	Mihawk's Hat	ITEM_DATA
-111705621	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705630	Staff of Love	ITEM_DATA
-111705631	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705640	GM Weapon Upgrade Stone	ITEM_DATA
-111705641	FOR ADMINS ONLY!!	ITEM_DATA
-111705650	GM Armor Upgrade Stone	ITEM_DATA
-111705651	FOR ADMINS ONLY!!	ITEM_DATA
-111705660	Epic Weapon U Stone U70 (Recipe)	ITEM_DATA
-111705661	Use U70 Blue & Red stones to craft an Epic weapon stone.	ITEM_DATA
-111705670	Epic Armor U Stone U70 (Recipe)	ITEM_DATA
-111705671	Use U70 Blue & Red stones to make an Epic armor stone.	ITEM_DATA
-111705680	Epic White U Stone U70 (Recipe)	ITEM_DATA
-111705681	Use U70 Green & Purple stones to make an Epic white stone.	ITEM_DATA
-111705690	Epic Armor U Stone U70 (Recipe)	ITEM_DATA
-111705691	Use U70 Green & Purple stones to make an Epic armor stone.	ITEM_DATA
-111705700	RP Grizzly Bear Outfit	ITEM_DATA
-111705701	Made from the skin of Red Pants Grizzly Bear!	ITEM_DATA
-111705710	RP Grizzly Bear Head	ITEM_DATA
-111705711	Made from the head of Red Pants Grizzly Bear!	ITEM_DATA
-111705720	Kaito's Hat	ITEM_DATA
-111705721	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705730	Whitebeard's Hat	ITEM_DATA
-111705731	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705740	Whitebeard's Staff	ITEM_DATA
-111705741	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705750	Fairy Speed Wings	ITEM_DATA
-111705751	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705760	Black Axe Transmog	ITEM_DATA
-111705761	A Axe Transmog for SK.	ITEM_DATA
-111705910	EV Event Coins Bag (100x)	ITEM_DATA
-111705911	Right click to obtain 100x Event Coins instantly!	ITEM_DATA
-111705920	EV Wagu Coins Bag (100x)	ITEM_DATA
-111705921	Right click to obtain 100x Wagu Coins instantly!	ITEM_DATA
-111705930	Pride Tropper Outfit	ITEM_DATA
-111705931	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705940	Future Trunks Outfit (DBZ)	ITEM_DATA
-111705941	Made By: Kakaichi & Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705950	Champa Outfit	ITEM_DATA
-111705951	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705960	Beerus Outfit	ITEM_DATA
-111705961	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705970	Goku Black Outfit	ITEM_DATA
-111705971	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705980	Teen Bulma Outfit	ITEM_DATA
-111705981	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111705990	Caulifla Hair	ITEM_DATA
-111705991	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706000	Kale Hair	ITEM_DATA
-111706001	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706010	SSJ Rose Hair	ITEM_DATA
-111706011	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706020	Baby Goku Space Pod	ITEM_DATA
-111706021	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706030	Beerus Assistant	ITEM_DATA
-111706031	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706040	Dragon Radar	ITEM_DATA
-111706041	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706050	Future Trunks Hair	ITEM_DATA
-111706051	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706060	Dogi Preview	ITEM_DATA
-111706061	Use Shift+left mouse button to preview the item.	ITEM_DATA
-111706070	Shenron Wings (Grey)	ITEM_DATA
-111706071	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111706080	Shenron Wings (Golden)	ITEM_DATA
-111706081	Made By: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
-111708291	Mega Man Tribute	ITEM_DATA
-111708292	Mega Man Head	ITEM_DATA
-111708300	Mega Man Outfit	ITEM_DATA
-111708301	Mega Man Dogi	ITEM_DATA
-111708310	Zero Head	ITEM_DATA
-111708311	Zero Tribute	ITEM_DATA
-111708320	Zero Outfit	ITEM_DATA
-111708321	Zero Dogi	ITEM_DATA
-111708410	Vegetto SSJ4 Hair	ITEM_DATA
-111708411	Vegetto SSJ4 Hair fan Made	ITEM_DATA
-111708420	SSJ4 Gogetta Wig	ITEM_DATA
-111708421	Replace your hair with a SSJ4 Gogetta Wig.	ITEM_DATA
-111708430	SSJ4 Goku Wig	ITEM_DATA
-111708431	Replace your hair with a SSJ4 Goku Wig.	ITEM_DATA
-111708460	Vegetto Blue Hair	ITEM_DATA
-111708461	Vegetto Blue Hair from DB Super	ITEM_DATA
-111708480	Gohan SS4 Hair	ITEM_DATA
-111708481	SS4 Gohan Hair from a DB made by Fans	ITEM_DATA
-111708490	Migatte no Gokui Hair	ITEM_DATA
-111708491	A Goku most powerful hair.	ITEM_DATA
-111708500	Majin Mark	ITEM_DATA
-111708501	For those who wants to show the truly evil.	ITEM_DATA
-111708510	Time Break Mask King Vegeta	ITEM_DATA
-111708511	Tbm Cosume for Use	ITEM_DATA
-111708550	Damaged Goku GI	ITEM_DATA
-111708551	Damaged Goku Outfit..	ITEM_DATA
-111708560	Vegeta Buu's Outfit	ITEM_DATA
-111708561	Used by Vegeta on Saga Buu.	ITEM_DATA
-111708680	Sword Trailer Outfit	ITEM_DATA
-111708681	A Outfit used by class Sword on DBO Trailer.	ITEM_DATA
-111708710	SS4 Goku GT GI	ITEM_DATA
-111708711	A GI inspired by a DB GT and SDB Heroes transformation 	ITEM_DATA
-111708720	SS4 Vegeta GT GI	ITEM_DATA
-111708750	SSJ4 Gogeta Outfit	ITEM_DATA
-111708751	Replace your hair with a SSJ4 Gogetta Outfit.	ITEM_DATA
-111708760	Xeno SSJ4 Goku Outfit	ITEM_DATA
-111708761	Replace your Clothes with a Xeno SSJ4 Goku Outfit.	ITEM_DATA
-111708770	SS4 Xeno Vegeta GI	ITEM_DATA
-111708790	SS4 Xeno Vegetto GI	ITEM_DATA
-111708800	Xeno Gotenks GI	ITEM_DATA
-111708810	Xeno Vegetto Outfit	ITEM_DATA
-111708811	A Georgious Xeno Vegetto Outfit	ITEM_DATA
-111708850	Goku Black Heroes GI	ITEM_DATA
-111708851	Use by Goku Black in Dragon Ball Heroes	ITEM_DATA
-111708880	Pride Outfit	ITEM_DATA
-111708881	Used by Jiren, Toppo and others Pride Troppers Members.	ITEM_DATA
-111708910	Goku Super Brolly Outfit	ITEM_DATA
-111708911	A Georgious Goku Outfit	ITEM_DATA
-111708920	Vegeta Super Brolly Outfit	ITEM_DATA
-111708921	A Georgious Vegeta Outfit	ITEM_DATA
-111708980	Pallas Destruction God	ITEM_DATA
-111708981	A Beatiful Pallas Suit.	ITEM_DATA
+111705330	精神時光屋增益	ITEM_DATA
+111705331	此道具允許玩家在精神時光屋中停留一段時間。	ITEM_DATA
+111705340	天界之翼	ITEM_DATA
+111705341	設計者：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705350	神話之翼	ITEM_DATA
+111705351	設計者：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705360	神聖戰鼓	ITEM_DATA
+111705361	設計者：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705370	魔龍之翼	ITEM_DATA
+111705371	設計者：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705380	巴達克英雄戰衣	ITEM_DATA
+111705381	巴達克在「大爆炸任務」中穿著的服裝。	ITEM_DATA
+111705390	時光屋訓練點數	ITEM_DATA
+111705391	這些點數可用於從地球守護者丹迪處\n獲得特殊物品。	ITEM_DATA
+111705400	魔人普烏服裝	ITEM_DATA
+111705401	僅限魔人種族使用！！	ITEM_DATA
+111705410	米霍克服裝	ITEM_DATA
+111705411	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705420	愛心英雄服裝	ITEM_DATA
+111705421	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705430	怪盜服裝	ITEM_DATA
+111705431	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705440	白鬍子服裝	ITEM_DATA
+111705441	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705450	紅髮傑克服裝	ITEM_DATA
+111705451	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705460	強尼服裝	ITEM_DATA
+111705461	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705480	史詩武器升級石 U75	ITEM_DATA
+111705481	強化成功時，強化等級將提升1至3級。\n使用白色寶石可防止物品損壞。\n適用於1至70級防具。	ITEM_DATA
+111705490	史詩防具升級石 U75	ITEM_DATA
+111705491	強化成功時，強化等級將提升1至3級。\n使用白色寶石可防止物品損壞。\n適用於1至70級防具。	ITEM_DATA
+111705500	史詩防具石 U75 (配方)	ITEM_DATA
+111705501	使用U75藍色和紅色石頭製作史詩防具石。	ITEM_DATA
+111705510	史詩武器石 U75 (配方)	ITEM_DATA
+111705511	使用U75藍色和紅色石頭製作史詩武器石。	ITEM_DATA
+111705520	史詩防具石 U75 (配方)	ITEM_DATA
+111705521	使用U75綠色和紫色石頭製作史詩防具石。	ITEM_DATA
+111705530	史詩武器石 U75 (配方)	ITEM_DATA
+111705531	使用U75綠色和紫色石頭製作史詩武器石。	ITEM_DATA
+111705540	那美克星人訓練服	ITEM_DATA
+111705541	製作：Kakaichi	ITEM_DATA
+111705550	拿帕的賽亞人服裝	ITEM_DATA
+111705551	製作：Kakaichi	ITEM_DATA
+111705560	巴達克賽亞人服裝（悟空之父電影版）	ITEM_DATA
+111705561	製作：Kakaichi	ITEM_DATA
+111705570	巴達克賽亞人服裝（超：布羅利電影版）	ITEM_DATA
+111705571	製作：Kakaichi	ITEM_DATA
+111705580	達列斯的賽亞人服裝	ITEM_DATA
+111705581	製作：Kakaichi	ITEM_DATA
+111705590	地獄之翼	ITEM_DATA
+111705591	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705600	西科爾的服裝	ITEM_DATA
+111705601	這套服裝的風格與悟空的服裝非常相似。\n但卻散發著邪惡的氣息...	ITEM_DATA
+111705610	米霍克的劍	ITEM_DATA
+111705611	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705620	米霍克的帽子	ITEM_DATA
+111705621	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705630	愛之杖	ITEM_DATA
+111705631	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705640	GM武器升級石	ITEM_DATA
+111705641	僅限管理員使用！！	ITEM_DATA
+111705650	GM防具升級石	ITEM_DATA
+111705651	僅限管理員使用！！	ITEM_DATA
+111705660	史詩武器石 U70 (配方)	ITEM_DATA
+111705661	使用U70藍色和紅色石頭製作史詩武器石。	ITEM_DATA
+111705670	史詩防具石 U70 (配方)	ITEM_DATA
+111705671	使用U70藍色和紅色石頭製作史詩防具石。	ITEM_DATA
+111705680	史詩白色石 U70 (配方)	ITEM_DATA
+111705681	使用U70綠色和紫色石頭製作史詩白色石頭。	ITEM_DATA
+111705690	史詩防具石 U70 (配方)	ITEM_DATA
+111705691	使用U70綠色和紫色石頭製作史詩防具石。	ITEM_DATA
+111705700	紅褲子灰熊服裝	ITEM_DATA
+111705701	用紅褲子灰熊的皮毛製成！	ITEM_DATA
+111705710	紅褲子灰熊頭套	ITEM_DATA
+111705711	用紅褲子灰熊的頭部製成！	ITEM_DATA
+111705720	怪盜帽子	ITEM_DATA
+111705721	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705730	白鬍子帽子	ITEM_DATA
+111705731	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705740	白鬍子柺杖	ITEM_DATA
+111705741	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705750	妖精速度之翼	ITEM_DATA
+111705751	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705760	黑色斧頭幻化	ITEM_DATA
+111705761	界王神專用的斧頭幻化。	ITEM_DATA
+111705910	活動幣禮包(100個)	ITEM_DATA
+111705911	右鍵點擊立即獲得100個活動幣！	ITEM_DATA
+111705920	瓦古幣禮包(100個)	ITEM_DATA
+111705921	右鍵點擊立即獲得100個瓦古幣！	ITEM_DATA
+111705930	驕傲戰隊服裝	ITEM_DATA
+111705931	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705940	未來特蘭克斯服裝(DBZ)	ITEM_DATA
+111705941	製作：Kakaichi、Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705950	象帕服裝	ITEM_DATA
+111705951	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705960	比魯斯服裝	ITEM_DATA
+111705961	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705970	黑悟空服裝	ITEM_DATA
+111705971	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705980	少女布瑪服裝	ITEM_DATA
+111705981	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111705990	凱爾髮型	ITEM_DATA
+111705991	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706000	卡莉芙拉髮型	ITEM_DATA
+111706001	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706010	超級賽亞人桃紅髮型	ITEM_DATA
+111706011	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706020	小悟空太空艙	ITEM_DATA
+111706021	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706030	比魯斯助手服裝	ITEM_DATA
+111706031	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706040	龍珠雷達	ITEM_DATA
+111706041	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706050	未來特蘭克斯髮型	ITEM_DATA
+111706051	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706060	道服預覽	ITEM_DATA
+111706061	使用Shift+滑鼠左鍵預覽物品。	ITEM_DATA
+111706070	神龍之翼(灰色)	ITEM_DATA
+111706071	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111706080	神龍之翼(金色)	ITEM_DATA
+111706081	製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
+111708291	洛克人致敬頭盔	ITEM_DATA
+111708292	洛克人頭部	ITEM_DATA
+111708300	洛克人服裝	ITEM_DATA
+111708301	洛克人道服	ITEM_DATA
+111708310	傑洛頭盔	ITEM_DATA
+111708311	傑洛致敬	ITEM_DATA
+111708320	傑洛服裝	ITEM_DATA
+111708321	傑洛道服	ITEM_DATA
+111708410	超級賽亞人4貝吉特髮型	ITEM_DATA
+111708411	粉絲自製的超級賽亞人4貝吉特髮型	ITEM_DATA
+111708420	超級賽亞人4悟吉塔假髮	ITEM_DATA
+111708421	替換為超級賽亞人4悟吉塔假髮	ITEM_DATA
+111708430	超級賽亞人4悟空假髮	ITEM_DATA
+111708431	替換為超級賽亞人4悟空假髮	ITEM_DATA
+111708460	藍髮貝吉特髮型	ITEM_DATA
+111708461	出自《龍珠超》的藍髮貝吉特	ITEM_DATA
+111708480	超級賽亞人4悟飯髮型	ITEM_DATA
+111708481	粉絲製作的龍珠同人超級賽亞人4悟飯髮型	ITEM_DATA
+111708490	自在極意功髮型	ITEM_DATA
+111708491	悟空最強的髮型形態	ITEM_DATA
+111708500	魔人印記	ITEM_DATA
+111708501	用於展示真正的邪惡	ITEM_DATA
+111708510	時間破壞面具-貝吉塔王	ITEM_DATA
+111708511	時間破壞面具服裝	ITEM_DATA
+111708550	破損悟空道服	ITEM_DATA
+111708551	破損版的悟空服裝..	ITEM_DATA
+111708560	貝吉塔魔人篇服裝	ITEM_DATA
+111708561	貝吉塔在魔人篇穿著的服裝	ITEM_DATA
+111708680	劍士預告片服裝	ITEM_DATA
+111708681	DBO預告片中劍士職業使用的服裝	ITEM_DATA
+111708710	超級賽亞人4悟空GT道服	ITEM_DATA
+111708711	靈感來自《龍珠GT》和《超級龍珠英雄》變身的道服	ITEM_DATA
+111708720	超級賽亞人4貝吉塔GT道服	ITEM_DATA
+111708750	超級賽亞人4悟吉塔服裝	ITEM_DATA
+111708751	替換為超級賽亞人4悟吉塔服裝	ITEM_DATA
+111708760	異戰版超級賽亞人4悟空服裝	ITEM_DATA
+111708761	替換為異戰版超級賽亞人4悟空服裝	ITEM_DATA
+111708770	異戰版超級賽亞人4貝吉塔道服	ITEM_DATA
+111708790	異戰版超級賽亞人4貝吉特道服	ITEM_DATA
+111708800	異戰版悟天克斯道服	ITEM_DATA
+111708810	異戰版貝吉特服裝	ITEM_DATA
+111708811	華麗的異戰版貝吉特服裝	ITEM_DATA
+111708850	黑悟空英雄道服	ITEM_DATA
+111708851	《龍珠英雄》中黑悟空穿著的服裝	ITEM_DATA
+111708880	驕傲戰隊服裝	ITEM_DATA
+111708881	吉連、托破等驕傲戰隊成員穿著的服裝	ITEM_DATA
+111708910	悟空《超級布羅利》服裝	ITEM_DATA
+111708911	華麗的悟空服裝	ITEM_DATA
+111708920	貝吉塔《超級布羅利》服裝	ITEM_DATA
+111708921	華麗的貝吉塔服裝	ITEM_DATA
+111708980	破壞神帕拉斯服裝	ITEM_DATA
+111708981	精美的帕拉斯套裝	ITEM_DATA
 111800010	波波的戒指 LV11	ITEM_DATA
 111800011	為支援新手們所贈送的戒指。\n請好好使用	ITEM_DATA
 111800020	波波的耳環 LV11	ITEM_DATA
@@ -46577,30 +46578,30 @@ tblidx	wszName	Type
 111800111	為支援新手們所贈送的耳環。\n請好好使用	ITEM_DATA
 111800120	波波的項鍊 LV38	ITEM_DATA
 111800121	為支援新手們所贈送的項鍊。\n請好好使用	ITEM_DATA
-111900020	Boite fondateur Krilin	ITEM_DATA
-111900021	Décerné à ceux qui ont acheté le pack Fondateur Krilin\npour soutenir le serveur ! 	ITEM_DATA
-111900030	Boite fondateur Goku	ITEM_DATA
-111900031	Décerné à ceux qui ont acheté le pack Fondateur Goku\npour soutenir le serveur ! 	ITEM_DATA
-111900040	Boite fondateur Super Saiyan	ITEM_DATA
-111900041	Décerné à ceux qui ont acheté le pack Fondateur Super Saiyan\npour soutenir le serveur ! 	ITEM_DATA
-111900080	Compensation Pack	ITEM_DATA
-111900081	An apology compensation pack for the issues the server faced recently, Thank you for supporting KnightZ!	ITEM_DATA
-111900090	Level Up 70!	ITEM_DATA
-111900091	Increase character level to 70.	ITEM_DATA
-111900093	Level Up 80!	ITEM_DATA
-111900094	Increase character level to 80.	ITEM_DATA
-111900100	Daily Package CC F32	ITEM_DATA
-111900101	Redeem your daily CC F32	ITEM_DATA
-111900110	Daily Package AutoPOT	ITEM_DATA
-111900111	Redeem your daily AutoPOT	ITEM_DATA
-111900120	Daily Package Shenron Coin	ITEM_DATA
-111900121	Redeem your daily Shenron Coin	ITEM_DATA
-111900130	Daily Package Upgrade Stones	ITEM_DATA
-111900131	Redeem your daily Upgrade Stones	ITEM_DATA
-111900140	Daily Package Event Coin	ITEM_DATA
-111900141	Redeem your daily Event Coin	ITEM_DATA
-111900150	Daily Package Silver Box 100%	ITEM_DATA
-111900151	Redeem your daily Silver Box	ITEM_DATA
+111900020	克林創始者禮盒	ITEM_DATA
+111900021	頒發給購買克林創始者包的玩家\n感謝您支持伺服器！	ITEM_DATA
+111900030	悟空創始者禮盒	ITEM_DATA
+111900031	頒發給購買悟空創始者包的玩家\n感謝您支持伺服器！	ITEM_DATA
+111900040	超級賽亞人創始者禮盒	ITEM_DATA
+111900041	頒發給購買超級賽亞人創始者包的玩家\n感謝您支持伺服器！	ITEM_DATA
+111900080	補償禮包	ITEM_DATA
+111900081	針對近期伺服器問題的道歉補償禮包，感謝您對KnightZ的支持！	ITEM_DATA
+111900090	升級至70級！	ITEM_DATA
+111900091	將角色等級提升至70級。	ITEM_DATA
+111900093	升級至80級！	ITEM_DATA
+111900094	將角色等級提升至80級。	ITEM_DATA
+111900100	每日CC F32禮包	ITEM_DATA
+111900101	領取您每日的CC F32獎勵	ITEM_DATA
+111900110	每日自動藥水禮包	ITEM_DATA
+111900111	領取您每日的自動藥水獎勵	ITEM_DATA
+111900120	每日神龍幣禮包	ITEM_DATA
+111900121	領取您每日的神龍幣獎勵	ITEM_DATA
+111900130	每日升級石禮包	ITEM_DATA
+111900131	領取您每日的升級石獎勵	ITEM_DATA
+111900140	每日活動幣禮包	ITEM_DATA
+111900141	領取您每日的活動幣獎勵	ITEM_DATA
+111900150	每日銀箱禮包(100%)	ITEM_DATA
+111900151	領取您每日的銀箱獎勵	ITEM_DATA
 112000000	仙子的翅膀	ITEM_DATA
 112000001	真正的仙子翅膀的复制品。传言说在\nbe弥次郎兵卫的草原上会找得到	ITEM_DATA
 112000010	PFN龟壳	ITEM_DATA
@@ -46721,59 +46722,59 @@ tblidx	wszName	Type
 112000611	穿着最强壮的战士！	ITEM_DATA
 112000620	庭院鼠星人配备（原版的）	ITEM_DATA
 112000621	其中原始的庭院鼠星人装备，孙悟空穿着当他在地球上降落时	ITEM_DATA
-112000630	CC Staff Outfit (Yellow)	ITEM_DATA
-112000640	CC Staff Outfit (Green)	ITEM_DATA
-112000650	CC Red Outfit	ITEM_DATA
-112000651	Featuring Capsule Corp.	ITEM_DATA
-112000660	CC Yellow Outfit	ITEM_DATA
-112000670	CC Blue Outfit	ITEM_DATA
-112000680	CC White Outfit	ITEM_DATA
-112000690	CC Mixed Outfit V1	ITEM_DATA
-112000700	CC Mixed Outfit V2	ITEM_DATA
-112000710	CC Modern Outfit	ITEM_DATA
-112000720	CC New Outfit	ITEM_DATA
-112000730	CC Purple Outfit	ITEM_DATA
-112000760	Cowboy Outfit(type B)	ITEM_DATA
+112000630	CC員工服裝（黃色）	ITEM_DATA
+112000640	CC員工服裝（綠色）	ITEM_DATA
+112000650	CC紅色服裝	ITEM_DATA
+112000651	膠囊公司特色服裝	ITEM_DATA
+112000660	CC黃色服裝	ITEM_DATA
+112000670	CC藍色服裝	ITEM_DATA
+112000680	CC白色服裝	ITEM_DATA
+112000690	CC混搭服裝V1	ITEM_DATA
+112000700	CC混搭服裝V2	ITEM_DATA
+112000710	CC現代服裝	ITEM_DATA
+112000720	CC新款服裝	ITEM_DATA
+112000730	CC紫色服裝	ITEM_DATA
+112000760	牛仔服裝(B型)	ITEM_DATA
 112000761		ITEM_DATA
-112000770	Cowboy Outfit(type C)	ITEM_DATA
+112000770	牛仔服裝(C型)	ITEM_DATA
 112000771		ITEM_DATA
-112000780	Cowboy Outfit(type D)	ITEM_DATA
+112000780	牛仔服裝(D型)	ITEM_DATA
 112000781		ITEM_DATA
-112000790	Cowboy Outfit(type E)	ITEM_DATA
+112000790	牛仔服裝(E型)	ITEM_DATA
 112000791		ITEM_DATA
-112000800	Cowboy Outfit(type F)	ITEM_DATA
+112000800	牛仔服裝(F型)	ITEM_DATA
 112000801		ITEM_DATA
-112000810	Cowboy Outfit(type G)	ITEM_DATA
+112000810	牛仔服裝(G型)	ITEM_DATA
 112000811		ITEM_DATA
-112000820	Cowboy Outfit(type H)	ITEM_DATA
+112000820	牛仔服裝(H型)	ITEM_DATA
 112000821		ITEM_DATA
-112000830	Cowboy Outfit(type I)	ITEM_DATA
+112000830	牛仔服裝(I型)	ITEM_DATA
 112000831		ITEM_DATA
-112000880	CC Space Outfit	ITEM_DATA
-112000940	Warrior's Outfit(type A)	ITEM_DATA
+112000880	CC太空服裝	ITEM_DATA
+112000940	戰士服裝(A型)	ITEM_DATA
 112000941		ITEM_DATA
-112000950	Warrior's Outfit(type B)	ITEM_DATA
+112000950	戰士服裝(B型)	ITEM_DATA
 112000951		ITEM_DATA
-120301203	SSG Yamoshi Clothes	ITEM_DATA
-120301204	Legendary Yamoshi, the First SSJ GOD.	ITEM_DATA
-120801208	Inosuke Clothes	ITEM_DATA
-120801209	Featuring Demon Slayer.	ITEM_DATA
-121001210	Nezuko Clothes	ITEM_DATA
-121001211	Featuring Demon Slayer(Kimetsu no Yaiba).	ITEM_DATA
-121800080	PoPo Earrings LV30	ITEM_DATA
-121800090	PoPo Necklace LV30	ITEM_DATA
-121800091	PoPo Ring LV30	ITEM_DATA
-121800100	PoPo Ring LV38	ITEM_DATA
-121800110	PoPo Earrings LV38	ITEM_DATA
-121800120	PoPo Necklace LV38	ITEM_DATA
-121800130	PoPo Ring LV70	ITEM_DATA
-121800131	Celebrate the gift rings at level 70. Congratulations on your highest level!	ITEM_DATA
-121800140	Luminous PoPo Ring	ITEM_DATA
-121900011	Please confirm your fortune once every 30 minutes with fortune cookies.	ITEM_DATA
-121901219	SSG Yamoshi Hair	ITEM_DATA
-122301223	Nezuko Head	ITEM_DATA
-122401224	Elizabeth Head	ITEM_DATA
-122401225	Featuring Nanatsu no Taizai.	ITEM_DATA
+120301203	超級賽亞神亞莫西服裝	ITEM_DATA
+120301204	傳說中的亞莫西，首位超級賽亞神。	ITEM_DATA
+120801208	嘴平伊之助服裝	ITEM_DATA
+120801209	《鬼滅之刃》特色服裝	ITEM_DATA
+121001210	竈門禰豆子服裝	ITEM_DATA
+121001211	《鬼滅之刃》特色服裝	ITEM_DATA
+121800080	波波耳環 LV30	ITEM_DATA
+121800090	波波項鍊 LV30	ITEM_DATA
+121800091	波波戒指 LV30	ITEM_DATA
+121800100	波波戒指 LV38	ITEM_DATA
+121800110	波波耳環 LV38	ITEM_DATA
+121800120	波波項鍊 LV38	ITEM_DATA
+121800130	波波戒指 LV70	ITEM_DATA
+121800131	慶祝達到70級的禮物戒指。恭喜您達到最高等級！	ITEM_DATA
+121800140	閃耀波波戒指	ITEM_DATA
+121900011	請每30分鐘確認一次您的運勢餅乾。	ITEM_DATA
+121901219	超級賽亞神亞莫西髮型	ITEM_DATA
+122301223	竈門禰豆子頭飾	ITEM_DATA
+122401224	伊麗莎白頭飾	ITEM_DATA
+122401225	《七大罪》特色頭飾	ITEM_DATA
 200100000	製造萃取液 01號	ITEM_DATA
 200100001	製作裝備時裝催化劑的瓶子	ITEM_DATA
 200200000	特殊部品 02號	ITEM_DATA
@@ -46820,24 +46821,24 @@ tblidx	wszName	Type
 210140011	細菌家族夏日派對所使用的鼓。\n雖然邊緣用閃閃發亮的黃金做裝飾，但皮革卻滿面汙垢\n還發黃。不愉快的氣氛會隨著巨大的鼓聲傳遞到周圍，\n這是它的特殊效果。	ITEM_DATA
 210145010	細菌油油面具	ITEM_DATA
 210145011	細菌家族的悲劇之一。\n左右臉的形狀非常獨特，好似看不起人的表情一般，\n完全的表現出了細菌家族的特性。	ITEM_DATA
-211100040	UD Coin	ITEM_DATA
-211100041	Collect the coins inside the Ultimate Dungeon.\nThese coins are used to purchase special items from the UD NPC.	ITEM_DATA
-211100050	UD Coin Fragment	ITEM_DATA
-211100051	Collect the fragments inside the Ultimate Dungeon.\nThese fragments can be exchanged for UD Coins at the UD NPC.	ITEM_DATA
-211100060	Saiyawoman Outfit	ITEM_DATA
-211100070	Epic Weapon Upgrade Stone U70	ITEM_DATA
-211100071	The enhancement level will increase from 1 to 3 upon successful enhancement.\nUse White Stones to prevent the item from breaking.\nFor armor levels 1 to 70.	ITEM_DATA
-211100080	Epic Armor Upgrade Stone U70	ITEM_DATA
-211100081	The enhancement level will increase from 1 to 3 upon successful enhancement.\nUse White Stones to prevent the item from breaking.\nFor armor levels 1 to 70.	ITEM_DATA
-211100090	CC Battle Dungeon Coupon (21F)	ITEM_DATA
-211100091	Grant you access to higher floors in CCBD.	ITEM_DATA
-211100100	Vegeta Outfit (Android Saga)	ITEM_DATA
-211100120	DBO Trailer Outfit	ITEM_DATA
-211100140	Goku Outfit (GT)	ITEM_DATA
-211100150	Vegeta Outfit (Super)	ITEM_DATA
-211100160	Goku Outfit (Super)	ITEM_DATA
-211100180	Goku Outfit (End of Z)	ITEM_DATA
-211100190	Saiyaman Outfit (Destroyed Version)	ITEM_DATA
+211100040	UD幣	ITEM_DATA
+211100041	在UD中收集的貨幣。\n可用於向UD NPC購買特殊物品。	ITEM_DATA
+211100050	UD幣碎片	ITEM_DATA
+211100051	在UD中收集的碎片。\n可向UD NPC兌換成終極地獄幣。	ITEM_DATA
+211100060	賽亞女戰士服裝	ITEM_DATA
+211100070	史詩武器升級石 U70	ITEM_DATA
+211100071	強化成功時，強化等級將提升1至3級。\n使用白色寶石可防止物品損壞。\n適用於1至70級防具。	ITEM_DATA
+211100080	史詩防具升級石 U70	ITEM_DATA
+211100081	強化成功時，強化等級將提升1至3級。\n使用白色寶石可防止物品損壞。\n適用於1至70級防具。	ITEM_DATA
+211100090	膠囊公司戰鬥地獄券(21F)	ITEM_DATA
+211100091	可進入膠囊公司戰鬥地獄更高樓層。	ITEM_DATA
+211100100	貝吉塔服裝(人造人篇)	ITEM_DATA
+211100120	DBO預告片服裝	ITEM_DATA
+211100140	悟空服裝(GT)	ITEM_DATA
+211100150	貝吉塔服裝(超)	ITEM_DATA
+211100160	悟空服裝(超)	ITEM_DATA
+211100180	悟空服裝(Z結局)	ITEM_DATA
+211100190	賽亞超人服裝(破損版)	ITEM_DATA
 300100000	製造萃取液 03號	ITEM_DATA
 300100001	製作裝備時裝催化劑的瓶子	ITEM_DATA
 300200000	特殊部品 03號	ITEM_DATA
@@ -48286,18 +48287,18 @@ tblidx	wszName	Type
 31971	史考特	MERCHANT_DATA
 31981	史考特	MERCHANT_DATA
 31991	史考特	MERCHANT_DATA
-31992	Power UP	MERCHANT_DATA
-31993	Stone	MERCHANT_DATA
-31994	Titles	MERCHANT_DATA
+31992	集氣	MERCHANT_DATA
+31993	石頭	MERCHANT_DATA
+31994	稱號	MERCHANT_DATA
 100001	熱賣	MERCHANT_DATA
 100002	新品	MERCHANT_DATA
 100003	查看全部	MERCHANT_DATA
-100004	Stone	MERCHANT_DATA
-100005	Outfit	MERCHANT_DATA
-100006	Head	MERCHANT_DATA
-100007	Face	MERCHANT_DATA
-100008	Halo	MERCHANT_DATA
-100009	Wings	MERCHANT_DATA
+100004	石頭	MERCHANT_DATA
+100005	時裝	MERCHANT_DATA
+100006	頭飾	MERCHANT_DATA
+100007	面飾	MERCHANT_DATA
+100008	光環	MERCHANT_DATA
+100009	翅膀	MERCHANT_DATA
 100010	禮包	MERCHANT_DATA
 100011	強化道具	MERCHANT_DATA
 100012	功能性道具	MERCHANT_DATA
@@ -55065,7 +55066,7 @@ tblidx	wszName	Type
 12731103	神龍幼蟲	MOB_DATA
 12731104	鯰魚拉龍	MOB_DATA
 12731201	鯰魚黑白拉龍	MOB_DATA
-12741101	王者德拉科	MOB_DATA
+12741101	噴火王八	MOB_DATA
 12811101	酸性光	MOB_DATA
 12811201	試煉之光	MOB_DATA
 12811401	火團	MOB_DATA
@@ -55890,60 +55891,60 @@ tblidx	wszName	Type
 57711301	弗力札軍游擊隊格鬥兵	MOB_DATA
 58131101	游擊隊長藍斯密思	MOB_DATA
 58131301	弗力札軍野戰隊襲擊兵	MOB_DATA
-68131380	Dende Ilusion Goku	MOB_DATA
-68131390	Vampa Beetle	MOB_DATA
-68131391	Super Saiyan Broly	MOB_DATA
-68131392	Ozaru Broly	MOB_DATA
-68131393	Broly	MOB_DATA
-68131394	 3 Star Dragon	MOB_DATA
-68131395	 4 Star Dragon	MOB_DATA
-68131396	 1 Star Dragon	MOB_DATA
-68131397	 Evil Dragon	MOB_DATA
-68131398	 Ice Dragon	MOB_DATA
-68131399	 Fire Dragon	MOB_DATA
-68131402	Pocot	MOB_DATA
-68131403	Mutchy Jr	MOB_DATA
-68131404	Roboton	MOB_DATA
-68131405	Tambouron	MOB_DATA
-68131406	Zoon-seijin No. X	MOB_DATA
-68131407	Chief Baylor	MOB_DATA
-68131408	Baylor's Guard	MOB_DATA
-68131410	Exploding Egg	MOB_DATA
-68131411	Firey Wild Plant	MOB_DATA
-68131412	Giant Forest Wolf	MOB_DATA
-68131414	Forest Wolf	MOB_DATA
-68131427	Pocot's Hired Guard	MOB_DATA
-68131428	Corrupted Saibaman	MOB_DATA
-68131470	Cell Jr	MOB_DATA
-68131471	Majin Boo	MOB_DATA
-681313220	Small Treasure Chest	MOB_DATA
-681313230	Huge Treasure Chest	MOB_DATA
-717621190	Giant Snake	MOB_DATA
-717621200	Bzz Drone	MOB_DATA
-717621210	King Wolf	MOB_DATA
-717621230	Son Gohan	MOB_DATA
-717621240	Hole Lizard	MOB_DATA
-717621250	Son of Evil Drum	MOB_DATA
-717621260	Son of Evil Tambourine	MOB_DATA
-717621270	Son of Evil DarkWay	MOB_DATA
-717621280	Piccolo Daimaoh	MOB_DATA
-717621290	Sword Fish	MOB_DATA
-717621300	Indigenous Dog	MOB_DATA
-717621310	RR Giraffe	MOB_DATA
-717621320	Combat Robot	MOB_DATA
-717621330	Tao Pai Pai	MOB_DATA
-717621340	Giant Boss Bull	MOB_DATA
-717621350	Strong Machine	MOB_DATA
-717621360	Panda Scythe	MOB_DATA
-717621370	Android 8000	MOB_DATA
-717621380	General RED	MOB_DATA
-717621390	Zombie	MOB_DATA
-717621400	Invisible Man	MOB_DATA
-717621410	Mummy	MOB_DATA
-717621420	Pure Evil	MOB_DATA
-717621430	Son Gohan	MOB_DATA
-717621440	Shenron	MOB_DATA
-717621450	Corrupted Korin Master	MOB_DATA
+68131380	丹迪幻象悟空	MOB_DATA
+68131390	萬帕甲蟲	MOB_DATA
+68131391	超級賽亞人布羅利	MOB_DATA
+68131392	大猿布羅利	MOB_DATA
+68131393	布羅利	MOB_DATA
+68131394	三星邪惡龍	MOB_DATA
+68131395	四星邪惡龍	MOB_DATA
+68131396	一星邪惡龍	MOB_DATA
+68131397	邪惡龍	MOB_DATA
+68131398	冰霜邪惡龍	MOB_DATA
+68131399	烈焰邪惡龍	MOB_DATA
+68131402	波可特	MOB_DATA
+68131403	小瑪奇	MOB_DATA
+68131404	機器鈍	MOB_DATA
+68131405	坦布倫	MOB_DATA
+68131406	X號動物星人	MOB_DATA
+68131407	貝勒首領	MOB_DATA
+68131408	貝勒守衛	MOB_DATA
+68131410	爆炸蛋	MOB_DATA
+68131411	烈焰野生植物	MOB_DATA
+68131412	巨型森林狼	MOB_DATA
+68131414	森林狼	MOB_DATA
+68131427	波可特雇傭守衛	MOB_DATA
+68131428	墮化栽培人	MOB_DATA
+68131470	小賽魯	MOB_DATA
+68131471	魔人普烏	MOB_DATA
+681313220	小型寶箱	MOB_DATA
+681313230	巨型寶箱	MOB_DATA
+717621190	巨蛇	MOB_DATA
+717621200	科柏蚊	MOB_DATA
+717621210	狼王	MOB_DATA
+717621230	孫悟飯	MOB_DATA
+717621240	洞窟蜥蜴	MOB_DATA
+717621250	邪惡鼓之子	MOB_DATA
+717621260	邪惡鈴鼓之子	MOB_DATA
+717621270	邪惡黑暗道之子	MOB_DATA
+717621280	比克大魔王	MOB_DATA
+717621290	劍魚	MOB_DATA
+717621300	大冤種的狗	MOB_DATA
+717621310	紅緞帶長頸鹿	MOB_DATA
+717621320	戰鬥機器人	MOB_DATA
+717621330	桃白白	MOB_DATA
+717621340	巨型首領公牛	MOB_DATA
+717621350	牛馬機器人	MOB_DATA
+717621360	美洲大鐮	MOB_DATA
+717621370	人造人8000號	MOB_DATA
+717621380	毀滅機槍人	MOB_DATA
+717621390	殭姜江	MOB_DATA
+717621400	懶得做模型	MOB_DATA
+717621410	邪惡繃帶人	MOB_DATA
+717621420	小丑	MOB_DATA
+717621430	孫悟飯	MOB_DATA
+717621440	神龍	MOB_DATA
+717621450	墮落的加特林仙人	MOB_DATA
 1	服飾商人	NPC_DATA
 2	雜貨商人	NPC_DATA
 3	史考特商人	NPC_DATA
@@ -64953,119 +64954,119 @@ tblidx	wszName	Type
 306141	用氣彈使敵人漂浮後再進行連續攻擊，受到這攻擊的敵人\n甚麼動作也不能做。	SKILL_DATA
 306150	神龍威力！！	SKILL_DATA
 306151	用氣彈使敵人漂浮後再進行連續攻擊，受到這攻擊的敵人\n甚麼動作也不能做。	SKILL_DATA
-520120	Orange Namek	SKILL_DATA
-520121	Transform into a Orange Namek. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-700970	Super Saiyan God	SKILL_DATA
-700971	The Super Saiyan God is a powerful transformation that allows for a significant increase in combat abilities, obtained through Shenron.	SKILL_DATA
-800970	Super Saiyan 2	SKILL_DATA
-800971	The Super Saiyan 2 is an evolution of the Super Saiyan that offers new levels of power and abilities.	SKILL_DATA
-800972	SuperBuu	SKILL_DATA
-800973	Transform into a Super Buu. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-800974	Kamiccolo-Sama	SKILL_DATA
-800975	Transform into a Mystic Namek. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-800976	Unleashed Potential	SKILL_DATA
-800977	Transform into a Mystic Majin. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-800978	Great Orange Namek	SKILL_DATA
-800979	Transform into a Great Orange Namek. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-800980	Super Saiyan 4	SKILL_DATA
-800981	Transform into a Super Saiyan 4. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-800982	Golden Oozaru	SKILL_DATA
-800983	Transform into a Golden Oozaru. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-809976	BuuTenks	SKILL_DATA
-809977	Transform into a BuuTenks. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-820979	Super Saiyan 3	SKILL_DATA
-820980	Transform into a Super Saiyan 3. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-829979	Legendary Super Saiyan (Z)	SKILL_DATA
-829980	Transform into a Skin Legendary Super Saiyan. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
-890978	Dark Namek	SKILL_DATA
-890979	Transform into a Dark Namek. A being of \ndestruction with insane power. \n All your Attributes will power up in this form. 	SKILL_DATA
-890980	Warrior Spirit	SKILL_DATA
-890981	Ultimate Final Flash	SKILL_DATA
-890982	Brawler's Might	SKILL_DATA
-890983	Take a deep breath to control your heart-rate.\nThis will help you life and dexterity!	SKILL_DATA
-890984	Severing Slash	SKILL_DATA
-890985	This Severing Slash isn't just a cut—it's a penetrating \nstrike that tears through your foe's defenses, shattering \ntheir resistance and leaving them vulnerable.	SKILL_DATA
-890986	Shadow Slash	SKILL_DATA
-890987	This Shadow Slash isn't merely a cut; it's a chilling \nstrike infused with dark energy, making it an ideal choice for stealthy attacks \nand exploiting your enemy's weaknesses from the shadows.	SKILL_DATA
-890988	Spirit Barrage	SKILL_DATA
-890989	it's a Spirit Barrage, a rapid sequence of ethereal slashes that tear \nthrough your foes. Each cut weakens their spiritual defenses, leaving them vulnerable to the next.	SKILL_DATA
-890990	Piercing Flurry	SKILL_DATA
-890991	Unleash a Piercing Flurry, a rapid succession of devastating cuts \ndesigned to bypass armor and resistance. Each strike drills deeper\nensuring your follow-up attacks hit with even greater force.	SKILL_DATA
-890992	Take a deep breath to control your heart-rate.\nThis will help you life and Strength!	SKILL_DATA
-890993	Increase your dodge rate.	SKILL_DATA
-890994	Ultimate Crane Technique	SKILL_DATA
-890995	Create a beat that increases your\nincrease the duration of attack speed.	SKILL_DATA
-890996	Ultimate Presentation	SKILL_DATA
-890997	Awaken your bodies increase the duration of the skill effect	SKILL_DATA
-890998	Spirit Bomb Concentration	SKILL_DATA
-890999	Greatly increases the user's power while active. 	SKILL_DATA
-891000	Wall Cracker	SKILL_DATA
-891001	Unleash your wildest energy to\nshatter all defenses around you.	SKILL_DATA
-891002	Grand Turtle Art	SKILL_DATA
-891003	Increase your life and your soul!	SKILL_DATA
-891004	Hermit's Hidden Power	SKILL_DATA
-891005	Increase your attack power while\nboosting your attack speed.	SKILL_DATA
-891006	Dragon Claw Strike	SKILL_DATA
-891007	This version deals bigger and more lethal\ndamage. Its consecutive fist barrage breaks\nthe foe's attack stance and disorients them.	SKILL_DATA
-891008	The Ironclad	SKILL_DATA
-891009	Use your soul to protect yourself by raising\nyour defence.	SKILL_DATA
-891010	Namekian Awakening	SKILL_DATA
-891011	When you are weak, use your willpower to boost your power\nand unleash hidden attacks upon your foes.	SKILL_DATA
-891012	Crimson Talon Assault	SKILL_DATA
-891013	Enhanced version of the deep strike skill.\nThis version deals bigger and more lethal\ndamage to your enemies, it hit the enemy\nso hard it makes them lose concentration.	SKILL_DATA
-891014	Shadow Claw Technique	SKILL_DATA
-891015	This is a powerful attack lunge,\nable to stun your enemies upon impact.	SKILL_DATA
-891016	Scarlet Devastation	SKILL_DATA
-891017	The enhanced version of the Demon Axe. This axe\ntechnique deals lethal area damage to the foe.	SKILL_DATA
-891018	Furious Edge Strike	SKILL_DATA
-891019	Unleash a heavily charged axe. This slashing lunge\nstrikes the target, dealing lethal damage to enemies.	SKILL_DATA
-891020	Twirling Axe	SKILL_DATA
-891021	Unleash a spinning axe that affects all\nenemies. It breaks their defenses and attacks.	SKILL_DATA
-891022	Axe's Bane	SKILL_DATA
-891023	Curse your enemies so they lose extra\ndodge everytime they try to use a skill.	SKILL_DATA
-891024	Awakened Namekian Power	SKILL_DATA
-891025	Unleash your hidden power now.\nShow them what you are capable of.	SKILL_DATA
-891026	Kami's Suply	SKILL_DATA
-891027	Awaken the power inside of your allies\nto greatly increase life\n and remove curse	SKILL_DATA
-891028	Destruction ball!	SKILL_DATA
-891029	A gigantic sphere of energy with the power to\nwipe the entire planet off the face of the Earth.	SKILL_DATA
-891030	The Symphony of Trumpet's Extinction VI	SKILL_DATA
-891031	Its melody confuses foes.	SKILL_DATA
-891032	The Symphony of Trumpet's Extinction VII	SKILL_DATA
-891033	Its melody confuses foes and burn.	SKILL_DATA
-891034	Ultimate Miraculous Power	SKILL_DATA
-891035	This technique grants the user extraordinary power.	SKILL_DATA
-891036	Power of trumpet	SKILL_DATA
-891037	This technique grants the all user extraordinary pysical power.	SKILL_DATA
-891038	Robust Evil Buu	SKILL_DATA
-891039	Ultimate Burn Attack!!!	SKILL_DATA
-891040	Explosion Palm	SKILL_DATA
-891041	Chief hidden power	SKILL_DATA
-891042	a violent attack of flames	SKILL_DATA
-891043	an attack that explodes all accumulation of burn or abdominal	SKILL_DATA
-891044	release all your hidden power using this technique	SKILL_DATA
-891045	Drum Fury!	SKILL_DATA
-891046	Chaos Cadence!	SKILL_DATA
-891047	Echo Drums!	SKILL_DATA
-891048	The Drum Unleashed	SKILL_DATA
-891049	Arcane Charge	SKILL_DATA
-891050	use the drum to confuse your enemies!\n It only works if you are not under attack	SKILL_DATA
-891051	make the melody come out in \n ki form by consecutively hitting the drum	SKILL_DATA
-891052	Leave your enemies bewildered by beating the drum	SKILL_DATA
-891053	a secret technique that awakens the power of agility	SKILL_DATA
-891054	unleash your weapons by releasing a hidden power	SKILL_DATA
-891055	Buu Restoration	SKILL_DATA
-891056	use this technique to activate the buu clan's life restoration	SKILL_DATA
-891057	Lightning Storm!	SKILL_DATA
-891058	Lightning Wave!	SKILL_DATA
-891059	Shield of Secrecy!	SKILL_DATA
-891060	Conqueror's Mask	SKILL_DATA
-891061	a skill that fires a shower of lightning!	SKILL_DATA
-891062	a skill that sends a wave of lightning and locks onto the target	SKILL_DATA
-891063	skill that increases the success rate of attacks	SKILL_DATA
-891064	a special ability that increases defense	SKILL_DATA
-910129	Super Saiyan Rose	SKILL_DATA
-910130	Transform into a Super Saiyan Rose. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
+520120	橙色那美克星人	SKILL_DATA
+520121	變身為橙色那美克星人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+700970	超級賽亞神	SKILL_DATA
+700971	超級賽亞神是通過神龍獲得的強大變身，能顯著提升戰鬥能力。	SKILL_DATA
+800970	超級賽亞人2	SKILL_DATA
+800971	超級賽亞人2是超級賽亞人的進化形態，提供更高層次的力量和能力。	SKILL_DATA
+800972	超級普烏	SKILL_DATA
+800973	變身為超級普烏，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+800974	天神比克	SKILL_DATA
+800975	變身為神秘那美克星人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+800976	潛能解放	SKILL_DATA
+800977	變身為神秘魔人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+800978	巨大橙色那美克星人	SKILL_DATA
+800979	變身為巨大橙色那美克星人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+800980	超級賽亞人4	SKILL_DATA
+800981	變身為超級賽亞人4，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+800982	黃金大猿	SKILL_DATA
+800983	變身為黃金大猿，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+809976	普烏天克斯	SKILL_DATA
+809977	變身為普烏天克斯，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+820979	超級賽亞人3	SKILL_DATA
+820980	變身為超級賽亞人3，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+829979	傳說超級賽亞人(Z)	SKILL_DATA
+829980	變身為傳說超級賽亞人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
+890978	黑暗那美克星人	SKILL_DATA
+890979	變身為黑暗那美克星人，擁有毀滅性的瘋狂力量。\n在此形態下所有屬性都將提升。	SKILL_DATA
+890980	戰士之魂	SKILL_DATA
+890981	終極閃光	SKILL_DATA
+890982	格鬥家之力	SKILL_DATA
+890983	深呼吸控制心率，\n這將提升你的生命力和敏捷！	SKILL_DATA
+890984	斷絕斬	SKILL_DATA
+890985	這記斷絕斬不僅是切割——它是穿透性的猛擊，\n能撕裂敵人的防禦，粉碎他們的抵抗並使其脆弱。	SKILL_DATA
+890986	暗影斬	SKILL_DATA
+890987	這記暗影斬不僅是切割，更是灌注黑暗能量的冰冷打擊，\n非常適合潛行攻擊和從暗處針對敵人弱點。	SKILL_DATA
+890988	星爆氣流斬	SKILL_DATA
+890989	幫我撐10秒，一連串氣斬擊撕裂敵人。\n每次斬擊都會削弱敵人的氣防。	SKILL_DATA
+890990	戳戳你	SKILL_DATA
+890991	釋放穿刺狂擊，一連串毀滅性斬擊無視護甲，\n每次攻擊都更深切入，確保後續攻擊更具威力。	SKILL_DATA
+890992	深呼吸控制心率，\n這將提升你的生命力和力量！	SKILL_DATA
+890993	提升閃避率。	SKILL_DATA
+890994	終極鶴仙流	SKILL_DATA
+890995	創造節奏提升攻擊速度持續時間。	SKILL_DATA
+890996	終極演武	SKILL_DATA
+890997	覺醒身體，延長技能效果持續時間。	SKILL_DATA
+890998	元氣彈凝聚	SKILL_DATA
+890999	大幅提升使用者的力量。	SKILL_DATA
+891000	破壁擊	SKILL_DATA
+891001	釋放狂野能量粉碎周圍所有防禦。	SKILL_DATA
+891002	龜仙大法	SKILL_DATA
+891003	提升生命與靈魂！	SKILL_DATA
+891004	隱者潛能	SKILL_DATA
+891005	提升攻擊力同時增加攻擊速度。	SKILL_DATA
+891006	龍爪擊	SKILL_DATA
+891007	此版本造成更大致命傷害，連續拳擊\n打破敵人攻擊架勢並使其暈眩。	SKILL_DATA
+891008	鐵壁	SKILL_DATA
+891009	運用靈魂提升防禦保護自己。	SKILL_DATA
+891010	那美克覺醒	SKILL_DATA
+891011	虛弱時運用意志力激發潛能，\n對敵人發動隱藏攻擊。	SKILL_DATA
+891012	赤爪猛襲	SKILL_DATA
+891013	深擊技能的強化版，造成更大致命傷害，\n重擊敵人使其失去專注。	SKILL_DATA
+891014	影爪術	SKILL_DATA
+891015	強力衝刺攻擊，命中時可擊暈敵人。	SKILL_DATA
+891016	猩紅毀滅	SKILL_DATA
+891017	惡魔之斧的強化版，此斧技對敵人造成致命範圍傷害。	SKILL_DATA
+891018	狂怒邊緣斬	SKILL_DATA
+891019	釋放蓄力斧擊，對目標造成致命劈砍傷害。	SKILL_DATA
+891020	旋風斧	SKILL_DATA
+891021	釋放旋轉斧擊影響所有敵人，\n破壞其防禦和攻擊。	SKILL_DATA
+891022	斧之詛咒	SKILL_DATA
+891023	詛咒敵人使其每次使用技能時額外失去閃避。	SKILL_DATA
+891024	覺醒那美克之力	SKILL_DATA
+891025	釋放潛藏力量，展現真正實力。	SKILL_DATA
+891026	天神賜福	SKILL_DATA
+891027	喚醒盟友體內力量，大幅提升生命並解除詛咒。	SKILL_DATA
+891028	毀滅彈！	SKILL_DATA
+891029	足以抹除整個星球的巨型能量球。	SKILL_DATA
+891030	滅絕號角VI	SKILL_DATA
+891031	其旋律會迷惑敵人。	SKILL_DATA
+891032	滅絕號角VII	SKILL_DATA
+891033	其旋律會迷惑敵人並造成灼燒。	SKILL_DATA
+891034	終極奇蹟之力	SKILL_DATA
+891035	此技賦予使用者非凡力量。	SKILL_DATA
+891036	號角之力	SKILL_DATA
+891037	此技賦予所有使用者非凡的物理力量。	SKILL_DATA
+891038	強壯邪惡普烏	SKILL_DATA
+891039	終極燃燒攻擊！！！	SKILL_DATA
+891040	爆炸掌	SKILL_DATA
+891041	格蘭潛能	SKILL_DATA
+891042	狂暴的火焰攻擊	SKILL_DATA
+891043	引爆所有累積的燃燒或腹部傷害的攻擊	SKILL_DATA
+891044	釋放所有潛藏力量的技法	SKILL_DATA
+891045	鼓之怒！	SKILL_DATA
+891046	混沌節奏！	SKILL_DATA
+891047	回音鼓！	SKILL_DATA
+891048	解放之鼓	SKILL_DATA
+891049	奧術充能	SKILL_DATA
+891050	用鼓聲迷惑敵人！\n僅在未受攻擊時生效	SKILL_DATA
+891051	通過連續擊鼓使旋律以氣功形式釋放	SKILL_DATA
+891052	通過擊鼓使敵人陷入混亂	SKILL_DATA
+891053	覺醒敏捷之力的秘技	SKILL_DATA
+891054	釋放潛能解放武器威力	SKILL_DATA
+891055	普烏再生	SKILL_DATA
+891056	激活魔人族的生命恢復能力	SKILL_DATA
+891057	閃電風暴！	SKILL_DATA
+891058	閃電波！	SKILL_DATA
+891059	秘儀護盾！	SKILL_DATA
+891060	征服者面具	SKILL_DATA
+891061	釋放閃電雨的技能！	SKILL_DATA
+891062	發射鎖定目標的閃電波	SKILL_DATA
+891063	提升攻擊成功率的技能	SKILL_DATA
+891064	提升防禦的特殊能力	SKILL_DATA
+910129	超級賽亞人桃紅	SKILL_DATA
+910130	變身為超級賽亞人桃紅，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
 991000	神龍的力量	SKILL_DATA
 991001	向神龍許願得到的特別技能。激發沉睡的力量直到極限。	SKILL_DATA
 991010	神龍的力量	SKILL_DATA
@@ -67044,7 +67045,7 @@ tblidx	wszName	Type
 9104561	鶴仙流大暴風的加強版。引起強力的暴風讓指定的敵人和\n周圍目標受到重創。是鶴仙流一定要學會的技巧。	SKILL_DATA
 9104570	究極超級鶴仙流大暴風	SKILL_DATA
 9104571	鶴仙流大暴風的加強版。引起強力的暴風讓指定的敵人和\n周圍目標受到重創。是鶴仙流一定要學會的技巧。	SKILL_DATA
-9104610	Ultimate Aoi bakuhatsu C	SKILL_DATA
+9104610	終極大爆炸 C	SKILL_DATA
 9104611	Centre Your Ki and do an aura explosion all over you	SKILL_DATA
 9104710	一指功	SKILL_DATA
 9104711	鶴仙流的傳統招式。將氣集中在手中一點再發射。天津飯\n也說這招好好用。	SKILL_DATA
@@ -67302,7 +67303,7 @@ tblidx	wszName	Type
 10100131	將強大的龜派神功擲向敵人進行範圍攻擊。\n即使這樣絕不會對範圍內的我軍造成傷害。	SKILL_DATA
 10100140	究極萬國驚天掌	SKILL_DATA
 10100141	將強大的龜派神功擲向敵人進行範圍攻擊。\n即使這樣絕不會對範圍內的我軍造成傷害。	SKILL_DATA
-10100210	Ultimate Aoi bakuhatsu T	SKILL_DATA
+10100210	終極大爆炸 T	SKILL_DATA
 10100211	Centre Your Ki and do an aura explosion all over you	SKILL_DATA
 10104410	龜仙流暴風波	SKILL_DATA
 10104411	將聚集在短棒上的氣迴轉後，製造氣的暴風進行攻擊。被\n暴風攻擊的敵人短時間內會因為暈眩而無法移動。	SKILL_DATA
@@ -67751,7 +67752,7 @@ tblidx	wszName	Type
 14106641	魔斧連爆斬的加強版。 \n 用斧頭批開地面般將敵人剖半，\n 給予強勁的一擊。	SKILL_DATA
 14106650	究極超魔斧連爆斬	SKILL_DATA
 14106651	魔斧連爆斬的加強版。 \n 用斧頭批開地面般將敵人剖半，\n 給予強勁的一擊。	SKILL_DATA
-14106710	Ultimate Beam Cannon	SKILL_DATA
+14106710	終極光線加農砲	SKILL_DATA
 14106711	The enhanced version of Piccolo Move , originally created to Defeat Saiyans!!	SKILL_DATA
 14107410	魔斧爆力魔波	SKILL_DATA
 14107411	集氣後使出全力發射攻擊，使用斧頭以增加攻擊的銳利感\n。	SKILL_DATA
@@ -67943,7 +67944,7 @@ tblidx	wszName	Type
 15105721	將氣集中在雙手向下發射氣彈攻擊，透過卷軸可把敵人的\n傷害吸收部分為自己的體力。	SKILL_DATA
 15105730	究極魔卷旋光斬	SKILL_DATA
 15105731	將氣集中在雙手向下發射氣彈攻擊，透過卷軸可把敵人的\n傷害吸收部分為自己的體力。	SKILL_DATA
-15105810	Dragon Rage	SKILL_DATA
+15105810	龍之怒	SKILL_DATA
 15105811	Use your Dende powers and Summon Sheron from Dragon's Realm!	SKILL_DATA
 15105910	魔卷遠心波	SKILL_DATA
 15105911	 	SKILL_DATA
@@ -77784,14 +77785,14 @@ tblidx	wszName	Type
 10005	舞空術修練過程	HELP_DATA
 10006	舞空術新手教學任務	HELP_DATA
 10007	舞空術學習任務	HELP_DATA
-20001	Comment utiliser le détecteur	HELP_DATA
-20002	Affichage de Mini-carte 	HELP_DATA
-20003	Positionnement	HELP_DATA
-20004	Comment faire un groupe	HELP_DATA
-20005	Comment améliorer ses équipements	HELP_DATA
-20006	Utilisation des compétences avec RP	HELP_DATA
-20007	Comment défendre	HELP_DATA
-20008	Comment utiliser le Dash	HELP_DATA
+20001	如何使用探測器	HELP_DATA
+20002	小地圖顯示	HELP_DATA
+20003	位置定位	HELP_DATA
+20004	如何創建隊伍	HELP_DATA
+20005	如何強化裝備	HELP_DATA
+20006	角色扮演技能使用	HELP_DATA
+20007	如何防禦	HELP_DATA
+20008	如何使用衝刺	HELP_DATA
 1	請確認戰鬥目標對象情報	HELP_POPOHINT_DATA
 2	可使用膠囊盒存放各式各樣的道具	HELP_POPOHINT_DATA
 3	與NPC對話可使用商店或進行任務	HELP_POPOHINT_DATA
@@ -81955,11 +81956,11 @@ tblidx	wszName	Type
 2702	競技覆本是個需要與假想敵進行激烈戰爭的場所，建議您與等級51以上的玩家一起組隊攻打。\n 長時間進行遊戲有害健康。	DBO_TIP
 2801	滑鼠與鍵盤皆可以進行遊戲，可以自行設定熱鍵。\n長時間進行遊戲有害健康。	DBO_TIP
 2802	滑鼠與鍵盤皆可以進行遊戲，可以自行設定熱鍵。\n長時間進行遊戲有害健康。	DBO_TIP
-2901	Dans Dragon World Challenge (DWC), vous pourriez vous joindre avec les héros de l'histoire originale et suivre les histoires intéressantes avec eux. Un trop long temps de jeu pourrait nuire a votre santé.	DBO_TIP
-2902	Dragon World Challenge est situé au sein de la ville ou à l'Ouest de chaque course. Rappelez-vous de prendre des pauses régulières en jouant à Dragon Ball Online Global	DBO_TIP
-2903	Le défi du Dragon World Challenge se compose d'une variété de scénarios, un scénario se compose de deux ou plusieurs missions. Rappelez-vous de prendre des pauses régulières en jouant à Dragon Ball Online Global	DBO_TIP
-2904	Dans Dragon World Challenge, vous pouvez réaliser la carte des héros de la mission accomplie. Certaines des cartes de héros pourraient également fournir le titre en guise de récompense. Un trop long temps de jeu pourrait nuire a votre santé.	DBO_TIP
-2905	Afin d'obtenir une carte des héros spécifique dans DWC, vous devez remplir cette mission, encore et encore. Rappelez-vous de prendre des pauses régulières en jouant à Dragon Ball Online Global	DBO_TIP
+2901	在龍珠世界挑戰賽(DWC)中，您可與原作英雄組隊，共同體驗精彩劇情。請注意遊戲時間過長可能影響健康。	DBO_TIP
+2902	龍珠世界挑戰賽位於各主城內或種族西區。遊玩《七龍珠Online全球版》時請記得定期休息。	DBO_TIP
+2903	龍珠世界挑戰賽包含多樣劇情關卡，每個關卡由2個以上任務組成。遊玩《七龍珠Online全球版》時請記得定期休息。	DBO_TIP
+2904	完成龍珠世界挑戰賽任務可獲得英雄卡，部分英雄卡更會贈送稱號獎勵。請注意遊戲時間過長可能影響健康。	DBO_TIP
+2905	要獲得特定DWC英雄卡，需反覆完成對應任務。遊玩《七龍珠Online全球版》時請記得定期休息。	DBO_TIP
 10	單身孫悟空	DWC_DATA
 11	精神抖擻的單身孫悟空	DWC_DATA
 12	勇敢的單身孫悟空	DWC_DATA
@@ -82025,31 +82026,31 @@ tblidx	wszName	Type
 2120031	[br] [font size = 10 color= ffffff] Une seule ligne[/font][br] [font size = 10 color= ffffff] Double Lignes[/font][br] [font size = 11 color= ffffff] Triple Lignes[/font][br] [br] [font si = 10 color= ffdb47] Pile de vos lignes[/font][br] [font size = 10 color= ffdb47] Pile de cinq lignes[/font][br] [br]	DWC_DATA
 1	新手冒險家	CHAR_TITLE_DATA
 2	新手採集家	CHAR_TITLE_DATA
-3	飢餓戰士	CHAR_TITLE_DATA
-4	膽小戰士	CHAR_TITLE_DATA
-5	無腦戰士	CHAR_TITLE_DATA
-6	發現隱藏的力量	CHAR_TITLE_DATA
-7	恐怖的大魔王	CHAR_TITLE_DATA
-8	啤酒肚戰士	CHAR_TITLE_DATA
-9	速度戰士	CHAR_TITLE_DATA
-10	肥胖戰士	CHAR_TITLE_DATA
-11	King of the Dark Warriors	CHAR_TITLE_DATA
-12	DarkRealm Instinct	CHAR_TITLE_DATA
-13	New Elite Staff 	CHAR_TITLE_DATA
-46	Hope Explorer	CHAR_TITLE_DATA
-47	Hope Adventurer	CHAR_TITLE_DATA
-48	Hope Saviour	CHAR_TITLE_DATA
-49	Hope Warrior	CHAR_TITLE_DATA
-51	Legendary Super Saiyan	CHAR_TITLE_DATA
-52	Pure Evil	CHAR_TITLE_DATA
-53	Inherited Fury	CHAR_TITLE_DATA
-54	Hope Instint	CHAR_TITLE_DATA
-55	God Instint	CHAR_TITLE_DATA
-56	Green Instint	CHAR_TITLE_DATA
-57	Blue Instint	CHAR_TITLE_DATA
-58	Rose Instint	CHAR_TITLE_DATA
-59	Galactic Hope	CHAR_TITLE_DATA
-60	Red Fury	CHAR_TITLE_DATA
+3	飢霸	CHAR_TITLE_DATA
+4	膽小狗英雄	CHAR_TITLE_DATA
+5	無頭騎士	CHAR_TITLE_DATA
+6	潛力覺醒	CHAR_TITLE_DATA
+7	天下怖魔	CHAR_TITLE_DATA
+8	古拉格斯	CHAR_TITLE_DATA
+9	速攻	CHAR_TITLE_DATA
+10	酒池肉林	CHAR_TITLE_DATA
+11	暗黑界之王	CHAR_TITLE_DATA
+12	暗黑領域	CHAR_TITLE_DATA
+13	新銳精英	CHAR_TITLE_DATA
+46	希望探索者	CHAR_TITLE_DATA
+47	希望冒險家	CHAR_TITLE_DATA
+48	希望救世主	CHAR_TITLE_DATA
+49	希望戰士	CHAR_TITLE_DATA
+51	傳說超級賽亞人	CHAR_TITLE_DATA
+52	純粹邪惡	CHAR_TITLE_DATA
+53	傳承之怒	CHAR_TITLE_DATA
+54	希望本能	CHAR_TITLE_DATA
+55	神之本能	CHAR_TITLE_DATA
+56	綠色本能	CHAR_TITLE_DATA
+57	藍色本能	CHAR_TITLE_DATA
+58	桃紅本能	CHAR_TITLE_DATA
+59	銀河希望	CHAR_TITLE_DATA
+60	赤紅狂怒	CHAR_TITLE_DATA
 201	花梨的信任	CHAR_TITLE_DATA
 202	花梨的集中	CHAR_TITLE_DATA
 203	花梨的光榮	CHAR_TITLE_DATA
@@ -82066,33 +82067,33 @@ tblidx	wszName	Type
 214	熱情的皇室	CHAR_TITLE_DATA
 215	熱情的太陽	CHAR_TITLE_DATA
 216	熱情的不朽	CHAR_TITLE_DATA
-217	Furious Dragon	CHAR_TITLE_DATA
-218	Focused Dragon	CHAR_TITLE_DATA
-219	Dragon Fury	CHAR_TITLE_DATA
-220	Dragon Curse	CHAR_TITLE_DATA
-221	Blitz Fighter	CHAR_TITLE_DATA
-222	Blitz Speed	CHAR_TITLE_DATA
-223	Cyclone Katana	CHAR_TITLE_DATA
-224	Shining Twister	CHAR_TITLE_DATA
-225	Dominant Visionary	CHAR_TITLE_DATA
-226	Dominant Optimist	CHAR_TITLE_DATA
-227	Saint Inferno	CHAR_TITLE_DATA
-228	Saint Spirit	CHAR_TITLE_DATA
-229	Pleasant Heart	CHAR_TITLE_DATA
-230	Noble Soul	CHAR_TITLE_DATA
-231	Glowing Moon	CHAR_TITLE_DATA
-232	Eternal Soul	CHAR_TITLE_DATA
+217	狂怒之龍	CHAR_TITLE_DATA
+218	凝神龍魂	CHAR_TITLE_DATA
+219	龍之怒焰	CHAR_TITLE_DATA
+220	龍神詛咒	CHAR_TITLE_DATA
+221	神風戰士	CHAR_TITLE_DATA
+222	疾風迅雷	CHAR_TITLE_DATA
+223	旋風太刀	CHAR_TITLE_DATA
+224	閃耀龍捲	CHAR_TITLE_DATA
+225	霸權遠見者	CHAR_TITLE_DATA
+226	霸權樂觀者	CHAR_TITLE_DATA
+227	聖焰	CHAR_TITLE_DATA
+228	聖靈	CHAR_TITLE_DATA
+229	悅心者	CHAR_TITLE_DATA
+230	高貴之魂	CHAR_TITLE_DATA
+231	輝月	CHAR_TITLE_DATA
+232	永恆之魂	CHAR_TITLE_DATA
 300	小林创立者	CHAR_TITLE_DATA
 301	孙悟空创立者	CHAR_TITLE_DATA
 302	超级赛亚人创立者	CHAR_TITLE_DATA
 303	游戏管理员	CHAR_TITLE_DATA
-308	WMAT Duo Champion	CHAR_TITLE_DATA
-309	Amazing Partner	CHAR_TITLE_DATA
-310	Duo Effort	CHAR_TITLE_DATA
-311	Developer	CHAR_TITLE_DATA
-312	WMAT Tag Champion	CHAR_TITLE_DATA
-313	Perfect Friendship	CHAR_TITLE_DATA
-314	Ultimate Combo	CHAR_TITLE_DATA
+308	天下第一武道會雙人冠軍	CHAR_TITLE_DATA
+309	驚奇搭檔	CHAR_TITLE_DATA
+310	同心協力	CHAR_TITLE_DATA
+311	開發者	CHAR_TITLE_DATA
+312	天下第一武道會團隊冠軍	CHAR_TITLE_DATA
+313	完美友誼	CHAR_TITLE_DATA
+314	終極連攜	CHAR_TITLE_DATA
 482	賭神	CHAR_TITLE_DATA
 483	幸運女人	CHAR_TITLE_DATA
 484	抽獎之神	CHAR_TITLE_DATA
@@ -82124,16 +82125,16 @@ tblidx	wszName	Type
 510	天下第一武術團隊	CHAR_TITLE_DATA
 511	絕佳拍檔	CHAR_TITLE_DATA
 512	哼哼哈兮	CHAR_TITLE_DATA
-602	FireStorm Awakening	CHAR_TITLE_DATA
-603	Lightning Storm Awakening	CHAR_TITLE_DATA
-604	VenomStorm Awakening	CHAR_TITLE_DATA
-605	Screech	CHAR_TITLE_DATA
-606	Screech	CHAR_TITLE_DATA
-607	Screech	CHAR_TITLE_DATA
-608	Screech	CHAR_TITLE_DATA
-609	Zero Member	CHAR_TITLE_DATA
-612	King of Money	CHAR_TITLE_DATA
-613	Beater	CHAR_TITLE_DATA
+602	烈焰風暴覺醒	CHAR_TITLE_DATA
+603	閃電風暴覺醒	CHAR_TITLE_DATA
+604	劇毒風暴覺醒	CHAR_TITLE_DATA
+605	尖嘯	CHAR_TITLE_DATA
+606	尖嘯	CHAR_TITLE_DATA
+607	尖嘯	CHAR_TITLE_DATA
+608	尖嘯	CHAR_TITLE_DATA
+609	Zero成員	CHAR_TITLE_DATA
+612	世界首富	CHAR_TITLE_DATA
+613	擊破者	CHAR_TITLE_DATA
 1000	UD 整體 / BID	PARTY_DUNGEON_DATA
 1001	UD1 紅領巾軍廢墟的地下基地	PARTY_DUNGEON_DATA
 1002	UD2 紅褲軍機器人研究所	PARTY_DUNGEON_DATA
@@ -82178,8 +82179,8 @@ tblidx	wszName	Type
 4001	CC Battle 競技場	PARTY_DUNGEON_DATA
 4002	紅領巾軍訓練場	PARTY_DUNGEON_DATA
 4003	惡魔的下水道	PARTY_DUNGEON_DATA
-5000	Boss script de test	PARTY_DUNGEON_DATA
-5001	Boss script de test 2	PARTY_DUNGEON_DATA
-6000	Donjon de Ciel No.1	PARTY_DUNGEON_DATA
-6001	Donjon de Ciel No.2	PARTY_DUNGEON_DATA
-6002	La forteresse de Rigool touchante	PARTY_DUNGEON_DATA
+5000	測試用首領腳本	PARTY_DUNGEON_DATA
+5001	測試用首領腳本2	PARTY_DUNGEON_DATA
+6000	天空迷宮1號	PARTY_DUNGEON_DATA
+6001	天空迷宮2號	PARTY_DUNGEON_DATA
+6002	悸動的里古爾要塞	PARTY_DUNGEON_DATA
