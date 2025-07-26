@@ -39428,8 +39428,8 @@ tblidx	wszName	Type
 29011381	这是颁发给孙悟空创立者收拾创始人！	ITEM_DATA
 29011390	超级赛亚人创立者配备	ITEM_DATA
 29011391	这是颁发给超级赛亚人创立者收拾创始人！	ITEM_DATA
-29011400	Super Colosseum Dogi	ITEM_DATA
-29011401	This outfit was used by the strong, mighty and bulky warriors during their \nfights in King Bacterian Colosseum.	ITEM_DATA
+29011400	超級競技場道服	ITEM_DATA
+29011401	此服裝由強壯魁梧的戰士們在細菌國王競技場戰鬥時所穿著。	ITEM_DATA
 29011410	龟仙流培训配备 (黑色)	ITEM_DATA
 29011411	非常有弹性的运动服，可以有效训练	ITEM_DATA
 29011420	吟游队配备	ITEM_DATA
@@ -39458,18 +39458,18 @@ tblidx	wszName	Type
 29011531	弗列萨的第二种形式的身体的模仿，你把感受邪恶暴君的权力！	ITEM_DATA
 29011540	弗列萨的配备（普通的）	ITEM_DATA
 29011541	弗列萨的正常的身体的模仿，你把感受邪恶暴君的权力！	ITEM_DATA
-29011550	南装备	ITEM_DATA
+29011550	南方服飾	ITEM_DATA
 29011551	装备与南方原装非常相似	ITEM_DATA
 29011560	日常魔人的配备	ITEM_DATA
 29011561	以魔人标志设计的服装，以纪念魔人赛。	ITEM_DATA
-29011570	CC-喷气包配备	ITEM_DATA
+29011570	CC-噴射背包	ITEM_DATA
 29011571	穿着这件配备会让你觉得你可以像火箭一样快。	ITEM_DATA
 29011580	新的产品	ITEM_DATA
 29011581	等待说明...	ITEM_DATA
-29011590	大惊小怪咋马谡配备	ITEM_DATA
-29011591	与黑悟空融合后曾经被合并的咋马谡穿着。	ITEM_DATA
-29011600	小孙悟饭配备	ITEM_DATA
-29011601	当他用短笛训练时穿着它	ITEM_DATA
+29011590	融合札馬斯服飾	ITEM_DATA
+29011591	与黑悟空融合后曾经被合并的札馬斯穿着。	ITEM_DATA
+29011600	小孫悟飯配备	ITEM_DATA
+29011601	與比克訓練時穿著它	ITEM_DATA
 29011610	商人套装（蓝色）	ITEM_DATA
 29011611	高调商人穿的西服。	ITEM_DATA
 29011620	商人套装（红色）	ITEM_DATA
@@ -39490,9 +39490,9 @@ tblidx	wszName	Type
 29011701	Chooseable restructuring the states from your item.\nWork on Weapon and Gear.	ITEM_DATA
 29011710	特殊屬性盒 100%	ITEM_DATA
 29011711	Chooseable restructuring the states from your item.\nWork on Weapon and Gear.	ITEM_DATA
-29012030	CC Staff Outfit (Yellow)	ITEM_DATA
-29012040	CC Staff Outfit (Green)	ITEM_DATA
-29012050	CC Space Outfit	ITEM_DATA
+29012030	膠囊公司員工服裝（黃色）	ITEM_DATA
+29012040	膠囊公司員工服裝（綠色）	ITEM_DATA
+29012050	膠囊公司太空服	ITEM_DATA
 29610010	雅荷石	ITEM_DATA
 29610011	遍布於雅荷地區的岩石。	ITEM_DATA
 29610020	沙石	ITEM_DATA
@@ -41507,42 +41507,42 @@ tblidx	wszName	Type
 60000701	戴著紅色圍巾的寵物貓。\n紅色的圍巾替牠加分!	ITEM_DATA
 60000710	飛行員烏兒	ITEM_DATA
 60000711	頭上戴著護目鏡的寵物貓。\n好像似曾相識，\n不知道要前往何處?	ITEM_DATA
-60000720	Cat Pet	ITEM_DATA
-60000721	A lovely cat pet!	ITEM_DATA
-60000730	Cat Pet	ITEM_DATA
-60000731	A lovely cat pet!	ITEM_DATA
-60000740	Cat Pet	ITEM_DATA
-60000741	A lovely cat pet!	ITEM_DATA
-60000750	Cat Pet	ITEM_DATA
-60000751	A lovely cat pet!	ITEM_DATA
-60000760	Ghost Pet	ITEM_DATA
-60000761	Spooky ghost pet~~	ITEM_DATA
-60000770	Ghost Pet	ITEM_DATA
-60000771	Spooky ghost pet~~	ITEM_DATA
-60000780	Ghost Pet	ITEM_DATA
-60000781	Spooky ghost pet~~	ITEM_DATA
-60000790	Ghost Pet	ITEM_DATA
-60000791	Spooky ghost pet~~	ITEM_DATA
-60000800	Broly Egg	ITEM_DATA
-60000801	Hatch the egg to reveal a strong saiyan pet!	ITEM_DATA
-60000810	Broly Pet (Normal)	ITEM_DATA
-60000811	Keep feeding it and it will transform into a super saiyan!	ITEM_DATA
-60000820	Broly Pet (Super Saiyan)	ITEM_DATA
-60000821	There is a level beyond super saiyan! Level him up to find out!	ITEM_DATA
-60000830	Broly Pet (Legendary Super Saiyan)	ITEM_DATA
-60000831	The ultimate form for a legendary saiyan!	ITEM_DATA
-60000840	Flexarot (Normal)	ITEM_DATA
-60000841	This is the normal stage of Flexarot the saiyan warrior!\nA special Thank You present from Team KnightZ!	ITEM_DATA
-60000850	Flexarot (Super Saiyan)	ITEM_DATA
-60000851	Flexarot finally awoken his super saiyan form. What's next?!\nA special Thank You present from Team KnightZ!	ITEM_DATA
-60000860	Flexarot (Super Saiyan God)	ITEM_DATA
-60000861	Flexarot is now a SSJ God!\nA special Thank You present from Team KnightZ!	ITEM_DATA
-60000870	Flexarot (Super Saiyan God Blue)	ITEM_DATA
-60000871	Flexarot has reached SSJ Blue!!!\nA special Thank You present from Team KnightZ!	ITEM_DATA
-60000880	Mr Popo Pet	ITEM_DATA
-60000881	So you maggots finally got your hands on a miniture me huh!	ITEM_DATA
-60000890	Babidi Pet	ITEM_DATA
-60000891	Made by KnightZ's team member: Kunay, Ryo, Takashi e Tobi	ITEM_DATA
+60000720	貓咪寵物	ITEM_DATA
+60000721	可愛的貓咪寵物！	ITEM_DATA
+60000730	貓咪寵物	ITEM_DATA
+60000731	可愛的貓咪寵物！	ITEM_DATA
+60000740	貓咪寵物	ITEM_DATA
+60000741	可愛的貓咪寵物！	ITEM_DATA
+60000750	貓咪寵物	ITEM_DATA
+60000751	可愛的貓咪寵物！	ITEM_DATA
+60000760	幽靈寵物	ITEM_DATA
+60000761	陰森幽靈寵物~~	ITEM_DATA
+60000770	幽靈寵物	ITEM_DATA
+60000771	陰森幽靈寵物~~	ITEM_DATA
+60000780	幽靈寵物	ITEM_DATA
+60000781	陰森幽靈寵物~~	ITEM_DATA
+60000790	幽靈寵物	ITEM_DATA
+60000791	陰森幽靈寵物~~	ITEM_DATA
+60000800	布羅利蛋	ITEM_DATA
+60000801	孵化後可獲得強大的賽亞人寵物！	ITEM_DATA
+60000810	布羅利寵物（普通形態）	ITEM_DATA
+60000811	持續餵養將進化成超級賽亞人！	ITEM_DATA
+60000820	布羅利寵物（超級賽亞人）	ITEM_DATA
+60000821	超級賽亞人之上還有更高境界！升級後揭曉！	ITEM_DATA
+60000830	布羅利寵物（傳說超級賽亞人）	ITEM_DATA
+60000831	傳說賽亞人的終極形態！	ITEM_DATA
+60000840	弗萊克薩洛特（普通形態）	ITEM_DATA
+60000841	賽亞戰士弗萊克薩洛特的初始階段！\nKnightZ團隊特別致謝禮物！	ITEM_DATA
+60000850	弗萊克薩洛特（超級賽亞人）	ITEM_DATA
+60000851	弗萊克薩洛特已覺醒超級賽亞人形態。接下來呢？！\nKnightZ團隊特別致謝禮物！	ITEM_DATA
+60000860	弗萊克薩洛特（超級賽亞神）	ITEM_DATA
+60000861	弗萊克薩洛特已成超級賽亞神！\nKnightZ團隊特別致謝禮物！	ITEM_DATA
+60000870	弗萊克薩洛特（超級賽亞神藍）	ITEM_DATA
+60000871	弗萊克薩洛特已達到超賽神藍境界！！！\nKnightZ團隊特別致謝禮物！	ITEM_DATA
+60000880	波波先生寵物	ITEM_DATA
+60000881	你們這些小蟲子終於得到迷你版的我了！	ITEM_DATA
+60000890	巴比迪寵物	ITEM_DATA
+60000891	由KnightZ團隊成員製作：Kunay、Ryo、Takashi和Tobi	ITEM_DATA
 60010010	[寵物食品]圓圓豌豆	ITEM_DATA
 60010011	並不像一般印象中的豌豆，形狀相當圓。	ITEM_DATA
 60010020	[寵物食品]大尺寸黑豆	ITEM_DATA
@@ -44403,8 +44403,8 @@ tblidx	wszName	Type
 111202181	強化防具道具的傳說券，可以百分之百成功強化至券上所\n標示的等級。但無法使用在已經強化過的武器上，以及存\n在著該道具只能使用一定期限的缺點。	ITEM_DATA
 111202190	強化保護石 U70	ITEM_DATA
 111202191	適用於等級70以下的裝備，\n即使出現破壞，裝備也不會消失，\n但強化等級會隨機降低\n【武器降低2~6級，防具降低2~4級】	ITEM_DATA
-111202195	White Stone U75	ITEM_DATA
-111202199	White Stone LVL 75	ITEM_DATA
+111202195	強化保護石 U75	ITEM_DATA
+111202199	強化保護石 LVL 75	ITEM_DATA
 111202200	EV 傳說套裝球	ITEM_DATA
 111202201	属性可以添加到你的配备。但也可能失败，并且不会应用统计信息。有20％的机会失败。	ITEM_DATA
 111202210	EV 稀有套裝球	ITEM_DATA
@@ -47388,112 +47388,112 @@ tblidx	wszName	Type
 990300081	...	ITEM_DATA
 990300090	EV CC Battle Dungeon Coupon (28F)	ITEM_DATA
 990300091	...	ITEM_DATA
-990300100	Kirito Sword	ITEM_DATA
-990300101	Dark Repulser used by Kirito	ITEM_DATA
-990300110	Stick of Ages	ITEM_DATA
-990300111	The most Powerfull ever	ITEM_DATA
-990300120	Angel Wand	ITEM_DATA
-990300121	A Wand inspired by Angel Staff!	ITEM_DATA
-990300130	Gunbai	ITEM_DATA
-990300131	Madara Weapon	ITEM_DATA
-990300180	Chocolate Bengal	ITEM_DATA
-990300181	A little Chocolate to make your Majin Happy.	ITEM_DATA
-990301020	Full Nugget	ITEM_DATA
-990301021	Get this by exchange a certain number of nuggets at the npc	ITEM_DATA
-990301030	Exchange Coin	ITEM_DATA
-990301031	A Coin That Can Be exchanged for Dogis at Bulma NPC	ITEM_DATA
-990301040	Completion Coin	ITEM_DATA
-990301041	This Coin is for completing a dungeon find an\n npc to exchange it for some rewards for your time	ITEM_DATA
-990400070	Invisible Dogi	ITEM_DATA
-990400071	Hide Your Dogi.	ITEM_DATA
-990400080	Invisible Backpack	ITEM_DATA
-990400090	Invisible Hat	ITEM_DATA
-990500010	Invisible Mask	ITEM_DATA
-990500020	Invisible Halo	ITEM_DATA
-991202191	A Mysterious Stone to Upgrade your Gear.	ITEM_DATA
-991600910	LVL 85 Weapon Upgrade.	ITEM_DATA
-991600911	A Mysterious Stone to Upgrade your Gear.	ITEM_DATA
-991600912	LVL 85 Weapon Upgrade 30x	ITEM_DATA
-991600920	LVL 85 Armor Upgrade.	ITEM_DATA
-991600921	A Mysterious Stone to Upgrade your Gear.	ITEM_DATA
-991600922	LVL 85 Armor Upgrade 30x	ITEM_DATA
-991600930	LVL 85 White Upgrade.	ITEM_DATA
-991600931	LVL 85 White Upgrade 30x	ITEM_DATA
-991701210	A Beatiful Aphrodite Suit.	ITEM_DATA
-991701213	Aphrodite Destruction GOD	ITEM_DATA
-999000280	EV Autopot LP (1.000.000)	ITEM_DATA
-999000281	If LP less than 30% recover 100%.\nCapacity 1.000,000.	ITEM_DATA
-999000310	EV Autopot EP (1.000.000)	ITEM_DATA
-999000311	If EP less than 30% recover 100%.\nCapacity 1.000,000.	ITEM_DATA
-999201400	Legendary Super Saiyan Martial	ITEM_DATA
+990300100	闡釋者	ITEM_DATA
+990300101	桐人使用的闡釋者	ITEM_DATA
+990300110	時光之杖	ITEM_DATA
+990300111	史上最強法杖	ITEM_DATA
+990300120	天使魔杖	ITEM_DATA
+990300121	靈感來自天使之杖的設計！	ITEM_DATA
+990300130	軍配團扇	ITEM_DATA
+990300131	宇智波斑的武器	ITEM_DATA
+990300180	巧克力班戟	ITEM_DATA
+990300181	讓您的魔人開心的甜蜜小點心。	ITEM_DATA
+990301020	完整金塊	ITEM_DATA
+990301021	向NPC兌換指定數量金塊可獲得	ITEM_DATA
+990301030	兌換幣	ITEM_DATA
+990301031	可向布瑪NPC兌換道服的代幣	ITEM_DATA
+990301040	完成幣	ITEM_DATA
+990301041	完成地城獲得的代幣，可找NPC兌換獎勵	ITEM_DATA
+990400070	隱形道服	ITEM_DATA
+990400071	隱藏您的道服外觀。	ITEM_DATA
+990400080	隱形背包	ITEM_DATA
+990400090	隱形帽子	ITEM_DATA
+990500010	隱形面具	ITEM_DATA
+990500020	隱形光環	ITEM_DATA
+991202191	用於升級裝備的神秘石頭	ITEM_DATA
+991600910	85級武器升級石	ITEM_DATA
+991600911	用於升級裝備的神秘石頭	ITEM_DATA
+991600912	85級武器升級石30個	ITEM_DATA
+991600920	85級防具升級石	ITEM_DATA
+991600921	用於升級裝備的神秘石頭	ITEM_DATA
+991600922	85級防具升級石30個	ITEM_DATA
+991600930	85級白色升級石	ITEM_DATA
+991600931	85級白色升級石30個	ITEM_DATA
+991701210	美麗的阿芙蘿黛套裝	ITEM_DATA
+991701213	破壞神阿芙蘿黛	ITEM_DATA
+999000280	自動恢復藥水LP(100萬)	ITEM_DATA
+999000281	當LP低於30%時恢復100%。\n容量1,000,000。	ITEM_DATA
+999000310	自動恢復藥水EP(100萬)	ITEM_DATA
+999000311	當EP低於30%時恢復100%。\n容量1,000,000。	ITEM_DATA
+999201400	傳說超級賽亞人武鬥家	ITEM_DATA
 999201401	...	ITEM_DATA
-999201402	Legendary Super Saiyan Spiritualist	ITEM_DATA
+999201402	傳說超級賽亞人靈術師	ITEM_DATA
 999201403	...	ITEM_DATA
-999201404	Ultra Ego Martial	ITEM_DATA
+999201404	超自我極意武鬥家	ITEM_DATA
 999201405	...	ITEM_DATA
-999201406	Ultra Ego Spiritualist	ITEM_DATA
+999201406	超自我極意靈術師	ITEM_DATA
 999201407	...	ITEM_DATA
-999201408	Migatte no Gokui Martial	ITEM_DATA
+999201408	自在極意功武鬥家	ITEM_DATA
 999201409	...	ITEM_DATA
-999201410	Kamicollo-Sama Dragon Clan	ITEM_DATA
+999201410	天神比克龍族	ITEM_DATA
 999201411	...	ITEM_DATA
-999201412	Saiyan Beast Martial	ITEM_DATA
+999201412	賽亞野獸武鬥家	ITEM_DATA
 999201413	...	ITEM_DATA
-999201414	Saiyan Beast Spiritualist	ITEM_DATA
+999201414	賽亞野獸靈術師	ITEM_DATA
 999201415	...	ITEM_DATA
-999201416	Super Saiyan Blue Evolution Martial	ITEM_DATA
+999201416	超級賽亞人藍進化武鬥家	ITEM_DATA
 999201417	...	ITEM_DATA
-999201418	Super Saiyan Blue Evolution Spiritualist	ITEM_DATA
+999201418	超級賽亞人藍進化靈術師	ITEM_DATA
 999201419	...	ITEM_DATA
-999201420	Super Saiyan Blue Spiritualist	ITEM_DATA
+999201420	超級賽亞人藍靈術師	ITEM_DATA
 999201421	...	ITEM_DATA
-999201422	Fake Super Saiyan Spiritualist	ITEM_DATA
+999201422	偽超級賽亞人靈術師	ITEM_DATA
 999201423	...	ITEM_DATA
-999201424	Unleashed Potential Mighty	ITEM_DATA
+999201424	潛能解放強者	ITEM_DATA
 999201425	...	ITEM_DATA
-999201426	Unleashed Potential Wonder	ITEM_DATA
+999201426	潛能解放奇才	ITEM_DATA
 999201427	...	ITEM_DATA
-999201428	Kamicollo-Sama Warrior	ITEM_DATA
+999201428	天神比克戰士	ITEM_DATA
 999201429	...	ITEM_DATA
-999201430	Super Saiyan 2 Martial	ITEM_DATA
+999201430	超級賽亞人2武鬥家	ITEM_DATA
 999201431	...	ITEM_DATA
-999201432	Super Saiyan 2 Spiritualist	ITEM_DATA
+999201432	超級賽亞人2靈術師	ITEM_DATA
 999201433	...	ITEM_DATA
-999201434	Super Saiyan Blue Martial	ITEM_DATA
+999201434	超級賽亞人藍武鬥家	ITEM_DATA
 999201435	...	ITEM_DATA
-999201436	Super Saiyan Blue Spiritualist	ITEM_DATA
+999201436	超級賽亞人藍靈術師	ITEM_DATA
 999201437	...	ITEM_DATA
-999201440	Warrior Mystic Namek	ITEM_DATA
+999201440	戰士型神秘那美克星人	ITEM_DATA
 999201441	...	ITEM_DATA
-999201450	Dragon Mystic Namek	ITEM_DATA
+999201450	龍族型神秘那美克星人	ITEM_DATA
 999201451	...	ITEM_DATA
-999201452	Super Saiyan 4 Spiritualist	ITEM_DATA
-999201460	Might Mystic Majin	ITEM_DATA
+999201452	超級賽亞人4靈術師	ITEM_DATA
+999201460	強者型神秘魔人	ITEM_DATA
 999201461	...	ITEM_DATA
-999201462	Super Saiyan 4 Martial	ITEM_DATA
-999201470	Wonder Mystic Majin	ITEM_DATA
+999201462	超級賽亞人4武鬥家	ITEM_DATA
+999201470	奇才型神秘魔人	ITEM_DATA
 999201471	...	ITEM_DATA
-999201481	Martial SSRose	ITEM_DATA
-999201482	A Skin with the same Stats as Blue.	ITEM_DATA
-999201483	Spiritualist SSRose	ITEM_DATA
-999701053	Whitebeard One Piece ^^	ITEM_DATA
-999701123	Whitebeard One Piece ^^	ITEM_DATA
-999701202	SSJ5 Dogi	ITEM_DATA
-999701203	SSJ5 Dogi Limited	ITEM_DATA
-999701205	SSJ5 Hair Limited	ITEM_DATA
-999701218	SSJ5 Hair	ITEM_DATA
-999900001	A hidden power that can be acquired after fighting Majin Boo	ITEM_DATA
-999990001	A hidden power that can be acquired as a Super Saiyan 3 Skin	ITEM_DATA
-1112023301	+15 Weapon Coupon Lv75 [3 Days]	ITEM_DATA
-1112023401	+15 Armor Coupon Lv75 [3 Days]	ITEM_DATA
-1112023491	+20 Armor Coupon Lv75 [1 Year]	ITEM_DATA
-1112023492	+20 Weapon Coupon Lv75 [1 Year]	ITEM_DATA
-1117046002	Papaya Warrior Hair (Human, Male)	ITEM_DATA
-2111000100	CC Battle Dungeon Coupon (24F)	ITEM_DATA
-2111000101	Grant you access to higher floors in CCBD.	ITEM_DATA
-2111000110	CC Battle Dungeon Coupon (25F)	ITEM_DATA
-2111000111	Grant you access to higher floors in CCBD.	ITEM_DATA
-99	Warehouse	MERCHANT_DATA
+999201481	武鬥家型超級賽亞人玫瑰	ITEM_DATA
+999201482	與超級賽亞人藍相同數值的外觀	ITEM_DATA
+999201483	靈術師型超級賽亞人玫瑰	ITEM_DATA
+999701053	白鬍子海賊王^^	ITEM_DATA
+999701123	白鬍子海賊王^^	ITEM_DATA
+999701202	超級賽亞人5道服	ITEM_DATA
+999701203	超級賽亞人5限定道服	ITEM_DATA
+999701205	超級賽亞人5限定髮型	ITEM_DATA
+999701218	超級賽亞人5髮型	ITEM_DATA
+999900001	與魔人普烏戰鬥後可獲得的潛在力量	ITEM_DATA
+999990001	作為超級賽亞人3外觀可獲得的潛在力量	ITEM_DATA
+1112023301	+15武器強化券 Lv75 [3日]	ITEM_DATA
+1112023401	+15防具強化券 Lv75 [3日]	ITEM_DATA
+1112023491	+20防具強化券 Lv75 [1年]	ITEM_DATA
+1112023492	+20武器強化券 Lv75 [1年]	ITEM_DATA
+1117046002	木瓜戰士髮型（人類，男性）	ITEM_DATA
+2111000100	膠囊公司戰鬥地城券(24F)	ITEM_DATA
+2111000101	可進入膠囊公司戰鬥地城更高樓層	ITEM_DATA
+2111000110	膠囊公司戰鬥地城券(25F)	ITEM_DATA
+2111000111	可進入膠囊公司戰鬥地城更高樓層	ITEM_DATA
+99	倉庫	MERCHANT_DATA
 101	膠囊	MERCHANT_DATA
 1001	恢復藥	MERCHANT_DATA
 1002	交通工具	MERCHANT_DATA
@@ -66645,7 +66645,7 @@ tblidx	wszName	Type
 7109541	將全身的氣集中在單手發射，為達爾的愛用招式。運氣時\n姿勢擺得越大越好。	SKILL_DATA
 7109550	究極大地爆斬	SKILL_DATA
 7109551	將全身的氣集中在單手發射，為比達最愛用招式。運氣時\n姿勢擺得越大越好。	SKILL_DATA
-7109610	Ultimate Ground Penetration	SKILL_DATA
+7109610	終極貫地擊	SKILL_DATA
 7109611	Concentrate all your ki inside your stick and Prenetrate\n the ground with maximum power!	SKILL_DATA
 7109710	旋轉射擊	SKILL_DATA
 7109711	 	SKILL_DATA
@@ -66675,10 +66675,10 @@ tblidx	wszName	Type
 7200231	只要有自己的同伴的地方都能夠去，亞德拉特星人的究極\n必殺技！	SKILL_DATA
 7200240	究極瞬間移動	SKILL_DATA
 7200241	只要有自己的同伴的地方都能夠去，亞德拉特星人的究極\n必殺技！	SKILL_DATA
-7200260	Critical Master	SKILL_DATA
-7200261	Centre Your mind and become one with the beast	SKILL_DATA
-7200270	Ultimate Critical Master	SKILL_DATA
-7200271	You have become one, let the beast take control	SKILL_DATA
+7200260	暴擊大師	SKILL_DATA
+7200261	集中精神，與野獸合為一體	SKILL_DATA
+7200270	終極暴擊大師	SKILL_DATA
+7200271	人獸合一，讓野獸接管一切	SKILL_DATA
 7200310	靈敏	SKILL_DATA
 7200311	用起棍子就好像自己的第三支手，更有技巧地迴避攻擊。	SKILL_DATA
 7200320	靈敏	SKILL_DATA
@@ -67581,8 +67581,8 @@ tblidx	wszName	Type
 13107931	魔爪深層牙的强化版。把爪子伸到地下造成對方腳下產生\n地震，透過地表引爆氣息。	SKILL_DATA
 13107940	究極超魔爪深層牙	SKILL_DATA
 13107941	魔爪深層牙的强化版。\n 把爪子伸到地下造成對方腳下產生\n 地震。\n 透過地表引爆氣息。	SKILL_DATA
-13108010	Ultimate Rock Slam	SKILL_DATA
-13108011	Pierce the ground with your claws and\n throw a part of it at your enemy!!	SKILL_DATA
+13108010	終極岩崩擊	SKILL_DATA
+13108011	以利爪貫穿地面，抓起岩塊猛擊敵人！	SKILL_DATA
 13109310	魔爪十字斬	SKILL_DATA
 13109311	將身體的氣集中到單手朝前方射出，產生的強力氣爆輕鬆\n地就可以把對方擊飛。	SKILL_DATA
 13109320	魔爪十字斬	SKILL_DATA
@@ -68601,7 +68601,7 @@ tblidx	wszName	Type
 18110841	就像開心的驢子一樣蹦蹦跳跳的！咚的一聲掉下來，周圍\n的敵人就會被衝擊全都給打落下去。	SKILL_DATA
 18110850	究極萬馬奔騰	SKILL_DATA
 18110851	就像開心的驢子一樣蹦蹦跳跳的！咚的一聲掉下來，周圍\n的敵人就會被衝擊全都給打落下去。	SKILL_DATA
-18110910	Ultimate BBQ	SKILL_DATA
+18110910	終極火烤	SKILL_DATA
 18110911	.	SKILL_DATA
 18200110	力量上升	SKILL_DATA
 18200111	喚醒天才魔人戰鬥能力，使其能夠熟練地使用氣合。	SKILL_DATA
@@ -68809,8 +68809,8 @@ tblidx	wszName	Type
 19110431	強化的恍惚節拍，跟著拍子，一、二、三~！音波發射的\n地方會的製造無情的攻擊，所以最好是朝著敵人發射比較\n好。	SKILL_DATA
 19110440	究極超迷幻節拍	SKILL_DATA
 19110441	強化的恍惚節拍，跟著拍子，一、二、三~！音波發射的\n地方會的製造無情的攻擊，所以最好是朝著敵人發射比較\n好。	SKILL_DATA
-19110470	Ultimate Homing Rage	SKILL_DATA
-19110471	Use all the rage built up inside you to gather\n energy and release it upon the enemy!!	SKILL_DATA
+19110470	終極追蹤怒氣	SKILL_DATA
+19110471	凝聚體內全部怒氣，釋放能量追擊敵人！	SKILL_DATA
 19110510	大爆走	SKILL_DATA
 19110511	魔人特有的憤怒表現方式~我 ‧生‧氣‧了！！將累積\n的憤怒情緒轉匯成巨大的能量後爆發。遭受此攻擊的所有\n人都會陷入憤怒的噩運中。	SKILL_DATA
 19110520	大爆走	SKILL_DATA
