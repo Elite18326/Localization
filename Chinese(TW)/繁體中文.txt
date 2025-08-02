@@ -4645,7 +4645,7 @@ tblidx	wszName	Type
 1500311	 [自由對練場無法使用]\n [無限副本無法使用]\n [CC競技副本無法使用]\n\n使陷入死亡狀態的同伴復活，狀態100%恢復。	ITEM_DATA
 1500320	加油隊伍波波糖	ITEM_DATA
 1500321	 [自由對練場無法使用]\n [無限副本無法使用]\n [CC競技副本無法使用]\n\n 使角色周邊30公尺之內死亡的同伴復活，使他們的心中再度燃起力量以及勇氣。	ITEM_DATA
-1510120	Super Saiyan Blue	ITEM_DATA
+1510120	超級賽亞人藍	ITEM_DATA
 1600010	武器強化石 U6	ITEM_DATA
 1600011	向強化大師進行武器強化時使用。'\n''\n'成功時武器將提升\n1個等級'\n'根據機率不同道具可能消失或無法提升等級。'\n''\n''\n'強化等級 1~6的武器時可用。	ITEM_DATA
 1600020	武器強化石 U11	ITEM_DATA
@@ -64956,8 +64956,8 @@ tblidx	wszName	Type
 306151	用氣彈使敵人漂浮後再進行連續攻擊，受到這攻擊的敵人\n甚麼動作也不能做。	SKILL_DATA
 520120	橙色那美克星人	SKILL_DATA
 520121	變身為橙色那美克星人，擁有毀滅性的瘋狂力量。\n在此形態下你的能量將大幅提升。	SKILL_DATA
-700970	超級賽亞神	SKILL_DATA
-700971	超級賽亞神是通過神龍獲得的強大變身，能顯著提升戰鬥能力。	SKILL_DATA
+700970	超級賽亞人之神	SKILL_DATA
+700971	超級賽亞人之神是通過神龍獲得的強大變身，能顯著提升戰鬥能力。	SKILL_DATA
 800970	超級賽亞人2	SKILL_DATA
 800971	超級賽亞人2是超級賽亞人的進化形態，提供更高層次的力量和能力。	SKILL_DATA
 800972	超級普烏	SKILL_DATA
@@ -65439,7 +65439,7 @@ tblidx	wszName	Type
 1304141	包含氣功彈、氣円斬和龜派氣功的綜合必殺技。任何敵人\n只要遇到這招也只能夾著尾巴落跑。	SKILL_DATA
 1304150	龍魂！！	SKILL_DATA
 1304151	包含氣功彈、氣円斬和龜派氣功的綜合必殺技。任何敵人\n只要遇到這招也只能夾著尾巴落跑。	SKILL_DATA
-1510120	Super Saiyan Blue	SKILL_DATA
+1510120	超級賽亞人藍	SKILL_DATA
 3100110	魔神腕	SKILL_DATA
 3100111	瞬間伸長自己的手臂，將敵人拉到自己附近。遭受魔神腕\n攻擊的人瞬間將會陷入昏迷狀態 ，大幅提升威脅程度。	SKILL_DATA
 3100120	魔神腕	SKILL_DATA
@@ -66841,8 +66841,8 @@ tblidx	wszName	Type
 8107651	時空巡守杜拉格斯擁有的技能，'\n'就跟招式一樣具有強大威力的氣功攻擊。	SKILL_DATA
 8107660	究極燃燒攻擊	SKILL_DATA
 8107661	時空巡守杜拉格斯擁有的技能，'\n'就跟招式一樣具有強大威力的氣功攻擊。	SKILL_DATA
-8107710	Divine Retribution	SKILL_DATA
-8107711	Use power of the gods to bring down this\nheavy blow and destroy the enemies around you.	SKILL_DATA
+8107710	神罰	SKILL_DATA
+8107711	使用神的力量來給予這沉重的一擊並摧毀你周圍的敵人。	SKILL_DATA
 8107810	閃光快刀	SKILL_DATA
 8107811	沒有招架的空隙，用迅雷不及掩耳的速度奪走性命。'\n'剛開始連被打都不知道，打到最後會越來越痛。	SKILL_DATA
 8107820	閃光快刀	SKILL_DATA
@@ -69053,7 +69053,7 @@ tblidx	wszName	Type
 20110941	用能量製造出巨大的太陽之後，砰！雖然攻擊時十分可怕\n，但只要一邊跳舞就會變成好可愛的攻擊。	SKILL_DATA
 20110950	究極熱情森巴	SKILL_DATA
 20110951	用能量製造出巨大的太陽之後，砰！雖然攻擊時十分可怕\n，但只要一邊跳舞就會變成好可愛的攻擊。	SKILL_DATA
-20110970	PlayFull Dance	SKILL_DATA
+20110970	盡情舞動	SKILL_DATA
 20110971	Dance infront of your enemies and stun them in place with your bad ass style!!	SKILL_DATA
 20111010	憂傷倫巴	SKILL_DATA
 20111011	戴著面具手舞足蹈的跳舞，聚集所有力量後一次爆發~！\n這個攻擊一定會嚇到週圍所有人。	SKILL_DATA
@@ -69262,10 +69262,10 @@ tblidx	wszName	Type
 20320321	戴上面具後讓大家看到人類極樂境界的必殺技！參加狂歡\n派對的人會被帥氣的舞所迷惑，然後傻傻地被能量彈擊中\n。	SKILL_DATA
 20320330	狂歡之餘！！	SKILL_DATA
 20320331	戴上面具後讓大家看到人類極樂境界的必殺技！參加狂歡\n派對的人會被帥氣的舞所迷惑，然後傻傻地被能量彈擊中\n。	SKILL_DATA
-101060300	Spirit Bomb!	SKILL_DATA
-101060301	A North Kaioh Tecnique.	SKILL_DATA
-101060302	Galick-Ho!	SKILL_DATA
-101060303	A powerfull Vegeta Tecnique.	SKILL_DATA
+101060300	元氣彈	SKILL_DATA
+101060301	北界王傳授的絕招!	SKILL_DATA
+101060302	加力克炮!	SKILL_DATA
+101060303	貝吉塔的強力絕招!	SKILL_DATA
 1	最大LP上升%d（持續）	SYSTEM_EFFECT
 2	最大EP上升%d（持續）	SYSTEM_EFFECT
 3	最大RP減少%d（持續）	SYSTEM_EFFECT
@@ -82054,7 +82054,7 @@ tblidx	wszName	Type
 201	花梨的信任	CHAR_TITLE_DATA
 202	花梨的集中	CHAR_TITLE_DATA
 203	花梨的光榮	CHAR_TITLE_DATA
-204	花梨的祝福	CHAR_TITLE_DATA
+204	龍之祝福	CHAR_TITLE_DATA
 205	風之攻擊	CHAR_TITLE_DATA
 206	風之速度	CHAR_TITLE_DATA
 207	風之劍身	CHAR_TITLE_DATA
@@ -82078,15 +82078,15 @@ tblidx	wszName	Type
 225	霸權遠見者	CHAR_TITLE_DATA
 226	霸權樂觀者	CHAR_TITLE_DATA
 227	聖焰	CHAR_TITLE_DATA
-228	聖靈	CHAR_TITLE_DATA
+228	無情鐵手	CHAR_TITLE_DATA
 229	悅心者	CHAR_TITLE_DATA
 230	高貴之魂	CHAR_TITLE_DATA
 231	輝月	CHAR_TITLE_DATA
 232	永恆之魂	CHAR_TITLE_DATA
-300	小林创立者	CHAR_TITLE_DATA
-301	孙悟空创立者	CHAR_TITLE_DATA
-302	超级赛亚人创立者	CHAR_TITLE_DATA
-303	游戏管理员	CHAR_TITLE_DATA
+300	克林創始人	CHAR_TITLE_DATA
+301	孫悟空創始人	CHAR_TITLE_DATA
+302	超級賽亞人創始人	CHAR_TITLE_DATA
+303	至高之人	CHAR_TITLE_DATA
 308	天下第一武道會雙人冠軍	CHAR_TITLE_DATA
 309	驚奇搭檔	CHAR_TITLE_DATA
 310	同心協力	CHAR_TITLE_DATA
@@ -82097,7 +82097,7 @@ tblidx	wszName	Type
 482	賭神	CHAR_TITLE_DATA
 483	幸運女人	CHAR_TITLE_DATA
 484	抽獎之神	CHAR_TITLE_DATA
-485	追趕時間的	CHAR_TITLE_DATA
+485	追趕時間	CHAR_TITLE_DATA
 486	不受惡黨歡迎	CHAR_TITLE_DATA
 487	米拉追擊者	CHAR_TITLE_DATA
 488	微妙本性	CHAR_TITLE_DATA
@@ -82105,10 +82105,10 @@ tblidx	wszName	Type
 490	緊咬不放	CHAR_TITLE_DATA
 491	暗黑魔界的懲罰者	CHAR_TITLE_DATA
 492	覺得很煩也還是會做的	CHAR_TITLE_DATA
-493	追求極限的	CHAR_TITLE_DATA
+493	追求極限	CHAR_TITLE_DATA
 494	懲罰侵略者的	CHAR_TITLE_DATA
 495	基里監視者	CHAR_TITLE_DATA
-496	死纏不放的	CHAR_TITLE_DATA
+496	死纏不放	CHAR_TITLE_DATA
 497	特南克斯的朋友	CHAR_TITLE_DATA
 498	宇宙無敵幸運兒	CHAR_TITLE_DATA
 499	 	CHAR_TITLE_DATA
@@ -82144,8 +82144,8 @@ tblidx	wszName	Type
 1006	UD6 巧克雷塔	PARTY_DUNGEON_DATA
 1007	努凱加藍德	PARTY_DUNGEON_DATA
 1008	細菌隊長的隱身處	PARTY_DUNGEON_DATA
-1009	遺棄的洞窟	PARTY_DUNGEON_DATA
-1010	岩窟王的海底洞窟	PARTY_DUNGEON_DATA
+1009	遺棄的洞窟(西魯)	PARTY_DUNGEON_DATA
+1010	機器章魚的海底洞窟	PARTY_DUNGEON_DATA
 2000	TMQ 整體	PARTY_DUNGEON_DATA
 2001	TMQ 1-1 垂掛於微笑農場的影子	PARTY_DUNGEON_DATA
 2002	TMQ 1-2 陰謀的前兆	PARTY_DUNGEON_DATA
