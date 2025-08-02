@@ -47468,10 +47468,10 @@ tblidx	wszName	Type
 999201450	龍族型神秘那美克星人	ITEM_DATA
 999201451	...	ITEM_DATA
 999201452	超級賽亞人4靈術師	ITEM_DATA
-999201460	強者型神秘魔人	ITEM_DATA
+999201460	大魔人 悟飯普屋魔人	ITEM_DATA
 999201461	...	ITEM_DATA
 999201462	超級賽亞人4武鬥家	ITEM_DATA
-999201470	奇才型神秘魔人	ITEM_DATA
+999201470	意魔人 悟飯普屋魔人	ITEM_DATA
 999201471	...	ITEM_DATA
 999201481	武道家超級賽亞人桃紅	ITEM_DATA
 999201482	與超級賽亞人藍相同數值的外觀	ITEM_DATA
@@ -55942,7 +55942,7 @@ tblidx	wszName	Type
 717621400	懶得做模型	MOB_DATA
 717621410	邪惡繃帶人	MOB_DATA
 717621420	小丑	MOB_DATA
-717621430	孫悟飯	MOB_DATA
+717621430	獨居老人	MOB_DATA
 717621440	神龍	MOB_DATA
 717621450	墮落的加特林仙人	MOB_DATA
 1	服飾商人	NPC_DATA
@@ -66257,7 +66257,7 @@ tblidx	wszName	Type
 5202411	從全身散發出氣體產生漂浮能力。雖然很胖不過飛起來倒\n沒有問題。	SKILL_DATA
 5202510	純粹魔人	SKILL_DATA
 5202511	結合遊戲和樂趣，將身體改造成戰鬥的型態。雖然可以變\n的很強不過有些技術會不能使用。	SKILL_DATA
-5202512	BuuHan	SKILL_DATA
+5202512	悟飯普屋	SKILL_DATA
 5202513	Transform into a Mystic Majin. A being of \ndestruction with insane power. \n Your energy will power up in this form. 	SKILL_DATA
 5202610	融合	SKILL_DATA
 5202611	 	SKILL_DATA
