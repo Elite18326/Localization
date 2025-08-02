@@ -43032,7 +43032,7 @@ tblidx	wszName	Type
 70040611	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
 70040660	時空超越券 (66層)	ITEM_DATA
 70040661	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
-70040710	時空超越券 (71層)	ITEM_DATA
+70040710	時空超越券 (19層)	ITEM_DATA
 70040711	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
 70040760	時空超越券 (76層)	ITEM_DATA
 70040761	可超越時間和空間，幫助移動到券上指定的位置。要說缺\n點的話就是位置已經指定好了。	ITEM_DATA
@@ -47374,19 +47374,19 @@ tblidx	wszName	Type
 990300011	為了賦予裝備能量的稀有寶石	ITEM_DATA
 990300020	Upgrade Exchange Nugget	ITEM_DATA
 990300021	A Stone with a format similiar to a nug \n that can be exchanged for stones at Vegeta NPC	ITEM_DATA
-990300030	EV CC Battle Dungeon Coupon (20F)	ITEM_DATA
+990300030	EV CCBD超越券 (20F)	ITEM_DATA
 990300031	...	ITEM_DATA
-990300040	EV CC Battle Dungeon Coupon (22F)	ITEM_DATA
+990300040	EV CCBD超越券 (22F)	ITEM_DATA
 990300041	...	ITEM_DATA
-990300050	EV CC Battle Dungeon Coupon (24F)	ITEM_DATA
+990300050	EV CCBD超越券 (24F)	ITEM_DATA
 990300051	...	ITEM_DATA
-990300060	EV CC Battle Dungeon Coupon (26F)	ITEM_DATA
+990300060	EV CCBD超越券 (26F)	ITEM_DATA
 990300061	...	ITEM_DATA
-990300070	EV CC Battle Dungeon Coupon (22F)	ITEM_DATA
+990300070	EV CCBD超越券 (22F)	ITEM_DATA
 990300071	...	ITEM_DATA
-990300080	EV CC Battle Dungeon Coupon (26F)	ITEM_DATA
+990300080	EV CCBD超越券 (26F)	ITEM_DATA
 990300081	...	ITEM_DATA
-990300090	EV CC Battle Dungeon Coupon (28F)	ITEM_DATA
+990300090	EV CCBD超越券 (28F)	ITEM_DATA
 990300091	...	ITEM_DATA
 990300100	闡釋者	ITEM_DATA
 990300101	桐人使用的闡釋者	ITEM_DATA
